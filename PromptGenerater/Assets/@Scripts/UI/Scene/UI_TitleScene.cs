@@ -16,8 +16,6 @@ public class UI_TitleScene : UI_Scene
         DisplayText
     }
 
-    public Text DisplayText;
-
     public override bool Init()
     {
         if(base.Init() == false)
@@ -26,10 +24,11 @@ public class UI_TitleScene : UI_Scene
         BindObjects(typeof(GameObjects));
         BindTexts(typeof(Texts));
 
+        //클릭시 씬 전환
         GetObject((int)GameObjects.StartImage).BindEvent((ent) =>
         {
             Debug.Log("ChangeScene");
-            Managers.Scene.LoadScene(EScene.GameScene);
+            Managers.Scene.LoadScene(EScene.PromptGenerateScene);
         });
 
         GetObject((int)GameObjects.StartImage).gameObject.SetActive(false);

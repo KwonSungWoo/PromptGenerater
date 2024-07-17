@@ -10,7 +10,7 @@ public static class Define
     {
         Unknown,
         TitleScene,
-        GameScene,
+        PromptGenerateScene,
     }
 
     public enum EUIEvent

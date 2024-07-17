@@ -10,6 +10,7 @@ public class UI_EventHandler : MonoBehaviour, IPointerClickHandler, IPointerDown
     public event Action<PointerEventData> OnPointerDownHandler = null;
     public event Action<PointerEventData> OnPointerUpHandler = null;
     public event Action<PointerEventData> OnDragHandler = null;
+    //public event Action<PointerEventData> On
 
     public void OnPointerClick(PointerEventData eventData)
     {
