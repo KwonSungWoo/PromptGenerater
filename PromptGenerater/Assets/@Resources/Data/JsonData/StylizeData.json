@@ -1,0 +1,124 @@
+{
+  "tables": [
+    {
+      "Number": 1,
+      "Name": "10",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 2,
+      "Name": "25",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 3,
+      "Name": "50",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 4,
+      "Name": "75",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 5,
+      "Name": "100",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 6,
+      "Name": "200",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 7,
+      "Name": "250",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 8,
+      "Name": "300",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 9,
+      "Name": "400",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 10,
+      "Name": "500",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 11,
+      "Name": "600",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 12,
+      "Name": "700",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 13,
+      "Name": "800",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 14,
+      "Name": "900",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    },
+    {
+      "Number": 15,
+      "Name": "1000",
+      "Favorites": 0,
+      "Dislike": 0,
+      "Appearances": 0,
+      "Used": 0
+    }
+  ]
+}

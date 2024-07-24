@@ -1,50 +1,36 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.IO;
+using Unity.VisualScripting;
 using UnityEngine;
-
 
 namespace Data
 {
     #region CreatureData
+
+
     [Serializable]
-    public class CreatureData
+    public class TableData
     {
-        public int DataId;
-        public string DescriptionTextID;
-        public string PrefabLabel;
-        public float ColliderOffsetX;
-        public float ColliderOffsetY;
-        public float ColliderRadius;
-        public float Mass;
-        public float MaxHp;
-        public float MaxHpBonus;
-        public float Atk;
-        public float AtkRange;
-        public float AtkBonus;
-        public float Def;
-        public float MoveSpeed;
-        public float TotalExp;
-        public float HpRate;
-        public float AtkRate;
-        public float DefRate;
-        public float MoveSpeedRate;
-        public string SkeletonDataID;
-        public string AnimatorName;
-        public List<int> SkillIdList = new List<int>();
-        public int DropItemId;
+        public int Number;
+        public string Name;
+        public int Favorites;
+        public int Dislike;
+        public int Appearances;
+        public int Used;
     }
 
     [Serializable]
-    public class CreatureDataLoader : ILoader<int, CreatureData>
+    public class TableDataLoader : ILoader<int, TableData>
     {
-        public List<CreatureData> creatures = new List<CreatureData>();
+        public List<TableData> tables = new List<TableData>();
 
-        public Dictionary<int, CreatureData> MakeDict()
+        public Dictionary<int, TableData> MakeDict()
         {
-            Dictionary<int, CreatureData> dict = new Dictionary<int, CreatureData>();
-            foreach (CreatureData creature in creatures)
-                dict.Add(creature.DataId, creature);
+            Dictionary<int, TableData> dict = new Dictionary<int, TableData>();
+            foreach (TableData table in tables)
+                dict.Add(table.Number, table);
             return dict;
         }
     }

@@ -11,13 +11,19 @@ public interface ILoader<key, value>
 public class DataManager
 {
 
-    public Dictionary<int, Data.CreatureData> CreatureDic { get; private set; } = new Dictionary<int, Data.CreatureData>();
-    public Dictionary<int, Data.EnvData> EnvDic { get; private set; } = new Dictionary<int, Data.EnvData>();
+    public Dictionary<int, Data.TableData> AnimalDic { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> RatioDic { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> StylizeDic { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> VersionDic { get; private set; } = new Dictionary<int, Data.TableData>();
+    //public Dictionary<int, Data.EnvData> EnvDic { get; private set; } = new Dictionary<int, Data.EnvData>();
 
     public void Init()
     {
-        CreatureDic = LoadJson<Data.CreatureDataLoader, int, Data.CreatureData>("CreatureData").MakeDict();
-        EnvDic = LoadJson<Data.EnvDataLoader, int, Data.EnvData>("EnvData").MakeDict();
+        AnimalDic = LoadJson<Data.TableDataLoader, int, Data.TableData>("AnimalData").MakeDict();
+        RatioDic = LoadJson<Data.TableDataLoader, int, Data.TableData>("RatioData").MakeDict();
+        StylizeDic = LoadJson<Data.TableDataLoader, int, Data.TableData>("StylizeData").MakeDict();
+        VersionDic = LoadJson<Data.TableDataLoader, int, Data.TableData>("VersionData").MakeDict();
+        //EnvDic = LoadJson<Data.EnvDataLoader, int, Data.EnvData>("EnvData").MakeDict();
     }
 
     private Loader LoadJson<Loader, Key, Value>(string path) where Loader : ILoader<Key, Value>
