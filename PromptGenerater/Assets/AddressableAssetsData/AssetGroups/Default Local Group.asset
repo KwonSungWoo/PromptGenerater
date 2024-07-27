@@ -16,43 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: e7c20d1ac976c574baa2daccb0205d8c
-  m_SerializeEntries:
-  - m_GUID: 55d9c6e26f09fa045b355371e6e88adb
-    m_Address: UI_TitleScene
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4fcbc999d5de9194da7a8772c3ff349d
-    m_Address: UI_PromptGeneratorScene
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d2b7d4487037ff9438048b211866d0cc
-    m_Address: AnimalData
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 391fdda624072364580f39132aff3047
-    m_Address: RatioData
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 219f0c7725ed53044807ce8946ed8e4c
-    m_Address: StylizeData
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5305d65a2c223d848b4eb6bc16a4bd4a
-    m_Address: VersionData
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
-    FlaggedDuringContentUpdateRestriction: 0
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f24fb20c6430a204494d654a4cd215ea, type: 2}
   m_SchemaSet:

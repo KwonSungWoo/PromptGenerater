@@ -39,8 +39,7 @@ public class UI_Base : InitBase
     protected void BindTexts(Type type) { Bind<TMP_Text>(type); }
     protected void BindButtons(Type type) { Bind<Button>(type); }
     protected void BindToggles(Type type) { Bind<Toggle>(type); }
-    protected void BindDropdown(Type type) { Bind<TMP_Dropdown>(type); }
-    protected void BindDropdownEX(Type type) { Bind<TMP_DropdownEX>(type); }
+    protected void BindDropdowns(Type type) { Bind<TMP_Dropdown>(type); }
 
     protected T Get<T>(int idx) where T : UnityEngine.Object
     {
@@ -57,7 +56,6 @@ public class UI_Base : InitBase
     protected Image GetImage(int idx) { return Get<Image>(idx); }
     protected Toggle GetToggle(int idx) { return Get<Toggle>(idx); }
     protected TMP_Dropdown GetTMP_Dropdown(int idx) { return Get<TMP_Dropdown>(idx); }
-    protected TMP_DropdownEX GetTMP_DropdownEX(int idx) { return Get<TMP_DropdownEX>(idx); }
 
     public static void BindEvent(GameObject go, Action<PointerEventData> action = null, Define.EUIEvent type = Define.EUIEvent.Click)
     {

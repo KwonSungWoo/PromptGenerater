@@ -8,12 +8,12 @@ public class UI_TitleScene : UI_Scene
 {
     enum GameObjects
     {
-        StartImage
+        Image_Start
     }
 
     enum Texts
     {
-        DisplayText
+        Text_Display
     }
 
     public override bool Init()
@@ -25,14 +25,14 @@ public class UI_TitleScene : UI_Scene
         BindTexts(typeof(Texts));
 
         //클릭시 씬 전환
-        GetObject((int)GameObjects.StartImage).BindEvent((ent) =>
+        GetObject((int)GameObjects.Image_Start).BindEvent((ent) =>
         {
             Debug.Log("ChangeScene");
             Managers.Scene.LoadScene(EScene.PromptGeneratorScene);
         });
 
-        GetObject((int)GameObjects.StartImage).gameObject.SetActive(false);
-        GetText((int)Texts.DisplayText).text = $" ";
+        GetObject((int)GameObjects.Image_Start).gameObject.SetActive(false);
+        GetText((int)Texts.Text_Display).text = $" ";
 
         StartLoadAssects();
 
@@ -49,8 +49,8 @@ public class UI_TitleScene : UI_Scene
             {
                 Managers.Data.Init();
 
-                GetObject((int)GameObjects.StartImage).gameObject.SetActive(true);
-                GetText((int)(Texts.DisplayText)).text = "Touch to Start";
+                GetObject((int)GameObjects.Image_Start).gameObject.SetActive(true);
+                GetText((int)(Texts.Text_Display)).text = "Touch to Start";
             }
         });
     }

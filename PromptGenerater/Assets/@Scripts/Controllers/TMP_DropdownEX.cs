@@ -7,6 +7,7 @@ using UnityEngine.UI;
 public class TMP_DropdownEX : TMP_Dropdown
 {
     public Data.TableData TableData {  get; private set; }
+    private List<string> data;
 
     #region Stats
     public int DataNumber { get; set; }
@@ -20,28 +21,33 @@ public class TMP_DropdownEX : TMP_Dropdown
     }
 
 
-    public void initDropdown(Dictionary<int, Data.TableData> dict, int Default)
+    public void initDropdown(TMP_DropdownEX dropdown, Dictionary<int, Data.TableData> dict, int Default)
     {
-        this.options.Clear();
+        dropdown.options.Clear();
 
-        List<TMP_DropdownEX.OptionData> optionList = new List<TMP_DropdownEX.OptionData>();
-
-        string[] arrayClass = new string[dict.Count];
         for (int i = 0; i < dict.Count; i++)
         {
             dict.TryGetValue(i, out Data.TableData value);
-            arrayClass.SetValue(value, i);
+            data.Add(value.Name);
         }
-        
 
-        foreach ( string srt in arrayClass)
+        foreach (string str in data)
         {
-            optionList.Add(new TMP_DropdownEX.OptionData(srt));
+            dropdown.options.Add(new TMP_DropdownEX.OptionData(str));
         }
 
-        this.AddOptions(optionList);
 
-        this.value = Default;
+        //List<TMP_DropdownEX.OptionData> optionList = new List<TMP_DropdownEX.OptionData>();
+        //
+        //
+        //foreach ( string srt in arrayClass)
+        //{
+        //    optionList.Add(new TMP_DropdownEX.OptionData(srt));
+        //}
+        //
+        //dropdown.AddOptions(optionList);
+
+        dropdown.value = Default;
 
         this.RefreshShownValue();
     }

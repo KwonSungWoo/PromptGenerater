@@ -23,6 +23,7 @@ public class Managers : MonoBehaviour
     private SceneManagerEX  _scene      = new SceneManagerEX();
     private SoundManager    _sound      = new SoundManager();
     private UIManager       _ui         = new UIManager();
+    private UIDataManager   _uiData     = new UIDataManager();
 
     public static DataManager      Data        { get { return instance?._data    ; } }
     public static PoolManager      Pool        { get { return instance?._pool    ; } }
@@ -30,6 +31,7 @@ public class Managers : MonoBehaviour
     public static SceneManagerEX   Scene       { get { return instance?._scene   ; } }
     public static SoundManager     Sound       { get { return instance?._sound   ; } }
     public static UIManager        UI          { get { return instance?._ui      ; } }
+    public static UIDataManager    UIData      { get { return instance?._uiData  ; } }
     #endregion
 
 

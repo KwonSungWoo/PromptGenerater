@@ -13,8 +13,8 @@ public class UI_PromptGeneratorScene : UI_Scene
 
     enum Texts
     {
-        Title,
-        GeneratorVersion
+        Text_Title,
+        Text_GeneratorVersion
     }
 
     public override bool Init()
@@ -24,6 +24,8 @@ public class UI_PromptGeneratorScene : UI_Scene
 
         BindObjects(typeof(GameObjects));
         BindTexts(typeof(Texts));
+
+        Managers.UIData.Init();
 
         //TODO
 

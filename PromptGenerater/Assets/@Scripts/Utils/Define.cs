@@ -76,7 +76,7 @@ public static class Define
 
 public static class DefaultSetting
 {
-    public const int RATIO = 0;
-    public const int STYLIZE = 0;
-    public const int VERSTION = 0;
+    public const int RATIO = 2;
+    public const int STYLIZE = 4;
+    public const int VERSTION = 1;
 }

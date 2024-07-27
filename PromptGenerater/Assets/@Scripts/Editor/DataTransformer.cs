@@ -15,8 +15,12 @@ public class DataTransformer : EditorWindow
 #if UNITY_EDITOR
 	[MenuItem("Tools/ParseExcel %#K")]
 	public static void ParseExcelDataToJson()
-	{
-		ParseExcelDataToJson<TableDataLoader, TableData>("Animal");
+    {
+        //ParseExcelDataToJson<TableDataLoader, TableData>("[Tables]");
+        ParseExcelDataToJson<TableDataLoader, TableData>("Animal");
+        ParseExcelDataToJson<TableDataLoader, TableData>("ConceptArtBook");
+        ParseExcelDataToJson<TableDataLoader, TableData>("MarinLife");
+        ParseExcelDataToJson<TableDataLoader, TableData>("PaintArtist");
         ParseExcelDataToJson<TableDataLoader, TableData>("Ratio");
         ParseExcelDataToJson<TableDataLoader, TableData>("Stylize");
         ParseExcelDataToJson<TableDataLoader, TableData>("Version");

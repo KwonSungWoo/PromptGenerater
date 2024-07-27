@@ -953,7 +953,7 @@ GameObject:
   - component: {fileID: 56779233}
   - component: {fileID: 56779232}
   m_Layer: 5
-  m_Name: Dropdown_AttributeOfTable_01
+  m_Name: Dropdown_AttributeOfTable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1167,7 +1167,7 @@ GameObject:
   - component: {fileID: 69815216}
   - component: {fileID: 69815215}
   m_Layer: 5
-  m_Name: Button_Lock_03
+  m_Name: Button_Lock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1288,7 +1288,7 @@ GameObject:
   - component: {fileID: 70569959}
   - component: {fileID: 70569958}
   m_Layer: 5
-  m_Name: Button_Lock_08
+  m_Name: Button_Lock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2578,7 +2578,7 @@ GameObject:
   - component: {fileID: 130245028}
   - component: {fileID: 130245027}
   m_Layer: 5
-  m_Name: Button_Like_08
+  m_Name: Button_Like
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2699,7 +2699,7 @@ GameObject:
   - component: {fileID: 146192774}
   - component: {fileID: 146192773}
   m_Layer: 5
-  m_Name: Dropdown_AttributeOfTable_02
+  m_Name: Dropdown_AttributeOfTable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3479,7 +3479,7 @@ GameObject:
   - component: {fileID: 182225944}
   - component: {fileID: 182225943}
   m_Layer: 5
-  m_Name: Dropdown_AttributeOfTable_04
+  m_Name: Dropdown_AttributeOfTable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3744,7 +3744,7 @@ GameObject:
   - component: {fileID: 188700782}
   - component: {fileID: 188700781}
   m_Layer: 5
-  m_Name: Button_Reload_01
+  m_Name: Button_Reload
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5546,7 +5546,7 @@ GameObject:
   - component: {fileID: 312706205}
   - component: {fileID: 312706204}
   m_Layer: 5
-  m_Name: Dropdown_TableName_03
+  m_Name: Dropdown_TableName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5685,7 +5685,7 @@ GameObject:
   - component: {fileID: 314366720}
   - component: {fileID: 314366719}
   m_Layer: 5
-  m_Name: Button_Reload_02
+  m_Name: Button_Reload
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6623,7 +6623,7 @@ GameObject:
   - component: {fileID: 368529546}
   - component: {fileID: 368529545}
   m_Layer: 5
-  m_Name: Button_Reload_07
+  m_Name: Button_Reload
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7063,26 +7063,14 @@ GameObject:
   - component: {fileID: 390026237}
   - component: {fileID: 390026236}
   - component: {fileID: 390026235}
-  - component: {fileID: 390026234}
+  - component: {fileID: 390026239}
   m_Layer: 5
-  m_Name: UI_Option
+  m_Name: UI_Options
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &390026234
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 390026233}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 30e6213f8ef24dc4aa4a9f24cf945366, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &390026235
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7174,6 +7162,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &390026239
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 390026233}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b4d9fe49606917b46aedda3f7b87d16f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &391434897
 GameObject:
   m_ObjectHideFlags: 0
@@ -7454,7 +7454,7 @@ GameObject:
   - component: {fileID: 414268804}
   - component: {fileID: 414268803}
   m_Layer: 5
-  m_Name: Dropdown_TableName_05
+  m_Name: Dropdown_TableName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8133,7 +8133,7 @@ GameObject:
   - component: {fileID: 486647592}
   - component: {fileID: 486647591}
   m_Layer: 5
-  m_Name: Button_Like_02
+  m_Name: Button_Like
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -8990,7 +8990,7 @@ GameObject:
   - component: {fileID: 538115890}
   - component: {fileID: 538115889}
   m_Layer: 5
-  m_Name: Button_Like_01
+  m_Name: Button_Like
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9234,7 +9234,7 @@ GameObject:
   - component: {fileID: 580769955}
   - component: {fileID: 580769954}
   m_Layer: 5
-  m_Name: Button_Reload_06
+  m_Name: Button_Reload
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9735,6 +9735,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 595489933}
+  - component: {fileID: 595489934}
   m_Layer: 5
   m_Name: Option_01
   m_TagString: Untagged
@@ -9766,6 +9767,18 @@ RectTransform:
   m_AnchoredPosition: {x: -11.994995, y: 120}
   m_SizeDelta: {x: 403.61, y: 32.514}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &595489934
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 595489932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e6213f8ef24dc4aa4a9f24cf945366, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &596343666
 GameObject:
   m_ObjectHideFlags: 0
@@ -10026,7 +10039,7 @@ GameObject:
   - component: {fileID: 604639843}
   - component: {fileID: 604639842}
   m_Layer: 5
-  m_Name: Dropdown_AttributeOfTable_07
+  m_Name: Dropdown_AttributeOfTable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10541,7 +10554,7 @@ GameObject:
   - component: {fileID: 659424204}
   - component: {fileID: 659424203}
   m_Layer: 5
-  m_Name: Dropdown_AttributeOfTable_06
+  m_Name: Dropdown_AttributeOfTable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10755,7 +10768,7 @@ GameObject:
   - component: {fileID: 685484612}
   - component: {fileID: 685484611}
   m_Layer: 5
-  m_Name: Dropdown_TableName_01
+  m_Name: Dropdown_TableName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10894,7 +10907,7 @@ GameObject:
   - component: {fileID: 691131174}
   - component: {fileID: 691131173}
   m_Layer: 5
-  m_Name: Dropdown_AttributeOfTable_08
+  m_Name: Dropdown_AttributeOfTable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11294,7 +11307,7 @@ GameObject:
   - component: {fileID: 758877946}
   - component: {fileID: 758877945}
   m_Layer: 5
-  m_Name: Button_Lock_05
+  m_Name: Button_Lock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12098,7 +12111,7 @@ GameObject:
   - component: {fileID: 823785751}
   - component: {fileID: 823785750}
   m_Layer: 5
-  m_Name: Button_Lock_07
+  m_Name: Button_Lock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12588,7 +12601,7 @@ GameObject:
   - component: {fileID: 871857913}
   - component: {fileID: 871857912}
   m_Layer: 5
-  m_Name: Button_Lock_06
+  m_Name: Button_Lock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13113,7 +13126,7 @@ GameObject:
   - component: {fileID: 940884931}
   - component: {fileID: 940884930}
   m_Layer: 5
-  m_Name: Button_Like_06
+  m_Name: Button_Like
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13504,7 +13517,7 @@ GameObject:
   - component: {fileID: 979314167}
   - component: {fileID: 979314166}
   m_Layer: 5
-  m_Name: Button_Reload_03
+  m_Name: Button_Reload
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13937,7 +13950,7 @@ GameObject:
   - component: {fileID: 1001955715}
   - component: {fileID: 1001955714}
   m_Layer: 5
-  m_Name: Button_Lock_02
+  m_Name: Button_Lock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -14593,6 +14606,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1030347438}
+  - component: {fileID: 1030347439}
   m_Layer: 5
   m_Name: Option_08
   m_TagString: Untagged
@@ -14624,6 +14638,18 @@ RectTransform:
   m_AnchoredPosition: {x: -11.994995, y: -160}
   m_SizeDelta: {x: 403.61, y: 32.514}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1030347439
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1030347437}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e6213f8ef24dc4aa4a9f24cf945366, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1043351329
 GameObject:
   m_ObjectHideFlags: 0
@@ -15420,7 +15446,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Push The Shuffle Button
+  m_text: Click The Shuffle Button
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c3bc6332058879044a7e9f4cefffaf34, type: 2}
   m_sharedMaterial: {fileID: 3897457766091595456, guid: c3bc6332058879044a7e9f4cefffaf34, type: 2}
@@ -16265,7 +16291,7 @@ GameObject:
   - component: {fileID: 1146726607}
   - component: {fileID: 1146726606}
   m_Layer: 5
-  m_Name: Dropdown_TableName_04
+  m_Name: Dropdown_TableName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -16778,7 +16804,7 @@ GameObject:
   - component: {fileID: 1161886497}
   - component: {fileID: 1161886496}
   m_Layer: 5
-  m_Name: Button_Lock_01
+  m_Name: Button_Lock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -17464,7 +17490,7 @@ GameObject:
   - component: {fileID: 1193785540}
   - component: {fileID: 1193785539}
   m_Layer: 5
-  m_Name: Button_Like_07
+  m_Name: Button_Like
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -18319,7 +18345,7 @@ GameObject:
   - component: {fileID: 1245886140}
   - component: {fileID: 1245886139}
   m_Layer: 5
-  m_Name: Dropdown_AttributeOfTable_05
+  m_Name: Dropdown_AttributeOfTable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20126,6 +20152,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1391401961}
+  - component: {fileID: 1391401962}
   m_Layer: 5
   m_Name: Option_06
   m_TagString: Untagged
@@ -20157,6 +20184,18 @@ RectTransform:
   m_AnchoredPosition: {x: -11.994995, y: -80}
   m_SizeDelta: {x: 403.61, y: 32.514}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1391401962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1391401960}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e6213f8ef24dc4aa4a9f24cf945366, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1402638489
 GameObject:
   m_ObjectHideFlags: 0
@@ -20166,6 +20205,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1402638490}
+  - component: {fileID: 1402638491}
   m_Layer: 5
   m_Name: Option_02
   m_TagString: Untagged
@@ -20197,6 +20237,18 @@ RectTransform:
   m_AnchoredPosition: {x: -11.994995, y: 80}
   m_SizeDelta: {x: 403.61, y: 32.514}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1402638491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1402638489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e6213f8ef24dc4aa4a9f24cf945366, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1405391436
 GameObject:
   m_ObjectHideFlags: 0
@@ -20336,7 +20388,7 @@ GameObject:
   - component: {fileID: 1424753834}
   - component: {fileID: 1424753833}
   m_Layer: 5
-  m_Name: Dropdown_AttributeOfTable_03
+  m_Name: Dropdown_AttributeOfTable
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -20471,6 +20523,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1426576619}
+  - component: {fileID: 1426576620}
   m_Layer: 5
   m_Name: Option_04
   m_TagString: Untagged
@@ -20502,6 +20555,18 @@ RectTransform:
   m_AnchoredPosition: {x: -11.994995, y: 0}
   m_SizeDelta: {x: 403.61, y: 32.514}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1426576620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1426576618}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e6213f8ef24dc4aa4a9f24cf945366, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1430588935
 GameObject:
   m_ObjectHideFlags: 0
@@ -20980,7 +21045,7 @@ GameObject:
   - component: {fileID: 1485039074}
   - component: {fileID: 1485039073}
   m_Layer: 5
-  m_Name: Button_Reload_04
+  m_Name: Button_Reload
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22415,7 +22480,7 @@ GameObject:
   - component: {fileID: 1609185406}
   - component: {fileID: 1609185405}
   m_Layer: 5
-  m_Name: Button_Reload_08
+  m_Name: Button_Reload
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23118,7 +23183,7 @@ GameObject:
   - component: {fileID: 1628106101}
   - component: {fileID: 1628106100}
   m_Layer: 5
-  m_Name: Dropdown_TableName_07
+  m_Name: Dropdown_TableName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23257,7 +23322,7 @@ GameObject:
   - component: {fileID: 1628338238}
   - component: {fileID: 1628338237}
   m_Layer: 5
-  m_Name: Button_Lock_04
+  m_Name: Button_Lock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23500,6 +23565,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1687112417}
+  - component: {fileID: 1687112418}
   m_Layer: 5
   m_Name: Option_05
   m_TagString: Untagged
@@ -23531,6 +23597,18 @@ RectTransform:
   m_AnchoredPosition: {x: -11.994995, y: -40}
   m_SizeDelta: {x: 403.61, y: 32.514}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1687112418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1687112416}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e6213f8ef24dc4aa4a9f24cf945366, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1689648346
 GameObject:
   m_ObjectHideFlags: 0
@@ -23544,7 +23622,7 @@ GameObject:
   - component: {fileID: 1689648349}
   - component: {fileID: 1689648348}
   m_Layer: 5
-  m_Name: Button_Like_05
+  m_Name: Button_Like
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -23889,7 +23967,7 @@ GameObject:
   - component: {fileID: 1718925800}
   - component: {fileID: 1718925799}
   m_Layer: 5
-  m_Name: Button_Like_03
+  m_Name: Button_Like
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24492,6 +24570,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1740330590}
+  - component: {fileID: 1740330591}
   m_Layer: 5
   m_Name: Option_07
   m_TagString: Untagged
@@ -24523,6 +24602,18 @@ RectTransform:
   m_AnchoredPosition: {x: -11.994995, y: -120}
   m_SizeDelta: {x: 403.61, y: 32.514}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1740330591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1740330589}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e6213f8ef24dc4aa4a9f24cf945366, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1766184783
 GameObject:
   m_ObjectHideFlags: 0
@@ -25435,7 +25526,7 @@ GameObject:
   - component: {fileID: 1854181407}
   - component: {fileID: 1854181406}
   m_Layer: 5
-  m_Name: Button_Like_04
+  m_Name: Button_Like
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25703,7 +25794,7 @@ GameObject:
   - component: {fileID: 1866336738}
   - component: {fileID: 1866336737}
   m_Layer: 5
-  m_Name: Button_Reload_05
+  m_Name: Button_Reload
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26745,7 +26836,7 @@ GameObject:
   - component: {fileID: 1936638818}
   - component: {fileID: 1936638817}
   m_Layer: 5
-  m_Name: Dropdown_TableName_08
+  m_Name: Dropdown_TableName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -27014,6 +27105,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1945861239}
+  - component: {fileID: 1945861240}
   m_Layer: 5
   m_Name: Option_03
   m_TagString: Untagged
@@ -27045,6 +27137,18 @@ RectTransform:
   m_AnchoredPosition: {x: -11.994995, y: 40}
   m_SizeDelta: {x: 403.61, y: 32.514}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1945861240
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1945861238}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30e6213f8ef24dc4aa4a9f24cf945366, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1958204240
 GameObject:
   m_ObjectHideFlags: 0
@@ -27250,6 +27354,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a11915663f3df2245922d1036a5a2cdd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  dropdwon_Version: {fileID: 0}
+  dropdwon_Ratio: {fileID: 0}
+  dropdwon_Stylize: {fileID: 0}
 --- !u!1 &1978560336
 GameObject:
   m_ObjectHideFlags: 0
@@ -28560,6 +28667,7 @@ GameObject:
   - component: {fileID: 2104886527}
   - component: {fileID: 2104886526}
   - component: {fileID: 2104886525}
+  - component: {fileID: 2104886529}
   m_Layer: 5
   m_Name: UI_Generate
   m_TagString: Untagged
@@ -28652,6 +28760,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &2104886529
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2104886524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6813068e56a4ce46968e8c3bae9afa5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2110525504
 GameObject:
   m_ObjectHideFlags: 0
@@ -28799,7 +28919,7 @@ GameObject:
   - component: {fileID: 2115213137}
   - component: {fileID: 2115213136}
   m_Layer: 5
-  m_Name: Dropdown_TableName_02
+  m_Name: Dropdown_TableName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -29010,7 +29130,7 @@ GameObject:
   - component: {fileID: 2137227937}
   - component: {fileID: 2137227936}
   m_Layer: 5
-  m_Name: Dropdown_TableName_06
+  m_Name: Dropdown_TableName
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
