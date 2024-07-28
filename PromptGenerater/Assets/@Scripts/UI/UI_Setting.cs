@@ -64,37 +64,9 @@ public class UI_Setting : UI_Base
         return true;
     }
 
-    public void initDropdown(TMP_Dropdown dropdown, Dictionary<int, Data.TableData> dict, int Default)
-    {
-        dropdown.options.Clear();
-
-        List<string> Datas = new List<string>();
-
-        for (int i = 1; i < dict.Count + 1; i++)
-        {
-            Datas.Add(dict[i].Name);
-        }
-
-        foreach (string str in Datas)
-        {
-            dropdown.options.Add(new TMP_DropdownEX.OptionData(str));
-        }
-
-        dropdown.value = Default;
-
-        dropdown.RefreshShownValue();
-    }
-
     public string GetCurrentVersion() { return dropdwon_Version.options[dropdwon_Version.value].text; }
     public string GetCurrentRatio() { return dropdwon_Ratio.options[dropdwon_Ratio.value].text; }
     public string GetCurrentStylize() { return dropdwon_Stylize.options[dropdwon_Stylize.value].text; }
 
-    #region Event
-    public void Refresh()
-    {
-        Debug.Log("Refreshed");
-        Managers.UIData.SetFinalSentence();
-    }
-    #endregion
 
 }

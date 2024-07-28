@@ -16,6 +16,7 @@ public class UI_Base : InitBase
     //    Init();
     //}
 
+
     protected void Bind<T>(Type type) where T : UnityEngine.Object
     {
         string[] names = Enum.GetNames(type);
@@ -81,4 +82,63 @@ public class UI_Base : InitBase
                 break;
         }
     }
+
+    public void initDropdown(TMP_Dropdown dropdown, Dictionary<int, Data.TableData> dict, int value)
+    {
+        dropdown.options.Clear();
+
+        List<string> Datas = new List<string>();
+
+        for (int i = 1; i < dict.Count + 1; i++)
+        {
+            Datas.Add(dict[i].Name);
+        }
+
+        foreach (string str in Datas)
+        {
+            dropdown.options.Add(new TMP_DropdownEX.OptionData(str));
+        }
+
+        dropdown.value = value;
+        dropdown.RefreshShownValue();
+    }
+
+    public void initDropdown(TMP_Dropdown dropdown, Dictionary<int, Data.TableSetData> dict, int Default)
+    {
+        dropdown.options.Clear();
+
+        List<string> Datas = new List<string>();
+
+        for (int i = 1; i < dict.Count + 1; i++)
+        {
+            Datas.Add(dict[i].Name);
+        }
+
+        foreach (string str in Datas)
+        {
+            dropdown.options.Add(new TMP_DropdownEX.OptionData(str));
+        }
+
+        dropdown.value = Default;
+
+        dropdown.RefreshShownValue();
+    }
+
+    protected Dictionary<int, Data.TableData> SelectDic(TMP_Dropdown dropdown)
+    {
+        if(dropdown.options[dropdown.value].text == "None")
+        {
+            return Managers.Data.BlankDic;
+        }
+        Managers.Data.AllDict.TryGetValue(dropdown.options[dropdown.value].text, out Dictionary<int, Data.TableData> value);
+        return value;
+    }
+
+    #region Event
+    public void Refresh()
+    {
+        Debug.Log("Refreshed");
+        Managers.UIData.Refresh();
+    }
+    #endregion
 }

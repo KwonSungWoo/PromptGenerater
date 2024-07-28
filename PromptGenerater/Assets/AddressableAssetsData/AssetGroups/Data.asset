@@ -17,14 +17,8 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 15241f996d3330e4bbe653df0bc16cc3
   m_SerializeEntries:
-  - m_GUID: d2b7d4487037ff9438048b211866d0cc
-    m_Address: AnimalData
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 391fdda624072364580f39132aff3047
-    m_Address: RatioData
+  - m_GUID: 87f8901a84aafc649a708d5d8f3f18c3
+    m_Address: TableSetData
     m_ReadOnly: 0
     m_SerializedLabels:
     - PreLoad
@@ -35,8 +29,44 @@ MonoBehaviour:
     m_SerializedLabels:
     - PreLoad
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 391fdda624072364580f39132aff3047
+    m_Address: RatioData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1ba7a5f61e3162d4caf824859c7f95cb
+    m_Address: PaintArtistData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f98c8e35b1ff094d9c69fd1069c7ae5
+    m_Address: MarinLifeData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3858ea49ff3a02d4697dbd8f3490f870
+    m_Address: ConceptArtBookData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2b7d4487037ff9438048b211866d0cc
+    m_Address: AnimalData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5305d65a2c223d848b4eb6bc16a4bd4a
     m_Address: VersionData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c977102c6a20b704695525ffa03ea0d6
+    m_Address: BlankData
     m_ReadOnly: 0
     m_SerializedLabels:
     - PreLoad

@@ -7,7 +7,7 @@ using UnityEngine;
 
 namespace Data
 {
-    #region CreatureData
+    #region TableData
 
 
     [Serializable]
@@ -31,6 +31,34 @@ namespace Data
             Dictionary<int, TableData> dict = new Dictionary<int, TableData>();
             foreach (TableData table in tables)
                 dict.Add(table.Number, table);
+            return dict;
+        }
+    }
+    #endregion
+
+    #region TablesData
+
+
+    [Serializable]
+    public class TableSetData
+    {
+        public int Number;
+        public string Name;
+        public int Count;
+        public string Scentence_Head;
+        public string Scentence_Tail;
+    }
+
+    [Serializable]
+    public class TableSetDataLoader : ILoader<int, TableSetData>
+    {
+        public List<TableSetData> tableSets = new List<TableSetData>();
+
+        public Dictionary<int, TableSetData> MakeDict()
+        {
+            Dictionary<int, TableSetData> dict = new Dictionary<int, TableSetData>();
+            foreach (TableSetData tableSet in tableSets)
+                dict.Add(tableSet.Number, tableSet);
             return dict;
         }
     }

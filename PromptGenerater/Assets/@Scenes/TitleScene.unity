@@ -313,7 +313,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3728744642634877972, guid: 55d9c6e26f09fa045b355371e6e88adb, type: 3}
       propertyPath: m_UiScaleMode
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3728744642634877972, guid: 55d9c6e26f09fa045b355371e6e88adb, type: 3}
       propertyPath: m_ScreenMatchMode

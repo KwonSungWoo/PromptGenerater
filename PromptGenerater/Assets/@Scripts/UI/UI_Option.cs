@@ -19,6 +19,8 @@ public class UI_Option : UI_Base
         Button_Like,
     }
 
+    private string Option_Sentence_Head;
+    private string Option_Sentence_Tail;
     public TMP_Dropdown Dropdown_TableName;
     public TMP_Dropdown Dropdown_AttributeOfTable;
 
@@ -38,35 +40,56 @@ public class UI_Option : UI_Base
         return true;
     }
 
-    public string GetTableName(string name)
+    private void Start()
     {
-        return Dropdown_TableName.name;
+        Dropdown_AttributeOfTable.onValueChanged.RemoveListener(delegate { Refresh(); });
+        Dropdown_AttributeOfTable.onValueChanged.AddListener(delegate { Refresh(); });
+        Dropdown_TableName.onValueChanged.RemoveListener(delegate { ResetChild(); });
+        Dropdown_TableName.onValueChanged.AddListener(delegate { ResetChild(); });
+        Dropdown_TableName.onValueChanged.RemoveListener(delegate { SetTableNameSentence(); });
+        Dropdown_TableName.onValueChanged.AddListener(delegate { SetTableNameSentence(); });
+        Dropdown_TableName.onValueChanged.RemoveListener(delegate { Refresh(); });
+        Dropdown_TableName.onValueChanged.AddListener(delegate { Refresh(); });
     }
 
-    public string GetAttributeOfTable(string name)
+    public void SetTableName(string name)
     {
-        return Dropdown_TableName.name;
     }
 
-   //public void ChangeChildOption(TMP_Dropdown parent, TMP_Dropdown child)
-   //{
-   //
-   //    Dictionary<string, Dictionary<int, TableData>> dictionaries = Managers.Data.AllDict;
-   //    Dictionary<int, TableData> dictionary;
-   //
-   //    dictionaries.TryGetValue(parent.options[parent.value].text, out dictionary);
-   //
-   //    initDropdown(child, dictionary, child.value);
-   //
-   //    //if (child.options[child.value].text == dictionary[1].Name) 
-   //    //{
-   //    //    initDropdown(child, dictionary, child.value);
-   //    //}
-   //    //else
-   //    //{
-   //    //    initDropdown(child, dictionary, 0);
-   //    //}
-   //
-   //
-   //}
+    public string GetTableName()
+    {
+        return Dropdown_TableName.options[Dropdown_TableName.value].text;
+    }
+
+    public void SetTableNameSentence()
+    {
+        Managers.Data.TableSetDic.TryGetValue(Dropdown_TableName.value + 1, out TableSetData data);
+        Option_Sentence_Head = data.Scentence_Head;
+        Option_Sentence_Tail = data.Scentence_Tail;
+    }
+
+    public string GetTableNameSentenceHead()
+    {
+        return Option_Sentence_Head;
+    }
+
+    public string GetTableNameSentenceTail()
+    {
+        return Option_Sentence_Tail;
+    }
+
+    public void SetAttributeOfTable(int value)
+    {
+        Dropdown_AttributeOfTable.value = value;
+    }
+
+    public string GetAttributeOfTable()
+    {
+        return Dropdown_AttributeOfTable.options[Dropdown_AttributeOfTable.value].text;
+    }
+
+    private void ResetChild()
+    {
+        initDropdown(Dropdown_AttributeOfTable, SelectDic(Dropdown_TableName), 0);
+    }
 }

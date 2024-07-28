@@ -79,4 +79,22 @@ public static class DefaultSetting
     public const int RATIO = 2;
     public const int STYLIZE = 4;
     public const int VERSTION = 1;
+
+    public const int OPTION_TABLE_01 = 1;
+    public const int OPTION_TABLE_02 = 2;
+    public const int OPTION_TABLE_03 = 3;
+    public const int OPTION_TABLE_04 = 0;
+    public const int OPTION_TABLE_05 = 0;
+    public const int OPTION_TABLE_06 = 0;
+    public const int OPTION_TABLE_07 = 0;
+    public const int OPTION_TABLE_08 = 0;
+
+    public const int OPTION_ATTRIBUTETABLE_01 = 0;
+    public const int OPTION_ATTRIBUTETABLE_02 = 0;
+    public const int OPTION_ATTRIBUTETABLE_03 = 0;
+    public const int OPTION_ATTRIBUTETABLE_04 = 0;
+    public const int OPTION_ATTRIBUTETABLE_05 = 0;
+    public const int OPTION_ATTRIBUTETABLE_06 = 0;
+    public const int OPTION_ATTRIBUTETABLE_07 = 0;
+    public const int OPTION_ATTRIBUTETABLE_08 = 0;
 }
