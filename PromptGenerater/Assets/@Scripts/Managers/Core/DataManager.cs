@@ -16,6 +16,8 @@ public class DataManager
 
     public Dictionary<int, Data.TableSetData> TableSetDic { get; private set; } = new Dictionary<int, Data.TableSetData>();
 
+    public Dictionary<int, Data.TableData> LayoutDic            { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> PoseDic              { get; private set; } = new Dictionary<int, Data.TableData>();
     public Dictionary<int, Data.TableData> AnimalDic            { get; private set; } = new Dictionary<int, Data.TableData>();
     public Dictionary<int, Data.TableData> ConceptArtBookDic    { get; private set; } = new Dictionary<int, Data.TableData>();
     public Dictionary<int, Data.TableData> MarinLifeDic         { get; private set; } = new Dictionary<int, Data.TableData>();
@@ -30,6 +32,8 @@ public class DataManager
     {
         TableSetDic         = LoadJson<Data.TableSetDataLoader, int, Data.TableSetData>("TableSetData").MakeDict();
 
+        LayoutDic           = LoadJson<Data.TableDataLoader, int, Data.TableData>("LayoutData"          ).MakeDict();
+        PoseDic             = LoadJson<Data.TableDataLoader, int, Data.TableData>("PoseData"            ).MakeDict();
         AnimalDic           = LoadJson<Data.TableDataLoader, int, Data.TableData>("AnimalData"          ).MakeDict();
         ConceptArtBookDic   = LoadJson<Data.TableDataLoader, int, Data.TableData>("ConceptArtBookData"  ).MakeDict();
         MarinLifeDic        = LoadJson<Data.TableDataLoader, int, Data.TableData>("MarinLifeData"       ).MakeDict();
@@ -42,6 +46,8 @@ public class DataManager
 
 
         AllDict.Clear();
+        AllDict.Add("Layout"            , LayoutDic           );
+        AllDict.Add("Pose"              , PoseDic             );
         AllDict.Add("Animal"            , AnimalDic           );
         AllDict.Add("ConceptArtBook"    , ConceptArtBookDic   );
         AllDict.Add("MarinLife"         , MarinLifeDic        );

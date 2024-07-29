@@ -134,11 +134,21 @@ public class UI_Base : InitBase
         return value;
     }
 
+    public void ShuffleDropdown(TMP_Dropdown dropdown)
+    {
+        dropdown.value = UnityEngine.Random.Range(0, dropdown.options.Count);
+    }
+
     #region Event
     public void Refresh()
     {
         Debug.Log("Refreshed");
         Managers.UIData.Refresh();
+    }
+
+    public void Shuffle()
+    {
+        Managers.UIData.Shuffle();
     }
     #endregion
 }

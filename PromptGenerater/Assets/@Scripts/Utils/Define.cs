@@ -83,8 +83,8 @@ public static class DefaultSetting
     public const int OPTION_TABLE_01 = 1;
     public const int OPTION_TABLE_02 = 2;
     public const int OPTION_TABLE_03 = 3;
-    public const int OPTION_TABLE_04 = 0;
-    public const int OPTION_TABLE_05 = 0;
+    public const int OPTION_TABLE_04 = 4;
+    public const int OPTION_TABLE_05 = 5;
     public const int OPTION_TABLE_06 = 0;
     public const int OPTION_TABLE_07 = 0;
     public const int OPTION_TABLE_08 = 0;

@@ -51,17 +51,21 @@ public class UI_Setting : UI_Base
         initDropdown(dropdwon_Ratio, Managers.Data.RatioDic, DefaultSetting.RATIO);
         initDropdown(dropdwon_Stylize, Managers.Data.StylizeDic, DefaultSetting.STYLIZE);
 
-        dropdwon_Version.onValueChanged.RemoveListener(delegate {Refresh();});
-        dropdwon_Version.onValueChanged.AddListener(delegate {Refresh();});
-        dropdwon_Ratio.onValueChanged.RemoveListener(delegate { Refresh();});
-        dropdwon_Ratio.onValueChanged.AddListener(delegate {Refresh();});
-        dropdwon_Stylize.onValueChanged.RemoveListener(delegate { Refresh();});
-        dropdwon_Stylize.onValueChanged.AddListener(delegate {Refresh();});
 
 
         //TODO
 
         return true;
+    }
+
+    private void Start()
+    {
+        dropdwon_Version.onValueChanged.RemoveListener(delegate { Refresh(); });
+        dropdwon_Version.onValueChanged.AddListener(delegate { Refresh(); });
+        dropdwon_Ratio.onValueChanged.RemoveListener(delegate { Refresh(); });
+        dropdwon_Ratio.onValueChanged.AddListener(delegate { Refresh(); });
+        dropdwon_Stylize.onValueChanged.RemoveListener(delegate { Refresh(); });
+        dropdwon_Stylize.onValueChanged.AddListener(delegate { Refresh(); });
     }
 
     public string GetCurrentVersion() { return dropdwon_Version.options[dropdwon_Version.value].text; }

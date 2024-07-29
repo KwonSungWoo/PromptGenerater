@@ -16,16 +16,18 @@ public class DataTransformer : EditorWindow
 	[MenuItem("Tools/ParseExcel %#K")]
 	public static void ParseExcelDataToJson()
     {
-        ParseExcelDataToJson<TableSetDataLoader, TableSetData>("TableSet");
+        ParseExcelDataToJson<TableSetDataLoader, TableSetData>("TableSetData");
 
-        ParseExcelDataToJson<TableDataLoader, TableData>("Animal");
-        ParseExcelDataToJson<TableDataLoader, TableData>("ConceptArtBook");
-        ParseExcelDataToJson<TableDataLoader, TableData>("MarinLife");
-        ParseExcelDataToJson<TableDataLoader, TableData>("PaintArtist");
-        ParseExcelDataToJson<TableDataLoader, TableData>("Ratio");
-        ParseExcelDataToJson<TableDataLoader, TableData>("Stylize");
-        ParseExcelDataToJson<TableDataLoader, TableData>("Version");
-        ParseExcelDataToJson<TableDataLoader, TableData>("Blank");
+        ParseExcelDataToJson<TableDataLoader, TableData>("LayoutData"			);
+        ParseExcelDataToJson<TableDataLoader, TableData>("PoseData"				);
+        ParseExcelDataToJson<TableDataLoader, TableData>("AnimalData"			);
+        ParseExcelDataToJson<TableDataLoader, TableData>("ConceptArtBookData"	);
+        ParseExcelDataToJson<TableDataLoader, TableData>("MarinLifeData"		);
+        ParseExcelDataToJson<TableDataLoader, TableData>("PaintArtistData"		);
+        ParseExcelDataToJson<TableDataLoader, TableData>("RatioData"			);
+        ParseExcelDataToJson<TableDataLoader, TableData>("StylizeData"			);
+        ParseExcelDataToJson<TableDataLoader, TableData>("VersionData"			);
+        ParseExcelDataToJson<TableDataLoader, TableData>("BlankData"			);
         //ParseExcelDataToJson<EnvDataLoader, EnvData>("Env");
 
         Debug.Log("DataTransformer Completed");
@@ -39,7 +41,7 @@ public class DataTransformer : EditorWindow
 		field.SetValue(loader, ParseExcelDataToList<LoaderData>(filename));
 
 		string jsonStr = JsonConvert.SerializeObject(loader, Formatting.Indented);
-		File.WriteAllText($"{Application.dataPath}/@Resources/Data/JsonData/{filename}Data.json", jsonStr);
+		File.WriteAllText($"{Application.dataPath}/@Resources/Data/JsonData/{filename}.json", jsonStr);
 		AssetDatabase.Refresh();
 	}
 
@@ -47,7 +49,7 @@ public class DataTransformer : EditorWindow
 	{
 		List<LoaderData> loaderDatas = new List<LoaderData>();
 
-		string[] lines = File.ReadAllText($"{Application.dataPath}/@Resources/Data/ExcelData/{filename}Data.csv").Split("\n");
+		string[] lines = File.ReadAllText($"{Application.dataPath}/@Resources/Data/ExcelData/{filename}.csv").Split("\n");
 
 		for (int l = 1; l < lines.Length; l++)
 		{

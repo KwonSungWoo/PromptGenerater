@@ -1,6 +1,8 @@
 Number,Name,Count,Scentence_Head,Scentence_Tail
 1,None,0, , 
-2,Animal,200,Full body , Character
-3,ConceptArtBook,444,From , ConceptArtBook
-4,PaintArtist,500,Art by, 
-5,MarinLife,199,Full body , Character
+2,Layout,9,,","
+3,Pose,100,,
+4,Animal,200,,Character
+5,ConceptArtBook,444,From,ConceptArtBook
+6,PaintArtist,500,Art by, 
+7,MarinLife,199,,Character

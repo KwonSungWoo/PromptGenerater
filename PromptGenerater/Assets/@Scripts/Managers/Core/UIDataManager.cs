@@ -6,19 +6,13 @@ using System.Net.Sockets;
 using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
-using static UnityEditor.Progress;
 
 public class UIDataManager
 {
     private string START = "/imagine prompt:";
     private string COMMA = ", ";
 
-    private string FULLBODY = " Full body ";
-    private string SOCKET_pose = "  ";
-    private string CHARACTER = " Character ";
-
     private int COUNT_OPTION = 8;
-    private string options = " ";
 
     private string setting_A = " --";
     private string setting_B = " --ar ";
@@ -76,16 +70,15 @@ public class UIDataManager
     public void SetFinalSentence()
     {
         finalSentence = START +
-                        options +
 
-                        Option_Sentence_Head_01 + " " + Option_01 + " " + Option_Sentence_Tail_01 +
-                        Option_Sentence_Head_02 + " " + Option_02 + " " + Option_Sentence_Tail_02 +
-                        Option_Sentence_Head_03 + " " + Option_03 + " " + Option_Sentence_Tail_03 +
-                        Option_Sentence_Head_04 + " " + Option_04 + " " + Option_Sentence_Tail_04 +
-                        Option_Sentence_Head_05 + " " + Option_05 + " " + Option_Sentence_Tail_05 +
-                        Option_Sentence_Head_06 + " " + Option_06 + " " + Option_Sentence_Tail_06 +
-                        Option_Sentence_Head_07 + " " + Option_07 + " " + Option_Sentence_Tail_07 +
-                        Option_Sentence_Head_08 + " " + Option_08 + " " + Option_Sentence_Tail_08 +
+                        Option_Sentence_Head_01 + " " + Option_01 + " " + Option_Sentence_Tail_01 + " " + 
+                        Option_Sentence_Head_02 + " " + Option_02 + " " + Option_Sentence_Tail_02 + " " + 
+                        Option_Sentence_Head_03 + " " + Option_03 + " " + Option_Sentence_Tail_03 + " " + 
+                        Option_Sentence_Head_04 + " " + Option_04 + " " + Option_Sentence_Tail_04 + " " + 
+                        Option_Sentence_Head_05 + " " + Option_05 + " " + Option_Sentence_Tail_05 + " " + 
+                        Option_Sentence_Head_06 + " " + Option_06 + " " + Option_Sentence_Tail_06 + " " + 
+                        Option_Sentence_Head_07 + " " + Option_07 + " " + Option_Sentence_Tail_07 + " " + 
+                        Option_Sentence_Head_08 + " " + Option_08 + " " + Option_Sentence_Tail_08 + " " +
 
                         setting_A + setting_Version +
                         setting_B + setting_Ratio +
@@ -145,6 +138,21 @@ public class UIDataManager
     public void SetSentence()
     {
         Generate.SetSentence();
+    }
+
+    public void Shuffle()
+    {
+        Options.Option_01.ShuffleDropdown(Options.Option_01.Dropdown_AttributeOfTable);
+        Options.Option_02.ShuffleDropdown(Options.Option_02.Dropdown_AttributeOfTable);
+        Options.Option_03.ShuffleDropdown(Options.Option_03.Dropdown_AttributeOfTable);
+        Options.Option_04.ShuffleDropdown(Options.Option_04.Dropdown_AttributeOfTable);
+        Options.Option_05.ShuffleDropdown(Options.Option_05.Dropdown_AttributeOfTable);
+        Options.Option_06.ShuffleDropdown(Options.Option_06.Dropdown_AttributeOfTable);
+        Options.Option_07.ShuffleDropdown(Options.Option_07.Dropdown_AttributeOfTable);
+        Options.Option_08.ShuffleDropdown(Options.Option_08.Dropdown_AttributeOfTable);
+
+        Setting.ShuffleDropdown(Setting.dropdwon_Ratio);
+        Setting.ShuffleDropdown(Setting.dropdwon_Stylize);
     }
 
 }
