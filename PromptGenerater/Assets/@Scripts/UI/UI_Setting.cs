@@ -47,9 +47,9 @@ public class UI_Setting : UI_Base
         dropdwon_Ratio = GetTMP_Dropdown((int)Dropdowns.Dropdown_Ratio);
         dropdwon_Stylize = GetTMP_Dropdown((int)Dropdowns.Dropdown_Stylize);
 
-        initDropdown(dropdwon_Version, Managers.Data.VersionDic, DefaultSetting.VERSTION);
-        initDropdown(dropdwon_Ratio, Managers.Data.RatioDic, DefaultSetting.RATIO);
-        initDropdown(dropdwon_Stylize, Managers.Data.StylizeDic, DefaultSetting.STYLIZE);
+        initDropdown(dropdwon_Version, Managers.Data.VersionDict, DefaultSetting.VERSTION);
+        initDropdown(dropdwon_Ratio, Managers.Data.RatioDict, DefaultSetting.RATIO);
+        initDropdown(dropdwon_Stylize, Managers.Data.StylizeDict, DefaultSetting.STYLIZE);
 
 
 

@@ -6,6 +6,7 @@ using static Define;
 
 public class UI_TitleScene : UI_Scene
 {
+
     enum GameObjects
     {
         Image_Start
@@ -34,6 +35,7 @@ public class UI_TitleScene : UI_Scene
         GetObject((int)GameObjects.Image_Start).gameObject.SetActive(false);
         GetText((int)Texts.Text_Display).text = $" ";
 
+        Debug.Log("Starting asset load");
         StartLoadAssects();
 
         return true;
@@ -47,10 +49,12 @@ public class UI_TitleScene : UI_Scene
 
             if (count == totalcount)
             {
-                Managers.Data.Init();
-
+                Debug.Log("All assets loaded");
                 GetObject((int)GameObjects.Image_Start).gameObject.SetActive(true);
                 GetText((int)(Texts.Text_Display)).text = "Touch to Start";
+
+                Managers.Data.Init();
+                Debug.Log("Initializing data");
             }
         });
     }

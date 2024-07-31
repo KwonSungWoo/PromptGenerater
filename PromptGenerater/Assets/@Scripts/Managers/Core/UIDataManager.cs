@@ -59,12 +59,12 @@ public class UIDataManager
     public UI_Options Options;
     public UI_Generate Generate;
 
-    public void Init()
+    public void Init(UI_Setting set, UI_Options opt, UI_Generate gen)
     {
-        Setting = GameObject.Find("UI_Setting").GetComponent<UI_Setting>();
+        Setting = set;
+        Options = opt;
+        Generate = gen;
         //Preset = GameObject.Find("UI_Preset").GetComponent<UI_Preset>();
-        Options = GameObject.Find("UI_Options").GetComponent<UI_Options>();
-        Generate = GameObject.Find("UI_Generate").GetComponent<UI_Generate>();
     }
 
     public void SetFinalSentence()

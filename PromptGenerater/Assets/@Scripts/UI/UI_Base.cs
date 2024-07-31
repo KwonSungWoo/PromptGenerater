@@ -128,7 +128,7 @@ public class UI_Base : InitBase
     {
         if(dropdown.options[dropdown.value].text == "None")
         {
-            return Managers.Data.BlankDic;
+            return Managers.Data.BlankDict;
         }
         Managers.Data.AllDict.TryGetValue(dropdown.options[dropdown.value].text, out Dictionary<int, Data.TableData> value);
         return value;

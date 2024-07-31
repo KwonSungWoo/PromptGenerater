@@ -63,7 +63,7 @@ public class UI_Option : UI_Base
 
     public void SetTableNameSentence()
     {
-        Managers.Data.TableSetDic.TryGetValue(Dropdown_TableName.value + 1, out TableSetData data);
+        Managers.Data.TableSetDict.TryGetValue(Dropdown_TableName.value + 1, out TableSetData data);
         Option_Sentence_Head = data.Scentence_Head;
         Option_Sentence_Tail = data.Scentence_Tail;
     }

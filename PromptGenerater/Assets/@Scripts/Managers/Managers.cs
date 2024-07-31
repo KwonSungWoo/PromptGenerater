@@ -5,7 +5,12 @@ using UnityEngine;
 public class Managers : MonoBehaviour
 {
     private static Managers s_instance;
-    private static Managers instance { get { Init(); return s_instance; } }
+    private static Managers instance { get
+        {
+            Debug.Log("In Managers"); 
+            Init(); 
+            return s_instance; 
+        } }
 
     #region Contents
     private GameManager _game = new GameManager();
@@ -33,21 +38,24 @@ public class Managers : MonoBehaviour
     public static UIDataManager    UIData      { get { return instance?._uiData  ; } }
     #endregion
 
+    private void Awake()
+    {
+        Debug.Log("Awake Managers");
+        if (s_instance == null)
+        {
+            s_instance = this;
+            DontDestroyOnLoad(gameObject);
+        }
+    }
+
 
     public static void Init()
     {
+        Debug.Log("Start Init Managers");
         if (s_instance == null)
         {
-            GameObject go = GameObject.Find("@Managers");
-            if(go == null)
-            {
-                go = new GameObject { name = "@Managers" };
-                go.AddComponent<Managers>();
-            }
-
-            DontDestroyOnLoad(go);
-
-            s_instance = go.GetComponent<Managers>();
+            GameObject go = new GameObject { name = "@Managers" };
+            go.AddComponent<Managers>();
         }
     }
 

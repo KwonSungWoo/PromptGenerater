@@ -14,48 +14,51 @@ public class DataManager
 {
     public Dictionary<string, Dictionary<int, TableData>> AllDict { get; private set; } = new Dictionary<string, Dictionary<int, TableData>>();
 
-    public Dictionary<int, Data.TableSetData> TableSetDic { get; private set; } = new Dictionary<int, Data.TableSetData>();
+    public Dictionary<int, Data.TableSetData> TableSetDict { get; private set; } = new Dictionary<int, Data.TableSetData>();
 
-    public Dictionary<int, Data.TableData> LayoutDic            { get; private set; } = new Dictionary<int, Data.TableData>();
-    public Dictionary<int, Data.TableData> PoseDic              { get; private set; } = new Dictionary<int, Data.TableData>();
-    public Dictionary<int, Data.TableData> AnimalDic            { get; private set; } = new Dictionary<int, Data.TableData>();
-    public Dictionary<int, Data.TableData> ConceptArtBookDic    { get; private set; } = new Dictionary<int, Data.TableData>();
-    public Dictionary<int, Data.TableData> MarinLifeDic         { get; private set; } = new Dictionary<int, Data.TableData>();
-    public Dictionary<int, Data.TableData> PaintArtistDic       { get; private set; } = new Dictionary<int, Data.TableData>();
-    public Dictionary<int, Data.TableData> RatioDic             { get; private set; } = new Dictionary<int, Data.TableData>();
-    public Dictionary<int, Data.TableData> StylizeDic           { get; private set; } = new Dictionary<int, Data.TableData>();
-    public Dictionary<int, Data.TableData> VersionDic           { get; private set; } = new Dictionary<int, Data.TableData>();
-    public Dictionary<int, Data.TableData> BlankDic             { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> LayoutDict            { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> PoseDict              { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> AnimalDict            { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> ConceptArtBookDict    { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> MarinLifeDict         { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> PaintArtistDict       { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> RatioDict             { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> StylizeDict           { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> VersionDict           { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> BlankDict             { get; private set; } = new Dictionary<int, Data.TableData>();
     //public Dictionary<int, Data.EnvData> EnvDic               { get; private set; } = new Dictionary<int, Data.EnvData>();
 
     public void Init()
     {
-        TableSetDic         = LoadJson<Data.TableSetDataLoader, int, Data.TableSetData>("TableSetData").MakeDict();
+        TableSetDict         = LoadJson<Data.TableSetDataLoader, int, Data.TableSetData>("TableSetData").MakeDict();
 
-        LayoutDic           = LoadJson<Data.TableDataLoader, int, Data.TableData>("LayoutData"          ).MakeDict();
-        PoseDic             = LoadJson<Data.TableDataLoader, int, Data.TableData>("PoseData"            ).MakeDict();
-        AnimalDic           = LoadJson<Data.TableDataLoader, int, Data.TableData>("AnimalData"          ).MakeDict();
-        ConceptArtBookDic   = LoadJson<Data.TableDataLoader, int, Data.TableData>("ConceptArtBookData"  ).MakeDict();
-        MarinLifeDic        = LoadJson<Data.TableDataLoader, int, Data.TableData>("MarinLifeData"       ).MakeDict();
-        PaintArtistDic      = LoadJson<Data.TableDataLoader, int, Data.TableData>("PaintArtistData"     ).MakeDict();
-        RatioDic            = LoadJson<Data.TableDataLoader, int, Data.TableData>("RatioData"           ).MakeDict();
-        StylizeDic          = LoadJson<Data.TableDataLoader, int, Data.TableData>("StylizeData"         ).MakeDict();
-        VersionDic          = LoadJson<Data.TableDataLoader, int, Data.TableData>("VersionData"         ).MakeDict();
-        BlankDic            = LoadJson<Data.TableDataLoader, int, Data.TableData>("BlankData"           ).MakeDict();
-        //EnvDic            = LoadJson<Data.EnvDataLoader, int, Data.EnvData>("EnvData").MakeDict();
+        LayoutDict           = LoadJson<Data.TableDataLoader, int, Data.TableData>("LayoutData"          ).MakeDict();
+        PoseDict             = LoadJson<Data.TableDataLoader, int, Data.TableData>("PoseData"            ).MakeDict();
+        AnimalDict           = LoadJson<Data.TableDataLoader, int, Data.TableData>("AnimalData"          ).MakeDict();
+        ConceptArtBookDict   = LoadJson<Data.TableDataLoader, int, Data.TableData>("ConceptArtBookData"  ).MakeDict();
+        MarinLifeDict        = LoadJson<Data.TableDataLoader, int, Data.TableData>("MarinLifeData"       ).MakeDict();
+        PaintArtistDict      = LoadJson<Data.TableDataLoader, int, Data.TableData>("PaintArtistData"     ).MakeDict();
+        RatioDict            = LoadJson<Data.TableDataLoader, int, Data.TableData>("RatioData"           ).MakeDict();
+        StylizeDict          = LoadJson<Data.TableDataLoader, int, Data.TableData>("StylizeData"         ).MakeDict();
+        VersionDict          = LoadJson<Data.TableDataLoader, int, Data.TableData>("VersionData"         ).MakeDict();
+        BlankDict            = LoadJson<Data.TableDataLoader, int, Data.TableData>("BlankData"           ).MakeDict();
+        //EnvDic             = LoadJson<Data.EnvDataLoader, int, Data.EnvData>("EnvData").MakeDict();
+        Debug.Log("LoadJson");
 
 
         AllDict.Clear();
-        AllDict.Add("Layout"            , LayoutDic           );
-        AllDict.Add("Pose"              , PoseDic             );
-        AllDict.Add("Animal"            , AnimalDic           );
-        AllDict.Add("ConceptArtBook"    , ConceptArtBookDic   );
-        AllDict.Add("MarinLife"         , MarinLifeDic        );
-        AllDict.Add("PaintArtist"       , PaintArtistDic      );
-        AllDict.Add("Ratio"             , RatioDic            );
-        AllDict.Add("Stylize"           , StylizeDic          );
-        AllDict.Add("Version"           , VersionDic          );
-        AllDict.Add("Blank"             , BlankDic);
+        AllDict.Add("Layout"            , LayoutDict           );
+        AllDict.Add("Pose"              , PoseDict             );
+        AllDict.Add("Animal"            , AnimalDict           );
+        AllDict.Add("ConceptArtBook"    , ConceptArtBookDict   );
+        AllDict.Add("MarinLife"         , MarinLifeDict        );
+        AllDict.Add("PaintArtist"       , PaintArtistDict      );
+        AllDict.Add("Ratio"             , RatioDict            );
+        AllDict.Add("Stylize"           , StylizeDict          );
+        AllDict.Add("Version"           , VersionDict          );
+        AllDict.Add("Blank"             , BlankDict            );
+
+        Debug.Log("Add Dict to AllDict");
     }
 
     private Loader LoadJson<Loader, Key, Value>(string path) where Loader : ILoader<Key, Value>
