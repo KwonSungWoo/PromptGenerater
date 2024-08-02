@@ -25,6 +25,7 @@ public class UI_PromptGeneratorScene : UI_Scene
 
     public override bool Init()
     {
+        Debug.Log("Init UI_PromptGen");
         set = optionsParent.Find("UI_Setting").GetComponent<UI_Setting>();
         opt = optionsParent.Find("UI_Options").GetComponent<UI_Options>();
         gen = optionsParent.Find("UI_Generate").GetComponent<UI_Generate>();
@@ -44,6 +45,7 @@ public class UI_PromptGeneratorScene : UI_Scene
     private void Start()
     {
 
+        Debug.Log("Start of UIData");
         Managers.UIData.Init(set, opt, gen);
     }
 }

@@ -51,7 +51,7 @@ public class Managers : MonoBehaviour
 
     public static void Init()
     {
-        Debug.Log("Start Init Managers");
+        Debug.Log("Init Managers");
         if (s_instance == null)
         {
             GameObject go = new GameObject { name = "@Managers" };

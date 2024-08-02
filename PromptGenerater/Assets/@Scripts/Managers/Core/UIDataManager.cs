@@ -61,6 +61,7 @@ public class UIDataManager
 
     public void Init(UI_Setting set, UI_Options opt, UI_Generate gen)
     {
+        Debug.Log("Init UIData");
         Setting = set;
         Options = opt;
         Generate = gen;
