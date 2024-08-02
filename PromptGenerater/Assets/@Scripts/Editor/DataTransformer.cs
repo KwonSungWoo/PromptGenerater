@@ -28,6 +28,9 @@ public class DataTransformer : EditorWindow
         ParseExcelDataToJson<TableDataLoader, TableData>("StylizeData"			);
         ParseExcelDataToJson<TableDataLoader, TableData>("VersionData"			);
         ParseExcelDataToJson<TableDataLoader, TableData>("BlankData"			);
+        ParseExcelDataToJson<TableDataLoader, TableData>("ShellfishData"		);
+        ParseExcelDataToJson<TableDataLoader, TableData>("InsectData"			);
+        ParseExcelDataToJson<TableDataLoader, TableData>("ArmorData"			);
         //ParseExcelDataToJson<EnvDataLoader, EnvData>("Env");
 
         Debug.Log("DataTransformer Completed");

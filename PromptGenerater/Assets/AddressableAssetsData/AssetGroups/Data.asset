@@ -83,6 +83,24 @@ MonoBehaviour:
     m_SerializedLabels:
     - PreLoad
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 37a87a6e8d9fb0b4e87cf145eaea5f98
+    m_Address: ArmorData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04a9f8e23ca6fde43bc0117d30d9e1e3
+    m_Address: ShellfishData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 479bc9de1d165d54bba877bd1fb1bd7a
+    m_Address: InsectData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f24fb20c6430a204494d654a4cd215ea, type: 2}
   m_SchemaSet:

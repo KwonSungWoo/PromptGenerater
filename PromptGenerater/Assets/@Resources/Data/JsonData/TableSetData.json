@@ -48,6 +48,27 @@
       "Count": 199,
       "Scentence_Head": null,
       "Scentence_Tail": "Character"
+    },
+    {
+      "Number": 8,
+      "Name": "Insect",
+      "Count": 198,
+      "Scentence_Head": null,
+      "Scentence_Tail": "insect Character"
+    },
+    {
+      "Number": 9,
+      "Name": "Shellfish",
+      "Count": 196,
+      "Scentence_Head": null,
+      "Scentence_Tail": "Character"
+    },
+    {
+      "Number": 10,
+      "Name": "Armor",
+      "Count": 266,
+      "Scentence_Head": "Wearing",
+      "Scentence_Tail": null
     }
   ]
 }

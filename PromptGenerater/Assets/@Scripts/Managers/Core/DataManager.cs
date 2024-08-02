@@ -26,6 +26,9 @@ public class DataManager
     public Dictionary<int, Data.TableData> StylizeDic           { get; private set; } = new Dictionary<int, Data.TableData>();
     public Dictionary<int, Data.TableData> VersionDic           { get; private set; } = new Dictionary<int, Data.TableData>();
     public Dictionary<int, Data.TableData> BlankDic             { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> ShellfishDic         { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> InsectDic            { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> ArmorDic             { get; private set; } = new Dictionary<int, Data.TableData>();
     //public Dictionary<int, Data.EnvData> EnvDic               { get; private set; } = new Dictionary<int, Data.EnvData>();
 
     public void Init()
@@ -42,20 +45,26 @@ public class DataManager
         StylizeDic          = LoadJson<Data.TableDataLoader, int, Data.TableData>("StylizeData"         ).MakeDict();
         VersionDic          = LoadJson<Data.TableDataLoader, int, Data.TableData>("VersionData"         ).MakeDict();
         BlankDic            = LoadJson<Data.TableDataLoader, int, Data.TableData>("BlankData"           ).MakeDict();
+        ShellfishDic        = LoadJson<Data.TableDataLoader, int, Data.TableData>("ShellfishData"       ).MakeDict();
+        InsectDic           = LoadJson<Data.TableDataLoader, int, Data.TableData>("InsectData"          ).MakeDict();
+        ArmorDic            = LoadJson<Data.TableDataLoader, int, Data.TableData>("ArmorData"           ).MakeDict();
         //EnvDic            = LoadJson<Data.EnvDataLoader, int, Data.EnvData>("EnvData").MakeDict();
 
 
         AllDict.Clear();
-        AllDict.Add("Layout"            , LayoutDic           );
-        AllDict.Add("Pose"              , PoseDic             );
-        AllDict.Add("Animal"            , AnimalDic           );
-        AllDict.Add("ConceptArtBook"    , ConceptArtBookDic   );
-        AllDict.Add("MarinLife"         , MarinLifeDic        );
-        AllDict.Add("PaintArtist"       , PaintArtistDic      );
-        AllDict.Add("Ratio"             , RatioDic            );
-        AllDict.Add("Stylize"           , StylizeDic          );
-        AllDict.Add("Version"           , VersionDic          );
-        AllDict.Add("Blank"             , BlankDic);
+        AllDict.Add("Layout"            , LayoutDic             );
+        AllDict.Add("Pose"              , PoseDic               );
+        AllDict.Add("Animal"            , AnimalDic             );
+        AllDict.Add("ConceptArtBook"    , ConceptArtBookDic     );
+        AllDict.Add("MarinLife"         , MarinLifeDic          );
+        AllDict.Add("PaintArtist"       , PaintArtistDic        );
+        AllDict.Add("Ratio"             , RatioDic              );
+        AllDict.Add("Stylize"           , StylizeDic            );
+        AllDict.Add("Version"           , VersionDic            );
+        AllDict.Add("Blank"             , BlankDic              );
+        AllDict.Add("Shellfish"     , ShellfishDic          );
+        AllDict.Add("Insect"        , InsectDic             );
+        AllDict.Add("Armor"         , ArmorDic              );
     }
 
     private Loader LoadJson<Loader, Key, Value>(string path) where Loader : ILoader<Key, Value>
