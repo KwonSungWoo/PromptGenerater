@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class UI_Option : UI_Base
 {
@@ -23,6 +24,9 @@ public class UI_Option : UI_Base
     private string Option_Sentence_Tail;
     public TMP_Dropdown Dropdown_TableName;
     public TMP_Dropdown Dropdown_AttributeOfTable;
+    public Button Button_Reload;
+    public Button Button_Lock;
+    public Button Button_Like;
 
     public override bool Init()
     {
@@ -34,6 +38,9 @@ public class UI_Option : UI_Base
 
         Dropdown_TableName = GetTMP_Dropdown((int)Dropdowns.Dropdown_TableName);
         Dropdown_AttributeOfTable = GetTMP_Dropdown((int)Dropdowns.Dropdown_AttributeOfTable);
+        Button_Reload = GetButton((int)Buttons.Button_Reload);
+        Button_Lock = GetButton((int)Buttons.Button_Lock);
+        Button_Like = GetButton((int)Buttons.Button_Like);
 
         //TODO
 

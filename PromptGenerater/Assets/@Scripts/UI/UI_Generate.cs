@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
@@ -50,9 +51,12 @@ public class UI_Generate : UI_Base
         Button_Copy.onClick.AddListener(delegate { CopytoClipboard(); });
     }
 
+    [DllImport("__Internal")]
+    private static extern void CopyTextToClipboard(string text);
+
     private void CopytoClipboard()
     {
-        GUIUtility.systemCopyBuffer = Managers.UIData.GetFinalSentence();
+        CopyTextToClipboard(Managers.UIData.GetFinalSentence());
     }
 
     public void SetSentence()
