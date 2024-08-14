@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Net.Sockets;
 using TMPro;
 using UnityEngine;
 using UnityEngine.Diagnostics;
@@ -10,6 +11,8 @@ using UnityEngine.UI;
 public class UI_Base : InitBase
 {
     protected Dictionary<Type, UnityEngine.Object[]> _objects = new Dictionary<Type, UnityEngine.Object[]>();
+
+    protected bool locked = false;
 
     //private void Awake()
     //{
@@ -33,14 +36,27 @@ public class UI_Base : InitBase
             if (objects[i] == null)
                 Debug.Log($"Failed to bind({names[i]})");
         }
+
+        
     }
 
     protected void BindObjects(Type type) { Bind<GameObject>(type); }
-    protected void BindImages(Type type) { Bind<Image>(type); }
+    protected void BindImages(Type type) { Bind<RawImage>(type); }
     protected void BindTexts(Type type) { Bind<TMP_Text>(type); }
     protected void BindButtons(Type type) { Bind<Button>(type); }
     protected void BindToggles(Type type) { Bind<Toggle>(type); }
     protected void BindDropdowns(Type type) { Bind<TMP_Dropdown>(type); }
+
+    public void findAllChildren(GameObject go)
+    {
+        Transform[] allChildren = go.GetComponentsInChildren<Transform>();
+        foreach (Transform child in allChildren)
+        {
+            //수행할 함수 작성
+            //Ex. AddComponent
+            child.gameObject.AddComponent<MeshCollider>();
+        }
+    }
 
     protected T Get<T>(int idx) where T : UnityEngine.Object
     {
@@ -54,7 +70,7 @@ public class UI_Base : InitBase
     protected GameObject GetObject(int idx) { return Get<GameObject>(idx); }
     protected TMP_Text GetText(int idx) { return Get<TMP_Text>(idx); }
     protected Button GetButton(int idx) { return Get<Button>(idx); }
-    protected Image GetImage(int idx) { return Get<Image>(idx); }
+    protected RawImage GetImage(int idx) { return Get<RawImage>(idx); }
     protected Toggle GetToggle(int idx) { return Get<Toggle>(idx); }
     protected TMP_Dropdown GetTMP_Dropdown(int idx) { return Get<TMP_Dropdown>(idx); }
 
@@ -136,7 +152,10 @@ public class UI_Base : InitBase
 
     public void ShuffleDropdown(TMP_Dropdown dropdown)
     {
-        dropdown.value = UnityEngine.Random.Range(0, dropdown.options.Count);
+        if(!locked)
+        {
+            dropdown.value = UnityEngine.Random.Range(0, dropdown.options.Count);
+        }
     }
 
     #region Event
