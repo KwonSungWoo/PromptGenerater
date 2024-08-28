@@ -46,6 +46,7 @@ public class UI_Base : InitBase
     protected void BindButtons(Type type) { Bind<Button>(type); }
     protected void BindToggles(Type type) { Bind<Toggle>(type); }
     protected void BindDropdowns(Type type) { Bind<TMP_Dropdown>(type); }
+    protected void BindInputFields(Type type) { Bind<TMP_InputField>(type); }
 
     public void findAllChildren(GameObject go)
     {
@@ -73,6 +74,7 @@ public class UI_Base : InitBase
     protected RawImage GetImage(int idx) { return Get<RawImage>(idx); }
     protected Toggle GetToggle(int idx) { return Get<Toggle>(idx); }
     protected TMP_Dropdown GetTMP_Dropdown(int idx) { return Get<TMP_Dropdown>(idx); }
+    protected TMP_InputField GetInputField(int idx) { return Get<TMP_InputField>(idx); }
 
     public static void BindEvent(GameObject go, Action<PointerEventData> action = null, Define.EUIEvent type = Define.EUIEvent.Click)
     {

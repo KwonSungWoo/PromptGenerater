@@ -9,14 +9,20 @@ using UnityEngine;
 
 public class UIDataManager
 {
+    #region Parameters
     private string START = "/imagine prompt:";
     private string COMMA = ", ";
 
     private int COUNT_OPTION = 8;
 
-    private string setting_A = " --";
-    private string setting_B = " --ar ";
-    private string setting_C = " --s ";
+    private string Head_setting_Version = " --";
+    private string Head_setting_Ratio = " --ar ";
+    private string Head_setting_Stylize = " --s ";
+    private string Head_Reference_Sref = " --sref ";
+    private string Head_Reference_Cref = " --cref ";
+
+    private string Reference_Sref;
+    private string Reference_Cref;
 
     private string setting_Version;
     private string setting_Ratio;
@@ -54,10 +60,14 @@ public class UIDataManager
     private string finalSentence = "is null";
     private string poseSentence = "is null";
 
+
+    #endregion
+
     public UI_Setting Setting;
     //public UI_Preset Preset;
     public UI_Options Options;
     public UI_Generate Generate;
+    public UI_References References;
 
     public void Init()
     {
@@ -65,6 +75,23 @@ public class UIDataManager
         //Preset = GameObject.Find("UI_Preset").GetComponent<UI_Preset>();
         Options = GameObject.Find("UI_Options").GetComponent<UI_Options>();
         Generate = GameObject.Find("UI_Generate").GetComponent<UI_Generate>();
+        References = GameObject.Find("UI_References").GetComponent<UI_References>();
+    }
+
+    public void Refresh()
+    {
+        setting_Version = Setting.GetCurrentVersion();
+        setting_Ratio = Setting.GetCurrentRatio();
+        setting_Stylize = Setting.GetCurrentStylize();
+
+        Reference_Sref = References.GetSref();
+        Reference_Cref = References.GetCref();
+
+        SetOptions();
+
+        SetFinalSentence();
+
+        SetSentence();
     }
 
     public void SetFinalSentence()
@@ -80,9 +107,12 @@ public class UIDataManager
                         Option_Sentence_Head_07 + " " + Option_07 + " " + Option_Sentence_Tail_07 + " " + 
                         Option_Sentence_Head_08 + " " + Option_08 + " " + Option_Sentence_Tail_08 + " " +
 
-                        setting_A + setting_Version +
-                        setting_B + setting_Ratio +
-                        setting_C + setting_Stylize;
+                        Head_setting_Version + setting_Version +
+                        Head_setting_Ratio + setting_Ratio +
+                        Head_setting_Stylize + setting_Stylize +
+
+                        Head_Reference_Sref + Reference_Sref +
+                        Head_Reference_Cref + Reference_Cref;
     }
 
     public string GetFinalSentence()
@@ -90,22 +120,9 @@ public class UIDataManager
         return finalSentence;
     }
 
-    public void Refresh()
-    {
-        setting_Version = Setting.GetCurrentVersion();
-        setting_Ratio = Setting.GetCurrentRatio();
-        setting_Stylize = Setting.GetCurrentStylize();
-
-        SetOptions();
-
-        SetFinalSentence();
-
-        SetSentence();
-    }
-
     public void SetOptions()
     {
-        Options.SetSentences();
+        Options.SetOptionSentences();
 
         Option_01 = Options.Option_01.GetAttributeOfTable();
         Option_02 = Options.Option_02.GetAttributeOfTable();
@@ -151,8 +168,8 @@ public class UIDataManager
         Options.Option_07.ShuffleDropdown(Options.Option_07.Dropdown_AttributeOfTable);
         Options.Option_08.ShuffleDropdown(Options.Option_08.Dropdown_AttributeOfTable);
 
-        Setting.ShuffleDropdown(Setting.dropdwon_Ratio);
-        Setting.ShuffleDropdown(Setting.dropdwon_Stylize);
+        //Setting.ShuffleDropdown(Setting.dropdwon_Ratio);
+        //Setting.ShuffleDropdown(Setting.dropdwon_Stylize);
     }
 
 }

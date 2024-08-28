@@ -81,6 +81,11 @@ public class UI_Option : UI_Base
 
         Button_Lock.onClick.RemoveListener(delegate { LockButtonToggle(); });
         Button_Lock.onClick.AddListener(delegate { LockButtonToggle(); });
+        
+        Button_Reload.onClick.RemoveListener(delegate { ShuffleDropdown(Dropdown_AttributeOfTable); });
+        Button_Reload.onClick.AddListener(delegate { ShuffleDropdown(Dropdown_AttributeOfTable); });
+        Button_Reload.onClick.RemoveListener(delegate { Refresh(); });
+        Button_Reload.onClick.AddListener(delegate { Refresh(); });
     }
 
     public void LockButtonToggle()

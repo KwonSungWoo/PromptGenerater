@@ -68,7 +68,7 @@ public class UI_Options : UI_Base
         initDropdown(Option_08.Dropdown_AttributeOfTable, SelectDic(Option_08.Dropdown_TableName), DefaultSetting.OPTION_ATTRIBUTETABLE_08);
     }
 
-    public void SetSentences()
+    public void SetOptionSentences()
     {
         Option_01.SetTableNameSentence();
         Option_02.SetTableNameSentence();

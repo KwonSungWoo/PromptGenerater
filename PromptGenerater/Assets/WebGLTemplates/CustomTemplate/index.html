@@ -31,6 +31,7 @@
         <div id="unity-build-title">{{{ PRODUCT_NAME }}}</div>
       </div>
     </div>
+    
     <script>
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
@@ -123,5 +124,25 @@
 
       document.body.appendChild(script);
     </script>
+
+    <!-- 클립보드 복사/붙여넣기 기능 추가 -->
+    <script type="text/javascript">
+      function CopyToClipboard(text) {
+          navigator.clipboard.writeText(text).then(function() {
+              console.log('Copied to clipboard successfully!');
+          }, function(err) {
+              console.error('Could not copy text: ', err);
+          });
+      }
+
+      function PasteFromClipboard(callbackName) {
+          navigator.clipboard.readText().then(function(text) {
+              SendMessage(callbackName, 'OnPasteFromClipboard', text);
+          }).catch(function(err) {
+              console.error('Failed to read clipboard contents: ', err);
+          });
+      }
+    </script>
+    
   </body>
 </html>
