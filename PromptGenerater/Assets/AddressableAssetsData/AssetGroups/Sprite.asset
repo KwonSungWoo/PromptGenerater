@@ -15,47 +15,46 @@ MonoBehaviour:
   m_GroupName: Sprite
   m_Data:
     m_SerializedData: []
-  m_GUID: 6bc5b9e9f6f8cca4fb7622c94a00bce2
+  m_GUID: 5b71fc9e377624e41a42959c93085b40
   m_SerializeEntries:
   - m_GUID: 073c3087ce14d574398c76c887457553
-    m_Address: Background_675_800
+    m_Address: Background_675_800.sprite
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0a27e7acb5596174993eb39dcdcc85e2
-    m_Address: Like_0n
+    m_Address: Like_0n.sprite
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b3458cb61c7391948a1dc777a8b5a1f8
-    m_Address: Like_Off
+    m_Address: Like_Off.sprite
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: a2e92253d4408064f85dd87f08d62e8f
-    m_Address: Lock_Off
+    m_Address: Lock_Off.sprite
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: f146ab3f90d98b644a6c10bf21a7954c
-    m_Address: Lock_On
+    m_Address: Lock_On.sprite
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 9474dcbb386240a42a6e48ef2e6dc1b1
-    m_Address: Reload
+    m_Address: Reload.sprite
     m_ReadOnly: 0
-    m_SerializedLabels:
-    - PreLoad
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e088b5a7b330134f9f50cfcc9a5081b
+    m_Address: Save.sprite
+    m_ReadOnly: 0
+    m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f24fb20c6430a204494d654a4cd215ea, type: 2}
   m_SchemaSet:
     m_Schemas:
-    - {fileID: 11400000, guid: 78827fb955b3f964e96eaf2440554cd7, type: 2}
-    - {fileID: 11400000, guid: 03912f03423ae8f47a1d3d99a498be68, type: 2}
+    - {fileID: 11400000, guid: 198dbfc8fbb38a3459612c2d99ebbeae, type: 2}
+    - {fileID: 11400000, guid: 8bec0e32256b8f549a20c2f775123cec, type: 2}

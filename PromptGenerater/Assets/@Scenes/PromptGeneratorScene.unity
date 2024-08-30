@@ -13205,6 +13205,7 @@ GameObject:
   - component: {fileID: 801107702}
   - component: {fileID: 801107701}
   - component: {fileID: 801107700}
+  - component: {fileID: 801107705}
   - component: {fileID: 801107704}
   m_Layer: 5
   m_Name: UI_References
@@ -13317,6 +13318,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Input_Sref: {fileID: 0}
   Input_Cref: {fileID: 0}
+--- !u!114 &801107705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 801107698}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c097e508d0c1fb4ea60ae099f5591df, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  inputField: {fileID: 0}
 --- !u!1 &810811991
 GameObject:
   m_ObjectHideFlags: 0

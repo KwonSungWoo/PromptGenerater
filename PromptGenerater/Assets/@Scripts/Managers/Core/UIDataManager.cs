@@ -98,21 +98,34 @@ public class UIDataManager
     {
         finalSentence = START +
 
-                        Option_Sentence_Head_01 + " " + Option_01 + " " + Option_Sentence_Tail_01 + " " + 
-                        Option_Sentence_Head_02 + " " + Option_02 + " " + Option_Sentence_Tail_02 + " " + 
-                        Option_Sentence_Head_03 + " " + Option_03 + " " + Option_Sentence_Tail_03 + " " + 
-                        Option_Sentence_Head_04 + " " + Option_04 + " " + Option_Sentence_Tail_04 + " " + 
-                        Option_Sentence_Head_05 + " " + Option_05 + " " + Option_Sentence_Tail_05 + " " + 
-                        Option_Sentence_Head_06 + " " + Option_06 + " " + Option_Sentence_Tail_06 + " " + 
-                        Option_Sentence_Head_07 + " " + Option_07 + " " + Option_Sentence_Tail_07 + " " + 
+                        Option_Sentence_Head_01 + " " + Option_01 + " " + Option_Sentence_Tail_01 + " " +
+                        Option_Sentence_Head_02 + " " + Option_02 + " " + Option_Sentence_Tail_02 + " " +
+                        Option_Sentence_Head_03 + " " + Option_03 + " " + Option_Sentence_Tail_03 + " " +
+                        Option_Sentence_Head_04 + " " + Option_04 + " " + Option_Sentence_Tail_04 + " " +
+                        Option_Sentence_Head_05 + " " + Option_05 + " " + Option_Sentence_Tail_05 + " " +
+                        Option_Sentence_Head_06 + " " + Option_06 + " " + Option_Sentence_Tail_06 + " " +
+                        Option_Sentence_Head_07 + " " + Option_07 + " " + Option_Sentence_Tail_07 + " " +
                         Option_Sentence_Head_08 + " " + Option_08 + " " + Option_Sentence_Tail_08 + " " +
 
                         Head_setting_Version + setting_Version +
                         Head_setting_Ratio + setting_Ratio +
                         Head_setting_Stylize + setting_Stylize +
 
-                        Head_Reference_Sref + Reference_Sref +
-                        Head_Reference_Cref + Reference_Cref;
+                        GetReference();
+    }
+
+    private string GetReference()
+    {
+        string Ref = " ";
+        if(Reference_Sref != "")
+        {
+            Ref = Ref + Head_Reference_Sref + Reference_Sref;
+        }
+        if(Reference_Cref != "")
+        {
+            Ref = Ref + Head_Reference_Cref + Reference_Cref;
+        }
+        return Ref;
     }
 
     public string GetFinalSentence()

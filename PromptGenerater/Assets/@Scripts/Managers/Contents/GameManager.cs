@@ -3,8 +3,24 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[Serializable]
+public class GameSaveData
+{
+    public Dictionary<string, string> SrefSaveData;
+    public Dictionary<string, string> CrefSaveData;
+}
+
 public class GameManager
 {
+
+    #region GameData
+    GameSaveData _saveData = new GameSaveData();
+    public GameSaveData SaveData {  get { return _saveData; } set { _saveData = value; } }
+    #endregion
+
+    #region Save & Load
+    public string Path { get { return Application.persistentDataPath + "/SaveData.json"; } }
+    #endregion
 
     #region Hero
     private Vector2 _moveDir;

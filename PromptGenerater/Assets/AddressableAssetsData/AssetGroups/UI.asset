@@ -17,14 +17,14 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: f68fba9340749ef40b3dddc16c9029c3
   m_SerializeEntries:
-  - m_GUID: 55d9c6e26f09fa045b355371e6e88adb
-    m_Address: UI_TitleScene
+  - m_GUID: 4fcbc999d5de9194da7a8772c3ff349d
+    m_Address: UI_PromptGeneratorScene
     m_ReadOnly: 0
     m_SerializedLabels:
     - PreLoad
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4fcbc999d5de9194da7a8772c3ff349d
-    m_Address: UI_PromptGeneratorScene
+  - m_GUID: 55d9c6e26f09fa045b355371e6e88adb
+    m_Address: UI_TitleScene
     m_ReadOnly: 0
     m_SerializedLabels:
     - PreLoad
