@@ -2,2131 +2,1067 @@
   "tables": [
     {
       "Number": 1,
-      "Name": "Roman Lorica Segmentata",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Roman Lorica Segmentata"
     },
     {
       "Number": 2,
-      "Name": "Medieval Plate Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Medieval Plate Armor"
     },
     {
       "Number": 3,
-      "Name": "Japanese Samurai Armor (Yoroi)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Japanese Samurai Armor (Yoroi)"
     },
     {
       "Number": 4,
-      "Name": "Greek Hoplite Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Greek Hoplite Armor"
     },
     {
       "Number": 5,
-      "Name": "Persian Immortal Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Persian Immortal Armor"
     },
     {
       "Number": 6,
-      "Name": "Mongol Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mongol Warrior Armor"
     },
     {
       "Number": 7,
-      "Name": "Viking Mail Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Viking Mail Armor"
     },
     {
       "Number": 8,
-      "Name": "Gothic Plate Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Gothic Plate Armor"
     },
     {
       "Number": 9,
-      "Name": "Italian White Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Italian White Armor"
     },
     {
       "Number": 10,
-      "Name": "English Greenwich Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "English Greenwich Armor"
     },
     {
       "Number": 11,
-      "Name": "Ottoman Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ottoman Warrior Armor"
     },
     {
       "Number": 12,
-      "Name": "Indian Mughal Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Indian Mughal Armor"
     },
     {
       "Number": 13,
-      "Name": "Chinese Ming Dynasty Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Chinese Ming Dynasty Armor"
     },
     {
       "Number": 14,
-      "Name": "Aztec Eagle Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Aztec Eagle Warrior Armor"
     },
     {
       "Number": 15,
-      "Name": "Zulu Warrior Shield and Spear",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Zulu Warrior Shield and Spear"
     },
     {
       "Number": 16,
-      "Name": "Spanish Conquistador Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spanish Conquistador Armor"
     },
     {
       "Number": 17,
-      "Name": "Korean Joseon Dynasty Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Korean Joseon Dynasty Armor"
     },
     {
       "Number": 18,
-      "Name": "Russian Boyar Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Russian Boyar Armor"
     },
     {
       "Number": 19,
-      "Name": "German Teutonic Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "German Teutonic Knight Armor"
     },
     {
       "Number": 20,
-      "Name": "Byzantine Cataphract Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Byzantine Cataphract Armor"
     },
     {
       "Number": 21,
-      "Name": "French Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "French Knight Armor"
     },
     {
       "Number": 22,
-      "Name": "Indian Rajput Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Indian Rajput Armor"
     },
     {
       "Number": 23,
-      "Name": "African Zande Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "African Zande Warrior Armor"
     },
     {
       "Number": 24,
-      "Name": "Sioux War Bonnet and Hide Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sioux War Bonnet and Hide Armor"
     },
     {
       "Number": 25,
-      "Name": "Maori Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Maori Warrior Armor"
     },
     {
       "Number": 26,
-      "Name": "Polynesian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Polynesian Warrior Armor"
     },
     {
       "Number": 27,
-      "Name": "Celtic Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Celtic Warrior Armor"
     },
     {
       "Number": 28,
-      "Name": "Saxon Warlord Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Saxon Warlord Armor"
     },
     {
       "Number": 29,
-      "Name": "Norman Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Norman Knight Armor"
     },
     {
       "Number": 30,
-      "Name": "Carolingian Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Carolingian Knight Armor"
     },
     {
       "Number": 31,
-      "Name": "English Longbowman Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "English Longbowman Armor"
     },
     {
       "Number": 32,
-      "Name": "Crusader Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Crusader Knight Armor"
     },
     {
       "Number": 33,
-      "Name": "Mongolian Heavy Cavalry Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mongolian Heavy Cavalry Armor"
     },
     {
       "Number": 34,
-      "Name": "Ottoman Janissary Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ottoman Janissary Armor"
     },
     {
       "Number": 35,
-      "Name": "Arabian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Arabian Warrior Armor"
     },
     {
       "Number": 36,
-      "Name": "Assyrian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Assyrian Warrior Armor"
     },
     {
       "Number": 37,
-      "Name": "Egyptian New Kingdom Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Egyptian New Kingdom Armor"
     },
     {
       "Number": 38,
-      "Name": "Hittite Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hittite Warrior Armor"
     },
     {
       "Number": 39,
-      "Name": "Mycenaean Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mycenaean Warrior Armor"
     },
     {
       "Number": 40,
-      "Name": "Spartan Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spartan Warrior Armor"
     },
     {
       "Number": 41,
-      "Name": "Roman Gladiator Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Roman Gladiator Armor"
     },
     {
       "Number": 42,
-      "Name": "Persian Heavy Cavalry Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Persian Heavy Cavalry Armor"
     },
     {
       "Number": 43,
-      "Name": "Scythian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Scythian Warrior Armor"
     },
     {
       "Number": 44,
-      "Name": "Chinese Terracotta Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Chinese Terracotta Warrior Armor"
     },
     {
       "Number": 45,
-      "Name": "Japanese Ashigaru Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Japanese Ashigaru Armor"
     },
     {
       "Number": 46,
-      "Name": "Thai Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Thai Warrior Armor"
     },
     {
       "Number": 47,
-      "Name": "Burmese Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Burmese Warrior Armor"
     },
     {
       "Number": 48,
-      "Name": "Indonesian Kris Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Indonesian Kris Warrior Armor"
     },
     {
       "Number": 49,
-      "Name": "Filipino Moro Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Filipino Moro Warrior Armor"
     },
     {
       "Number": 50,
-      "Name": "Hawaiian Koa Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hawaiian Koa Warrior Armor"
     },
     {
       "Number": 51,
-      "Name": "Incan Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Incan Warrior Armor"
     },
     {
       "Number": 52,
-      "Name": "Mayan Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mayan Warrior Armor"
     },
     {
       "Number": 53,
-      "Name": "Apache Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Apache Warrior Armor"
     },
     {
       "Number": 54,
-      "Name": "Comanche Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Comanche Warrior Armor"
     },
     {
       "Number": 55,
-      "Name": "Navajo Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Navajo Warrior Armor"
     },
     {
       "Number": 56,
-      "Name": "Cheyenne Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cheyenne Warrior Armor"
     },
     {
       "Number": 57,
-      "Name": "Lakota Sioux Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lakota Sioux Warrior Armor"
     },
     {
       "Number": 58,
-      "Name": "Crow Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Crow Warrior Armor"
     },
     {
       "Number": 59,
-      "Name": "Blackfoot Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Blackfoot Warrior Armor"
     },
     {
       "Number": 60,
-      "Name": "Ojibwa Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ojibwa Warrior Armor"
     },
     {
       "Number": 61,
-      "Name": "Iroquois Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Iroquois Warrior Armor"
     },
     {
       "Number": 62,
-      "Name": "Algonquin Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Algonquin Warrior Armor"
     },
     {
       "Number": 63,
-      "Name": "Huron Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Huron Warrior Armor"
     },
     {
       "Number": 64,
-      "Name": "Mi'kmaq Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mi'kmaq Warrior Armor"
     },
     {
       "Number": 65,
-      "Name": "Cree Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cree Warrior Armor"
     },
     {
       "Number": 66,
-      "Name": "Metis Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Metis Warrior Armor"
     },
     {
       "Number": 67,
-      "Name": "Inuit Hunting Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Inuit Hunting Armor"
     },
     {
       "Number": 68,
-      "Name": "Viking Berserker Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Viking Berserker Armor"
     },
     {
       "Number": 69,
-      "Name": "Anglo-Saxon Huscarl Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Anglo-Saxon Huscarl Armor"
     },
     {
       "Number": 70,
-      "Name": "Norman Huscarl Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Norman Huscarl Armor"
     },
     {
       "Number": 71,
-      "Name": "Frankish Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Frankish Warrior Armor"
     },
     {
       "Number": 72,
-      "Name": "Visigothic Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Visigothic Warrior Armor"
     },
     {
       "Number": 73,
-      "Name": "Ostrogothic Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ostrogothic Warrior Armor"
     },
     {
       "Number": 74,
-      "Name": "Lombard Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lombard Warrior Armor"
     },
     {
       "Number": 75,
-      "Name": "Vandal Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Vandal Warrior Armor"
     },
     {
       "Number": 76,
-      "Name": "Hunnic Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hunnic Warrior Armor"
     },
     {
       "Number": 77,
-      "Name": "Avar Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Avar Warrior Armor"
     },
     {
       "Number": 78,
-      "Name": "Bulgarian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bulgarian Warrior Armor"
     },
     {
       "Number": 79,
-      "Name": "Serbian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Serbian Warrior Armor"
     },
     {
       "Number": 80,
-      "Name": "Croatian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Croatian Warrior Armor"
     },
     {
       "Number": 81,
-      "Name": "Bosnian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bosnian Warrior Armor"
     },
     {
       "Number": 82,
-      "Name": "Montenegrin Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Montenegrin Warrior Armor"
     },
     {
       "Number": 83,
-      "Name": "Albanian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Albanian Warrior Armor"
     },
     {
       "Number": 84,
-      "Name": "Macedonian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Macedonian Warrior Armor"
     },
     {
       "Number": 85,
-      "Name": "Greek Stratiot Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Greek Stratiot Armor"
     },
     {
       "Number": 86,
-      "Name": "Turkish Yatagan Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Turkish Yatagan Warrior Armor"
     },
     {
       "Number": 87,
-      "Name": "Persian Safavid Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Persian Safavid Armor"
     },
     {
       "Number": 88,
-      "Name": "Mamluk Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mamluk Warrior Armor"
     },
     {
       "Number": 89,
-      "Name": "Berber Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Berber Warrior Armor"
     },
     {
       "Number": 90,
-      "Name": "Moorish Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Moorish Warrior Armor"
     },
     {
       "Number": 91,
-      "Name": "Tuareg Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tuareg Warrior Armor"
     },
     {
       "Number": 92,
-      "Name": "Ethiopian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ethiopian Warrior Armor"
     },
     {
       "Number": 93,
-      "Name": "Somali Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Somali Warrior Armor"
     },
     {
       "Number": 94,
-      "Name": "Zanzibari Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Zanzibari Warrior Armor"
     },
     {
       "Number": 95,
-      "Name": "Swahili Coast Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Swahili Coast Warrior Armor"
     },
     {
       "Number": 96,
-      "Name": "Malagasy Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Malagasy Warrior Armor"
     },
     {
       "Number": 97,
-      "Name": "Bantu Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bantu Warrior Armor"
     },
     {
       "Number": 98,
-      "Name": "Khoisan Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Khoisan Warrior Armor"
     },
     {
       "Number": 99,
-      "Name": "Xhosa Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Xhosa Warrior Armor"
     },
     {
       "Number": 100,
-      "Name": "Tswana Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tswana Warrior Armor"
     },
     {
       "Number": 101,
-      "Name": "Nubian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Nubian Warrior Armor"
     },
     {
       "Number": 102,
-      "Name": "Ashanti Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ashanti Warrior Armor"
     },
     {
       "Number": 103,
-      "Name": "Yoruba Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Yoruba Warrior Armor"
     },
     {
       "Number": 104,
-      "Name": "Igbo Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Igbo Warrior Armor"
     },
     {
       "Number": 105,
-      "Name": "Fulani Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Fulani Warrior Armor"
     },
     {
       "Number": 106,
-      "Name": "Mandinka Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mandinka Warrior Armor"
     },
     {
       "Number": 107,
-      "Name": "Songhai Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Songhai Warrior Armor"
     },
     {
       "Number": 108,
-      "Name": "Kanem Bornu Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Kanem Bornu Warrior Armor"
     },
     {
       "Number": 109,
-      "Name": "Hausa Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hausa Warrior Armor"
     },
     {
       "Number": 110,
-      "Name": "Mossi Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mossi Warrior Armor"
     },
     {
       "Number": 111,
-      "Name": "Tuareg Camel Cavalry Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tuareg Camel Cavalry Armor"
     },
     {
       "Number": 112,
-      "Name": "Egyptian Mamluk Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Egyptian Mamluk Armor"
     },
     {
       "Number": 113,
-      "Name": "Carthaginian War Elephant Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Carthaginian War Elephant Armor"
     },
     {
       "Number": 114,
-      "Name": "Numidian Cavalry Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Numidian Cavalry Armor"
     },
     {
       "Number": 115,
-      "Name": "Garamante Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Garamante Warrior Armor"
     },
     {
       "Number": 116,
-      "Name": "Aksumite Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Aksumite Warrior Armor"
     },
     {
       "Number": 117,
-      "Name": "Vandala Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Vandala Armor"
     },
     {
       "Number": 118,
-      "Name": "Roman Legionary Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Roman Legionary Armor"
     },
     {
       "Number": 119,
-      "Name": "Byzantine Varangian Guard Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Byzantine Varangian Guard Armor"
     },
     {
       "Number": 120,
-      "Name": "Sarmatian Heavy Cavalry Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sarmatian Heavy Cavalry Armor"
     },
     {
       "Number": 121,
-      "Name": "Parthian Cataphract Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Parthian Cataphract Armor"
     },
     {
       "Number": 122,
-      "Name": "Scythian Archer Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Scythian Archer Armor"
     },
     {
       "Number": 123,
-      "Name": "Thracian Gladiator Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Thracian Gladiator Armor"
     },
     {
       "Number": 124,
-      "Name": "Illyrian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Illyrian Warrior Armor"
     },
     {
       "Number": 125,
-      "Name": "Dacian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Dacian Warrior Armor"
     },
     {
       "Number": 126,
-      "Name": "Pictish Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pictish Warrior Armor"
     },
     {
       "Number": 127,
-      "Name": "Welsh Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Welsh Warrior Armor"
     },
     {
       "Number": 128,
-      "Name": "Breton Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Breton Warrior Armor"
     },
     {
       "Number": 129,
-      "Name": "Gaulish Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Gaulish Warrior Armor"
     },
     {
       "Number": 130,
-      "Name": "Belgian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Belgian Warrior Armor"
     },
     {
       "Number": 131,
-      "Name": "Frankish Merovingian Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Frankish Merovingian Armor"
     },
     {
       "Number": 132,
-      "Name": "Burgundian Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Burgundian Knight Armor"
     },
     {
       "Number": 133,
-      "Name": "Aquitanian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Aquitanian Warrior Armor"
     },
     {
       "Number": 134,
-      "Name": "Gascon Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Gascon Warrior Armor"
     },
     {
       "Number": 135,
-      "Name": "Basque Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Basque Warrior Armor"
     },
     {
       "Number": 136,
-      "Name": "Aragonese Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Aragonese Knight Armor"
     },
     {
       "Number": 137,
-      "Name": "Castilian Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Castilian Knight Armor"
     },
     {
       "Number": 138,
-      "Name": "Portuguese Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Portuguese Knight Armor"
     },
     {
       "Number": 139,
-      "Name": "Leonese Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Leonese Knight Armor"
     },
     {
       "Number": 140,
-      "Name": "Navarrese Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Navarrese Knight Armor"
     },
     {
       "Number": 141,
-      "Name": "Granadian Nasrid Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Granadian Nasrid Armor"
     },
     {
       "Number": 142,
-      "Name": "Valencian Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Valencian Knight Armor"
     },
     {
       "Number": 143,
-      "Name": "Sicilian Norman Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sicilian Norman Armor"
     },
     {
       "Number": 144,
-      "Name": "Venetian Condottiere Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Venetian Condottiere Armor"
     },
     {
       "Number": 145,
-      "Name": "Genoese Crossbowman Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Genoese Crossbowman Armor"
     },
     {
       "Number": 146,
-      "Name": "Papal Swiss Guard Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Papal Swiss Guard Armor"
     },
     {
       "Number": 147,
-      "Name": "Milanese Sforza Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Milanese Sforza Armor"
     },
     {
       "Number": 148,
-      "Name": "Neapolitan Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Neapolitan Knight Armor"
     },
     {
       "Number": 149,
-      "Name": "Florentine Mercenary Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Florentine Mercenary Armor"
     },
     {
       "Number": 150,
-      "Name": "Calabrian Archer Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Calabrian Archer Armor"
     },
     {
       "Number": 151,
-      "Name": "Sardinian Arbalester Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sardinian Arbalester Armor"
     },
     {
       "Number": 152,
-      "Name": "Corsican Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Corsican Warrior Armor"
     },
     {
       "Number": 153,
-      "Name": "Maltese Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Maltese Knight Armor"
     },
     {
       "Number": 154,
-      "Name": "Lombard Crossbowman Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lombard Crossbowman Armor"
     },
     {
       "Number": 155,
-      "Name": "Tyrolean Marksman Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tyrolean Marksman Armor"
     },
     {
       "Number": 156,
-      "Name": "Austrian Habsburg Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Austrian Habsburg Armor"
     },
     {
       "Number": 157,
-      "Name": "Bohemian Hussite Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bohemian Hussite Armor"
     },
     {
       "Number": 158,
-      "Name": "Moravian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Moravian Warrior Armor"
     },
     {
       "Number": 159,
-      "Name": "Slovak Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Slovak Warrior Armor"
     },
     {
       "Number": 160,
-      "Name": "Polish Winged Hussar Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Polish Winged Hussar Armor"
     },
     {
       "Number": 161,
-      "Name": "Lithuanian Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lithuanian Knight Armor"
     },
     {
       "Number": 162,
-      "Name": "Prussian Teutonic Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Prussian Teutonic Knight Armor"
     },
     {
       "Number": 163,
-      "Name": "Latvian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Latvian Warrior Armor"
     },
     {
       "Number": 164,
-      "Name": "Estonian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Estonian Warrior Armor"
     },
     {
       "Number": 165,
-      "Name": "Finnish Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Finnish Warrior Armor"
     },
     {
       "Number": 166,
-      "Name": "Swedish Vasa Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Swedish Vasa Armor"
     },
     {
       "Number": 167,
-      "Name": "Danish Viking Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Danish Viking Armor"
     },
     {
       "Number": 168,
-      "Name": "Norwegian Skald Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Norwegian Skald Armor"
     },
     {
       "Number": 169,
-      "Name": "Icelandic Viking Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Icelandic Viking Armor"
     },
     {
       "Number": 170,
-      "Name": "Faroese Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Faroese Warrior Armor"
     },
     {
       "Number": 171,
-      "Name": "Greenlandic Inuit Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Greenlandic Inuit Armor"
     },
     {
       "Number": 172,
-      "Name": "Sami Reindeer Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sami Reindeer Armor"
     },
     {
       "Number": 173,
-      "Name": "Kievan Rus' Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Kievan Rus' Warrior Armor"
     },
     {
       "Number": 174,
-      "Name": "Muscovite Tsar Guard Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Muscovite Tsar Guard Armor"
     },
     {
       "Number": 175,
-      "Name": "Cossack Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cossack Warrior Armor"
     },
     {
       "Number": 176,
-      "Name": "Tartar Archer Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tartar Archer Armor"
     },
     {
       "Number": 177,
-      "Name": "Siberian Shaman Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Siberian Shaman Armor"
     },
     {
       "Number": 178,
-      "Name": "Kalmyk Cavalry Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Kalmyk Cavalry Armor"
     },
     {
       "Number": 179,
-      "Name": "Georgian Knight Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Georgian Knight Armor"
     },
     {
       "Number": 180,
-      "Name": "Armenian Heavy Cavalry Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Armenian Heavy Cavalry Armor"
     },
     {
       "Number": 181,
-      "Name": "Azeri Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Azeri Warrior Armor"
     },
     {
       "Number": 182,
-      "Name": "Circassian Cavalry Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Circassian Cavalry Armor"
     },
     {
       "Number": 183,
-      "Name": "Chechen Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Chechen Warrior Armor"
     },
     {
       "Number": 184,
-      "Name": "Dagestani Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Dagestani Warrior Armor"
     },
     {
       "Number": 185,
-      "Name": "Abkhazian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Abkhazian Warrior Armor"
     },
     {
       "Number": 186,
-      "Name": "Ossetian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ossetian Warrior Armor"
     },
     {
       "Number": 187,
-      "Name": "Ingush Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ingush Warrior Armor"
     },
     {
       "Number": 188,
-      "Name": "Balkar Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Balkar Warrior Armor"
     },
     {
       "Number": 189,
-      "Name": "Karachay Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Karachay Warrior Armor"
     },
     {
       "Number": 190,
-      "Name": "Kabardian Cavalry Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Kabardian Cavalry Armor"
     },
     {
       "Number": 191,
-      "Name": "Crimean Tatar Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Crimean Tatar Armor"
     },
     {
       "Number": 192,
-      "Name": "Bashkir Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bashkir Warrior Armor"
     },
     {
       "Number": 193,
-      "Name": "Udmurt Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Udmurt Warrior Armor"
     },
     {
       "Number": 194,
-      "Name": "Mari Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mari Warrior Armor"
     },
     {
       "Number": 195,
-      "Name": "Mordvin Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mordvin Warrior Armor"
     },
     {
       "Number": 196,
-      "Name": "Chuvash Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Chuvash Warrior Armor"
     },
     {
       "Number": 197,
-      "Name": "Tatar Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tatar Warrior Armor"
     },
     {
       "Number": 198,
-      "Name": "Buryat Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Buryat Warrior Armor"
     },
     {
       "Number": 199,
-      "Name": "Evenki Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Evenki Warrior Armor"
     },
     {
       "Number": 200,
-      "Name": "Yakut Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Yakut Warrior Armor"
     },
     {
       "Number": 201,
-      "Name": "Kamchatka Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Kamchatka Warrior Armor"
     },
     {
       "Number": 202,
-      "Name": "Ainu Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ainu Warrior Armor"
     },
     {
       "Number": 203,
-      "Name": "Ryukyuan Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ryukyuan Warrior Armor"
     },
     {
       "Number": 204,
-      "Name": "Tibetan Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tibetan Warrior Armor"
     },
     {
       "Number": 205,
-      "Name": "Mongolian Khan Guard Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mongolian Khan Guard Armor"
     },
     {
       "Number": 206,
-      "Name": "Manchurian Qing Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Manchurian Qing Armor"
     },
     {
       "Number": 207,
-      "Name": "Korean Goguryeo Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Korean Goguryeo Armor"
     },
     {
       "Number": 208,
-      "Name": "Korean Baekje Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Korean Baekje Armor"
     },
     {
       "Number": 209,
-      "Name": "Korean Silla Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Korean Silla Armor"
     },
     {
       "Number": 210,
-      "Name": "Vietnamese Lý Dynasty Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Vietnamese Lý Dynasty Armor"
     },
     {
       "Number": 211,
-      "Name": "Vietnamese Trần Dynasty Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Vietnamese Trần Dynasty Armor"
     },
     {
       "Number": 212,
-      "Name": "Vietnamese Lê Dynasty Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Vietnamese Lê Dynasty Armor"
     },
     {
       "Number": 213,
-      "Name": "Cham Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cham Warrior Armor"
     },
     {
       "Number": 214,
-      "Name": "Khmer Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Khmer Warrior Armor"
     },
     {
       "Number": 215,
-      "Name": "Laotian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Laotian Warrior Armor"
     },
     {
       "Number": 216,
-      "Name": "Burmese Pagan Kingdom Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Burmese Pagan Kingdom Armor"
     },
     {
       "Number": 217,
-      "Name": "Burmese Konbaung Dynasty Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Burmese Konbaung Dynasty Armor"
     },
     {
       "Number": 218,
-      "Name": "Thai Ayutthaya Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Thai Ayutthaya Armor"
     },
     {
       "Number": 219,
-      "Name": "Thai Sukhothai Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Thai Sukhothai Armor"
     },
     {
       "Number": 220,
-      "Name": "Thai Rattanakosin Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Thai Rattanakosin Armor"
     },
     {
       "Number": 221,
-      "Name": "Malaysian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Malaysian Warrior Armor"
     },
     {
       "Number": 222,
-      "Name": "Bruneian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bruneian Warrior Armor"
     },
     {
       "Number": 223,
-      "Name": "Philippine Rajah Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Philippine Rajah Armor"
     },
     {
       "Number": 224,
-      "Name": "Indonesian Majapahit Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Indonesian Majapahit Armor"
     },
     {
       "Number": 225,
-      "Name": "Indonesian Srivijaya Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Indonesian Srivijaya Armor"
     },
     {
       "Number": 226,
-      "Name": "Balinese Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Balinese Warrior Armor"
     },
     {
       "Number": 227,
-      "Name": "Javanese Mataram Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Javanese Mataram Armor"
     },
     {
       "Number": 228,
-      "Name": "Sundanese Pajajaran Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sundanese Pajajaran Armor"
     },
     {
       "Number": 229,
-      "Name": "Madurese Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Madurese Warrior Armor"
     },
     {
       "Number": 230,
-      "Name": "Austronesian Moro Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Austronesian Moro Armor"
     },
     {
       "Number": 231,
-      "Name": "Micronesian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Micronesian Warrior Armor"
     },
     {
       "Number": 232,
-      "Name": "Melanesian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Melanesian Warrior Armor"
     },
     {
       "Number": 233,
-      "Name": "Fijian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Fijian Warrior Armor"
     },
     {
       "Number": 234,
-      "Name": "Samoan Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Samoan Warrior Armor"
     },
     {
       "Number": 235,
-      "Name": "Tongan Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tongan Warrior Armor"
     },
     {
       "Number": 236,
-      "Name": "New Caledonian Kanak Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "New Caledonian Kanak Armor"
     },
     {
       "Number": 237,
-      "Name": "Papuan Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Papuan Warrior Armor"
     },
     {
       "Number": 238,
-      "Name": "Solomon Islands Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Solomon Islands Warrior Armor"
     },
     {
       "Number": 239,
-      "Name": "Vanuatu Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Vanuatu Warrior Armor"
     },
     {
       "Number": 240,
-      "Name": "New Zealand Māori Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "New Zealand Māori Warrior Armor"
     },
     {
       "Number": 241,
-      "Name": "Australian Aboriginal Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Australian Aboriginal Warrior Armor"
     },
     {
       "Number": 242,
-      "Name": "Tasmanian Aboriginal Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tasmanian Aboriginal Warrior Armor"
     },
     {
       "Number": 243,
-      "Name": "Hawaiian Ali'i Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hawaiian Ali'i Warrior Armor"
     },
     {
       "Number": 244,
-      "Name": "Tahitian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tahitian Warrior Armor"
     },
     {
       "Number": 245,
-      "Name": "Marquesan Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Marquesan Warrior Armor"
     },
     {
       "Number": 246,
-      "Name": "Rapa Nui Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Rapa Nui Warrior Armor"
     },
     {
       "Number": 247,
-      "Name": "Gallic Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Gallic Warrior Armor"
     },
     {
       "Number": 248,
-      "Name": "Belgae Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Belgae Warrior Armor"
     },
     {
       "Number": 249,
-      "Name": "Caledonian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Caledonian Warrior Armor"
     },
     {
       "Number": 250,
-      "Name": "Pict Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pict Warrior Armor"
     },
     {
       "Number": 251,
-      "Name": "Iberian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Iberian Warrior Armor"
     },
     {
       "Number": 252,
-      "Name": "Lusitanian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lusitanian Warrior Armor"
     },
     {
       "Number": 253,
-      "Name": "Tartessian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tartessian Warrior Armor"
     },
     {
       "Number": 254,
-      "Name": "Balearic Slinger Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Balearic Slinger Armor"
     },
     {
       "Number": 255,
-      "Name": "Etruscan Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Etruscan Warrior Armor"
     },
     {
       "Number": 256,
-      "Name": "Samnite Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Samnite Warrior Armor"
     },
     {
       "Number": 257,
-      "Name": "Lucanian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lucanian Warrior Armor"
     },
     {
       "Number": 258,
-      "Name": "Bruttian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bruttian Warrior Armor"
     },
     {
       "Number": 259,
-      "Name": "Umbrian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Umbrian Warrior Armor"
     },
     {
       "Number": 260,
-      "Name": "Veneti Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Veneti Warrior Armor"
     },
     {
       "Number": 261,
-      "Name": "Ligurian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ligurian Warrior Armor"
     },
     {
       "Number": 262,
-      "Name": "Sicanian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sicanian Warrior Armor"
     },
     {
       "Number": 263,
-      "Name": "Sicel Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sicel Warrior Armor"
     },
     {
       "Number": 264,
-      "Name": "Elymian Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Elymian Warrior Armor"
     },
     {
       "Number": 265,
-      "Name": "Nuragic Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Nuragic Warrior Armor"
     },
     {
       "Number": 266,
-      "Name": "Phoenician Warrior Armor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Phoenician Warrior Armor"
     }
   ]
 }

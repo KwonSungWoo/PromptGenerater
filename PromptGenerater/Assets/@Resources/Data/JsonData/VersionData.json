@@ -2,51 +2,31 @@
   "tables": [
     {
       "Number": 1,
-      "Name": "niji 5",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "niji 5"
     },
     {
       "Number": 2,
-      "Name": "niji 6",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "niji 6"
     },
     {
       "Number": 3,
-      "Name": "v 4",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "v 4"
     },
     {
       "Number": 4,
-      "Name": "v 5",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "v 5"
     },
     {
       "Number": 5,
-      "Name": "v 5.1",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "v 5.1"
     },
     {
       "Number": 6,
-      "Name": "v 6",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "v 6"
+    },
+    {
+      "Number": 7,
+      "Name": "v 6.1"
     }
   ]
 }

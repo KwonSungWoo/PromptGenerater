@@ -2,123 +2,63 @@
   "tables": [
     {
       "Number": 1,
-      "Name": "1:1",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "1:1"
     },
     {
       "Number": 2,
-      "Name": "1:2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "1:2"
     },
     {
       "Number": 3,
-      "Name": "2:3",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "2:3"
     },
     {
       "Number": 4,
-      "Name": "2:5",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "2:5"
     },
     {
       "Number": 5,
-      "Name": "3:4",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "3:4"
     },
     {
       "Number": 6,
-      "Name": "3:5",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "3:5"
     },
     {
       "Number": 7,
-      "Name": "9:16",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "9:16"
     },
     {
       "Number": 8,
-      "Name": "2:1",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "2:1"
     },
     {
       "Number": 9,
-      "Name": "3:2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "3:2"
     },
     {
       "Number": 10,
-      "Name": "5:2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "5:2"
     },
     {
       "Number": 11,
-      "Name": "4:3",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "4:3"
     },
     {
       "Number": 12,
-      "Name": "5:3",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "5:3"
     },
     {
       "Number": 13,
-      "Name": "16:9",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "16:9"
     },
     {
       "Number": 14,
-      "Name": "37:20",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "37:20"
     },
     {
       "Number": 15,
-      "Name": "47:20",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "47:20"
     }
   ]
 }

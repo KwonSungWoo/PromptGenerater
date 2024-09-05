@@ -15,10 +15,6 @@ namespace Data
     {
         public int Number;
         public string Name;
-        public int Favorites;
-        public int Dislike;
-        public int Appearances;
-        public int Used;
     }
 
     [Serializable]

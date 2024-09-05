@@ -2,67 +2,35 @@
   "tables": [
     {
       "Number": 1,
-      "Name": "Full Body",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Full Body"
     },
     {
       "Number": 2,
-      "Name": "Long wide Shot",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Long wide Shot"
     },
     {
       "Number": 3,
-      "Name": "Female model standing",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Female model standing"
     },
     {
       "Number": 4,
-      "Name": "male model standing",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "male model standing"
     },
     {
       "Number": 5,
-      "Name": "Portrait",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Portrait"
     },
     {
       "Number": 6,
-      "Name": "Extreme Close Up",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Extreme Close Up"
     },
     {
       "Number": 7,
-      "Name": "Front and back stand pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Front and back stand pose"
     },
     {
       "Number": 8,
-      "Name": "Concept Art Sheet",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Concept Art Sheet"
     }
   ]
 }

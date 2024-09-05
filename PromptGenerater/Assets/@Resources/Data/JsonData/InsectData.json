@@ -2,1587 +2,795 @@
   "tables": [
     {
       "Number": 1,
-      "Name": "Monarch Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Monarch Butterfly"
     },
     {
       "Number": 2,
-      "Name": "European Honey Bee",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "European Honey Bee"
     },
     {
       "Number": 3,
-      "Name": "Bumblebee",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bumblebee"
     },
     {
       "Number": 4,
-      "Name": "Praying Mantis",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Praying Mantis"
     },
     {
       "Number": 5,
-      "Name": "Ladybug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ladybug"
     },
     {
       "Number": 6,
-      "Name": "Hercules Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hercules Beetle"
     },
     {
       "Number": 7,
-      "Name": "Goliath Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Goliath Beetle"
     },
     {
       "Number": 8,
-      "Name": "Atlas Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Atlas Moth"
     },
     {
       "Number": 9,
-      "Name": "Luna Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Luna Moth"
     },
     {
       "Number": 10,
-      "Name": "Asian Giant Hornet",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Asian Giant Hornet"
     },
     {
       "Number": 11,
-      "Name": "Common Fruit Fly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Common Fruit Fly"
     },
     {
       "Number": 12,
-      "Name": "Firefly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Firefly"
     },
     {
       "Number": 13,
-      "Name": "Mosquito",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mosquito"
     },
     {
       "Number": 14,
-      "Name": "Cabbage White Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cabbage White Butterfly"
     },
     {
       "Number": 15,
-      "Name": "Aphid",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Aphid"
     },
     {
       "Number": 16,
-      "Name": "Dung Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Dung Beetle"
     },
     {
       "Number": 17,
-      "Name": "Stag Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Stag Beetle"
     },
     {
       "Number": 18,
-      "Name": "American Cockroach",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "American Cockroach"
     },
     {
       "Number": 19,
-      "Name": "House Fly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "House Fly"
     },
     {
       "Number": 20,
-      "Name": "Bed Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bed Bug"
     },
     {
       "Number": 21,
-      "Name": "Tsetse Fly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tsetse Fly"
     },
     {
       "Number": 22,
-      "Name": "Red Imported Fire Ant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Red Imported Fire Ant"
     },
     {
       "Number": 23,
-      "Name": "Formosan Termite",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Formosan Termite"
     },
     {
       "Number": 24,
-      "Name": "Death's Head Hawkmoth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Death's Head Hawkmoth"
     },
     {
       "Number": 25,
-      "Name": "Madagascan Sunset Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Madagascan Sunset Moth"
     },
     {
       "Number": 26,
-      "Name": "Tarantula Hawk Wasp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tarantula Hawk Wasp"
     },
     {
       "Number": 27,
-      "Name": "Japanese Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Japanese Beetle"
     },
     {
       "Number": 28,
-      "Name": "Black Garden Ant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Black Garden Ant"
     },
     {
       "Number": 29,
-      "Name": "Yellow Jacket",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Yellow Jacket"
     },
     {
       "Number": 30,
-      "Name": "Stick Insect",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Stick Insect"
     },
     {
       "Number": 31,
-      "Name": "Western Honey Bee",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Western Honey Bee"
     },
     {
       "Number": 32,
-      "Name": "Silverfish",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Silverfish"
     },
     {
       "Number": 33,
-      "Name": "Yellow Fever Mosquito",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Yellow Fever Mosquito"
     },
     {
       "Number": 34,
-      "Name": "Desert Locust",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Desert Locust"
     },
     {
       "Number": 35,
-      "Name": "Emerald Ash Borer",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Emerald Ash Borer"
     },
     {
       "Number": 36,
-      "Name": "Brown Marmorated Stink Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Brown Marmorated Stink Bug"
     },
     {
       "Number": 37,
-      "Name": "Argentine Ant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Argentine Ant"
     },
     {
       "Number": 38,
-      "Name": "European Mantis",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "European Mantis"
     },
     {
       "Number": 39,
-      "Name": "Leafcutter Ant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Leafcutter Ant"
     },
     {
       "Number": 40,
-      "Name": "Orchid Mantis",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Orchid Mantis"
     },
     {
       "Number": 41,
-      "Name": "American Burying Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "American Burying Beetle"
     },
     {
       "Number": 42,
-      "Name": "Asian Long-horned Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Asian Long-horned Beetle"
     },
     {
       "Number": 43,
-      "Name": "Caddisfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Caddisfly"
     },
     {
       "Number": 44,
-      "Name": "Colorado Potato Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Colorado Potato Beetle"
     },
     {
       "Number": 45,
-      "Name": "Zebra Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Zebra Butterfly"
     },
     {
       "Number": 46,
-      "Name": "Bullet Ant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bullet Ant"
     },
     {
       "Number": 47,
-      "Name": "Black Widow Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Black Widow Spider"
     },
     {
       "Number": 48,
-      "Name": "Scorpion (Also technically an arachnid)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Scorpion (Also technically an arachnid)"
     },
     {
       "Number": 49,
-      "Name": "Red Velvet Ant (which is actually a wasp)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Red Velvet Ant (which is actually a wasp)"
     },
     {
       "Number": 50,
-      "Name": "Green Lacewing",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Green Lacewing"
     },
     {
       "Number": 51,
-      "Name": "Spotted Lanternfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spotted Lanternfly"
     },
     {
       "Number": 52,
-      "Name": "Queen Alexandra's Birdwing",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Queen Alexandra's Birdwing"
     },
     {
       "Number": 53,
-      "Name": "Damselfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Damselfly"
     },
     {
       "Number": 54,
-      "Name": "Swallowtail Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Swallowtail Butterfly"
     },
     {
       "Number": 55,
-      "Name": "Peppered Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Peppered Moth"
     },
     {
       "Number": 56,
-      "Name": "Bald-Faced Hornet",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bald-Faced Hornet"
     },
     {
       "Number": 57,
-      "Name": "Emerald Cockroach Wasp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Emerald Cockroach Wasp"
     },
     {
       "Number": 58,
-      "Name": "Brown Recluse Spider (Arachnid)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Brown Recluse Spider (Arachnid)"
     },
     {
       "Number": 59,
-      "Name": "Carpenter Ant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Carpenter Ant"
     },
     {
       "Number": 60,
-      "Name": "Giant Water Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Giant Water Bug"
     },
     {
       "Number": 61,
-      "Name": "Army Ant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Army Ant"
     },
     {
       "Number": 62,
-      "Name": "Giant Silk Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Giant Silk Moth"
     },
     {
       "Number": 63,
-      "Name": "Eyed Click Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Eyed Click Beetle"
     },
     {
       "Number": 64,
-      "Name": "Velvet Worm",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Velvet Worm"
     },
     {
       "Number": 65,
-      "Name": "Eastern Tent Caterpillar Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Eastern Tent Caterpillar Moth"
     },
     {
       "Number": 66,
-      "Name": "Pharaoh Ant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pharaoh Ant"
     },
     {
       "Number": 67,
-      "Name": "Tiger Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tiger Beetle"
     },
     {
       "Number": 68,
-      "Name": "Spittlebug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spittlebug"
     },
     {
       "Number": 69,
-      "Name": "Mayfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mayfly"
     },
     {
       "Number": 70,
-      "Name": "Fire Ant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Fire Ant"
     },
     {
       "Number": 71,
-      "Name": "Dragonfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Dragonfly"
     },
     {
       "Number": 72,
-      "Name": "Oak Treehopper",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Oak Treehopper"
     },
     {
       "Number": 73,
-      "Name": "Water Strider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Water Strider"
     },
     {
       "Number": 74,
-      "Name": "Flea",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Flea"
     },
     {
       "Number": 75,
-      "Name": "German Cockroach",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "German Cockroach"
     },
     {
       "Number": 76,
-      "Name": "Cigarette Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cigarette Beetle"
     },
     {
       "Number": 77,
-      "Name": "Green Stink Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Green Stink Bug"
     },
     {
       "Number": 78,
-      "Name": "Rhinoceros Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Rhinoceros Beetle"
     },
     {
       "Number": 79,
-      "Name": "Sweat Bee",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sweat Bee"
     },
     {
       "Number": 80,
-      "Name": "Paper Wasp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Paper Wasp"
     },
     {
       "Number": 81,
-      "Name": "Eastern Carpenter Bee",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Eastern Carpenter Bee"
     },
     {
       "Number": 82,
-      "Name": "Peacock Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Peacock Butterfly"
     },
     {
       "Number": 83,
-      "Name": "Tardigrade (water bear)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tardigrade (water bear)"
     },
     {
       "Number": 84,
-      "Name": "Corn Earworm Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Corn Earworm Moth"
     },
     {
       "Number": 85,
-      "Name": "Wheel Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Wheel Bug"
     },
     {
       "Number": 86,
-      "Name": "Silverfish",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Silverfish"
     },
     {
       "Number": 87,
-      "Name": "European Hornet",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "European Hornet"
     },
     {
       "Number": 88,
-      "Name": "Harlequin Cabbage Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Harlequin Cabbage Bug"
     },
     {
       "Number": 89,
-      "Name": "Cicada Killer Wasp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cicada Killer Wasp"
     },
     {
       "Number": 90,
-      "Name": "House Cricket",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "House Cricket"
     },
     {
       "Number": 91,
-      "Name": "Garden Snail (not an insect but often included in discussions)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Garden Snail (not an insect but often included in discussions)"
     },
     {
       "Number": 92,
-      "Name": "Boxelder Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Boxelder Bug"
     },
     {
       "Number": 93,
-      "Name": "Assassin Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Assassin Bug"
     },
     {
       "Number": 94,
-      "Name": "Vinegar Fly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Vinegar Fly"
     },
     {
       "Number": 95,
-      "Name": "Swallowtail Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Swallowtail Butterfly"
     },
     {
       "Number": 96,
-      "Name": "Mealybug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mealybug"
     },
     {
       "Number": 97,
-      "Name": "Giant Centipede (Myriapod)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Giant Centipede (Myriapod)"
     },
     {
       "Number": 98,
-      "Name": "Tarantula (Arachnid)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tarantula (Arachnid)"
     },
     {
       "Number": 99,
-      "Name": "Woodlouse (Crustacean)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Woodlouse (Crustacean)"
     },
     {
       "Number": 100,
-      "Name": "Black Carpenter Ant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Black Carpenter Ant"
     },
     {
       "Number": 101,
-      "Name": "American Painted Lady",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "American Painted Lady"
     },
     {
       "Number": 102,
-      "Name": "Great Spangled Fritillary",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Great Spangled Fritillary"
     },
     {
       "Number": 103,
-      "Name": "Fall Webworm Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Fall Webworm Moth"
     },
     {
       "Number": 104,
-      "Name": "Giant Swallowtail",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Giant Swallowtail"
     },
     {
       "Number": 105,
-      "Name": "Mourning Cloak",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mourning Cloak"
     },
     {
       "Number": 106,
-      "Name": "Imperial Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Imperial Moth"
     },
     {
       "Number": 107,
-      "Name": "Painted Lady",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Painted Lady"
     },
     {
       "Number": 108,
-      "Name": "Monarch Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Monarch Butterfly"
     },
     {
       "Number": 109,
-      "Name": "Question Mark Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Question Mark Butterfly"
     },
     {
       "Number": 110,
-      "Name": "Eastern Comma",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Eastern Comma"
     },
     {
       "Number": 111,
-      "Name": "Hackberry Emperor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hackberry Emperor"
     },
     {
       "Number": 112,
-      "Name": "Luna Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Luna Moth"
     },
     {
       "Number": 113,
-      "Name": "Pearl Crescent",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pearl Crescent"
     },
     {
       "Number": 114,
-      "Name": "Red Admiral",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Red Admiral"
     },
     {
       "Number": 115,
-      "Name": "Spicebush Swallowtail",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spicebush Swallowtail"
     },
     {
       "Number": 116,
-      "Name": "Two-Tailed Swallowtail",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Two-Tailed Swallowtail"
     },
     {
       "Number": 117,
-      "Name": "West Coast Lady",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "West Coast Lady"
     },
     {
       "Number": 118,
-      "Name": "Zebra Longwing",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Zebra Longwing"
     },
     {
       "Number": 119,
-      "Name": "Viceroy Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Viceroy Butterfly"
     },
     {
       "Number": 120,
-      "Name": "Ant Lion",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ant Lion"
     },
     {
       "Number": 121,
-      "Name": "Boll Weevil",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Boll Weevil"
     },
     {
       "Number": 122,
-      "Name": "Walking Stick",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Walking Stick"
     },
     {
       "Number": 123,
-      "Name": "American Copper Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "American Copper Butterfly"
     },
     {
       "Number": 124,
-      "Name": "Great Purple Hairstreak",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Great Purple Hairstreak"
     },
     {
       "Number": 125,
-      "Name": "Pipevine Swallowtail",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pipevine Swallowtail"
     },
     {
       "Number": 126,
-      "Name": "Sulphur Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sulphur Butterfly"
     },
     {
       "Number": 127,
-      "Name": "Giant Ichneumon Wasp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Giant Ichneumon Wasp"
     },
     {
       "Number": 128,
-      "Name": "Blue Dasher Dragonfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Blue Dasher Dragonfly"
     },
     {
       "Number": 129,
-      "Name": "Green Darner Dragonfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Green Darner Dragonfly"
     },
     {
       "Number": 130,
-      "Name": "Wheel Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Wheel Bug"
     },
     {
       "Number": 131,
-      "Name": "Spined Soldier Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spined Soldier Bug"
     },
     {
       "Number": 132,
-      "Name": "Eastern Boxelder Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Eastern Boxelder Bug"
     },
     {
       "Number": 133,
-      "Name": "Emerald Ash Borer",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Emerald Ash Borer"
     },
     {
       "Number": 134,
-      "Name": "Brown Marmorated Stink Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Brown Marmorated Stink Bug"
     },
     {
       "Number": 135,
-      "Name": "Western Conifer Seed Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Western Conifer Seed Bug"
     },
     {
       "Number": 136,
-      "Name": "Asian Multicolored Lady Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Asian Multicolored Lady Beetle"
     },
     {
       "Number": 137,
-      "Name": "Leaf-footed Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Leaf-footed Bug"
     },
     {
       "Number": 138,
-      "Name": "Cotton Stainer",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cotton Stainer"
     },
     {
       "Number": 139,
-      "Name": "American Dog Tick",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "American Dog Tick"
     },
     {
       "Number": 140,
-      "Name": "Black Widow Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Black Widow Spider"
     },
     {
       "Number": 141,
-      "Name": "Brown Recluse Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Brown Recluse Spider"
     },
     {
       "Number": 142,
-      "Name": "Long-bodied Cellar Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Long-bodied Cellar Spider"
     },
     {
       "Number": 143,
-      "Name": "Common House Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Common House Spider"
     },
     {
       "Number": 144,
-      "Name": "Yellow Sac Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Yellow Sac Spider"
     },
     {
       "Number": 145,
-      "Name": "Wolf Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Wolf Spider"
     },
     {
       "Number": 146,
-      "Name": "Jumping Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Jumping Spider"
     },
     {
       "Number": 147,
-      "Name": "Crab Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Crab Spider"
     },
     {
       "Number": 148,
-      "Name": "Spiny Orb Weaver",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spiny Orb Weaver"
     },
     {
       "Number": 149,
-      "Name": "Cellar Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cellar Spider"
     },
     {
       "Number": 150,
-      "Name": "Cobweb Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cobweb Spider"
     },
     {
       "Number": 151,
-      "Name": "Nursery Web Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Nursery Web Spider"
     },
     {
       "Number": 152,
-      "Name": "Argiope Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Argiope Spider"
     },
     {
       "Number": 153,
-      "Name": "Garden Orb Weaver",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Garden Orb Weaver"
     },
     {
       "Number": 154,
-      "Name": "Woodlouse Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Woodlouse Spider"
     },
     {
       "Number": 155,
-      "Name": "Crevice Weaver Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Crevice Weaver Spider"
     },
     {
       "Number": 156,
-      "Name": "Mesh Web Weaver",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mesh Web Weaver"
     },
     {
       "Number": 157,
-      "Name": "Sheetweb Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sheetweb Spider"
     },
     {
       "Number": 158,
-      "Name": "Grass Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Grass Spider"
     },
     {
       "Number": 159,
-      "Name": "Ghost Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ghost Spider"
     },
     {
       "Number": 160,
-      "Name": "Ground Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ground Spider"
     },
     {
       "Number": 161,
-      "Name": "Running Crab Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Running Crab Spider"
     },
     {
       "Number": 162,
-      "Name": "Broad-faced Sac Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Broad-faced Sac Spider"
     },
     {
       "Number": 163,
-      "Name": "Ant-mimic Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ant-mimic Spider"
     },
     {
       "Number": 164,
-      "Name": "Lynx Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lynx Spider"
     },
     {
       "Number": 165,
-      "Name": "Flattie Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Flattie Spider"
     },
     {
       "Number": 166,
-      "Name": "Funnel Weaver Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Funnel Weaver Spider"
     },
     {
       "Number": 167,
-      "Name": "Dusky Lady Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Dusky Lady Beetle"
     },
     {
       "Number": 168,
-      "Name": "Spotted Cucumber Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spotted Cucumber Beetle"
     },
     {
       "Number": 169,
-      "Name": "Eastern Hercules Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Eastern Hercules Beetle"
     },
     {
       "Number": 170,
-      "Name": "Green June Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Green June Beetle"
     },
     {
       "Number": 171,
-      "Name": "Hairy Rove Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hairy Rove Beetle"
     },
     {
       "Number": 172,
-      "Name": "Long-horned Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Long-horned Beetle"
     },
     {
       "Number": 173,
-      "Name": "Golden Tortoise Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Golden Tortoise Beetle"
     },
     {
       "Number": 174,
-      "Name": "Darkling Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Darkling Beetle"
     },
     {
       "Number": 175,
-      "Name": "Asian Lady Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Asian Lady Beetle"
     },
     {
       "Number": 176,
-      "Name": "Eastern Eyed Click Beetle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Eastern Eyed Click Beetle"
     },
     {
       "Number": 177,
-      "Name": "Pennsylvania Firefly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pennsylvania Firefly"
     },
     {
       "Number": 178,
-      "Name": "Green Lacewing",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Green Lacewing"
     },
     {
       "Number": 179,
-      "Name": "Dark Fishing Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Dark Fishing Spider"
     },
     {
       "Number": 180,
-      "Name": "Velvet Mite",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Velvet Mite"
     },
     {
       "Number": 181,
-      "Name": "Red Harvestman",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Red Harvestman"
     },
     {
       "Number": 182,
-      "Name": "House Centipede",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "House Centipede"
     },
     {
       "Number": 183,
-      "Name": "Bold Jumper",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bold Jumper"
     },
     {
       "Number": 184,
-      "Name": "Sac Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sac Spider"
     },
     {
       "Number": 185,
-      "Name": "Grasshopper",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Grasshopper"
     },
     {
       "Number": 186,
-      "Name": "Katydid",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Katydid"
     },
     {
       "Number": 187,
-      "Name": "Praying Mantis",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Praying Mantis"
     },
     {
       "Number": 188,
-      "Name": "Aphid",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Aphid"
     },
     {
       "Number": 189,
-      "Name": "Giant Water Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Giant Water Bug"
     },
     {
       "Number": 190,
-      "Name": "Cabbage Looper Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cabbage Looper Moth"
     },
     {
       "Number": 191,
-      "Name": "Luna Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Luna Moth"
     },
     {
       "Number": 192,
-      "Name": "Saddleback Caterpillar Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Saddleback Caterpillar Moth"
     },
     {
       "Number": 193,
-      "Name": "Hummingbird Clearwing Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hummingbird Clearwing Moth"
     },
     {
       "Number": 194,
-      "Name": "Cinnabar Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cinnabar Moth"
     },
     {
       "Number": 195,
-      "Name": "Eastern Tiger Swallowtail",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Eastern Tiger Swallowtail"
     },
     {
       "Number": 196,
-      "Name": "Painted Lady Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Painted Lady Butterfly"
     },
     {
       "Number": 197,
-      "Name": "Regal Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Regal Moth"
     },
     {
       "Number": 198,
-      "Name": "Polyphemus Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Polyphemus Moth"
     }
   ]
 }

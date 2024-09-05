@@ -2,3555 +2,1779 @@
   "tables": [
     {
       "Number": 1,
-      "Name": "Framed Ink by Marcos Mateu-Mestre",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Framed Ink by Marcos Mateu-Mestre"
     },
     {
       "Number": 2,
-      "Name": "How to Draw by Scott Robertson",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "How to Draw by Scott Robertson"
     },
     {
       "Number": 3,
-      "Name": "Color and Light by James Gurney",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Color and Light by James Gurney"
     },
     {
       "Number": 4,
-      "Name": "The Skillful Huntsman",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Skillful Huntsman"
     },
     {
       "Number": 5,
-      "Name": "Art of Spirited Away by Hayao Miyazaki",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Art of Spirited Away by Hayao Miyazaki"
     },
     {
       "Number": 6,
-      "Name": "The Art of God of War",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of God of War"
     },
     {
       "Number": 7,
-      "Name": "The Art of The Last of Us",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Last of Us"
     },
     {
       "Number": 8,
-      "Name": "The Art of Overwatch",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Overwatch"
     },
     {
       "Number": 9,
-      "Name": "The Art of Pixar: 25th Anniversary",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Pixar: 25th Anniversary"
     },
     {
       "Number": 10,
-      "Name": "The Art of Moana",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Moana"
     },
     {
       "Number": 11,
-      "Name": "The Art of Horizon Zero Dawn",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Horizon Zero Dawn"
     },
     {
       "Number": 12,
-      "Name": "The Art of Zootopia",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Zootopia"
     },
     {
       "Number": 13,
-      "Name": "The Art of Frozen",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Frozen"
     },
     {
       "Number": 14,
-      "Name": "The Art of Big Hero 6",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Big Hero 6"
     },
     {
       "Number": 15,
-      "Name": "The Art of Inside Out",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Inside Out"
     },
     {
       "Number": 16,
-      "Name": "The Art of Finding Dory",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Finding Dory"
     },
     {
       "Number": 17,
-      "Name": "The Art of Ratatouille",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Ratatouille"
     },
     {
       "Number": 18,
-      "Name": "The Art of Coco",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Coco"
     },
     {
       "Number": 19,
-      "Name": "The Art of Cars 3",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Cars 3"
     },
     {
       "Number": 20,
-      "Name": "The Art of DreamWorks Animation",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of DreamWorks Animation"
     },
     {
       "Number": 21,
-      "Name": "The Art of How to Train Your Dragon",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of How to Train Your Dragon"
     },
     {
       "Number": 22,
-      "Name": "The Art of Brave",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Brave"
     },
     {
       "Number": 23,
-      "Name": "The Art of Tangled",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Tangled"
     },
     {
       "Number": 24,
-      "Name": "The Art of Wreck-It Ralph",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Wreck-It Ralph"
     },
     {
       "Number": 25,
-      "Name": "The Art of Kubo and the Two Strings",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Kubo and the Two Strings"
     },
     {
       "Number": 26,
-      "Name": "The Art of The Incredibles",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Incredibles"
     },
     {
       "Number": 27,
-      "Name": "The Art of Monsters  Inc.",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Monsters  Inc."
     },
     {
       "Number": 28,
-      "Name": "The Art of Toy Story 3",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Toy Story 3"
     },
     {
       "Number": 29,
-      "Name": "The Art of Up",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Up"
     },
     {
       "Number": 30,
-      "Name": "The Art of WALL-E",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of WALL-E"
     },
     {
       "Number": 31,
-      "Name": "The Art of Princess Mononoke",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Princess Mononoke"
     },
     {
       "Number": 32,
-      "Name": "The Art of Spirited Away",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Spirited Away"
     },
     {
       "Number": 33,
-      "Name": "The Art of My Neighbor Totoro",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of My Neighbor Totoro"
     },
     {
       "Number": 34,
-      "Name": "The Art of Howl's Moving Castle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Howl's Moving Castle"
     },
     {
       "Number": 35,
-      "Name": "The Art of Castle in the Sky",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Castle in the Sky"
     },
     {
       "Number": 36,
-      "Name": "The Art of Kung Fu Panda",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Kung Fu Panda"
     },
     {
       "Number": 37,
-      "Name": "The Art of The Croods",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Croods"
     },
     {
       "Number": 38,
-      "Name": "The Art of Rise of the Guardians",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Rise of the Guardians"
     },
     {
       "Number": 39,
-      "Name": "The Art of Puss in Boots",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Puss in Boots"
     },
     {
       "Number": 40,
-      "Name": "The Art of Madagascar",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Madagascar"
     },
     {
       "Number": 41,
-      "Name": "The Art of The Penguins of Madagascar",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Penguins of Madagascar"
     },
     {
       "Number": 42,
-      "Name": "The Art of Monsters vs. Aliens",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Monsters vs. Aliens"
     },
     {
       "Number": 43,
-      "Name": "The Art of Shrek Forever After",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Shrek Forever After"
     },
     {
       "Number": 44,
-      "Name": "The Art of Megamind",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Megamind"
     },
     {
       "Number": 45,
-      "Name": "The Art of The Prince of Egypt",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Prince of Egypt"
     },
     {
       "Number": 46,
-      "Name": "The Art of The Road to El Dorado",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Road to El Dorado"
     },
     {
       "Number": 47,
-      "Name": "The Art of Sin City",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Sin City"
     },
     {
       "Number": 48,
-      "Name": "The Art of Hellboy",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Hellboy"
     },
     {
       "Number": 49,
-      "Name": "The Art of The Dark Knight Trilogy",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Dark Knight Trilogy"
     },
     {
       "Number": 50,
-      "Name": "The Art of Iron Man",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Iron Man"
     },
     {
       "Number": 51,
-      "Name": "The Art of Thor",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Thor"
     },
     {
       "Number": 52,
-      "Name": "The Art of Captain America: The First Avenger",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Captain America: The First Avenger"
     },
     {
       "Number": 53,
-      "Name": "The Art of The Avengers",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Avengers"
     },
     {
       "Number": 54,
-      "Name": "The Art of Iron Man 3",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Iron Man 3"
     },
     {
       "Number": 55,
-      "Name": "The Art of Thor: The Dark World",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Thor: The Dark World"
     },
     {
       "Number": 56,
-      "Name": "The Art of Captain America: The Winter Soldier",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Captain America: The Winter Soldier"
     },
     {
       "Number": 57,
-      "Name": "The Art of Guardians of the Galaxy",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Guardians of the Galaxy"
     },
     {
       "Number": 58,
-      "Name": "The Art of Avengers: Age of Ultron",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Avengers: Age of Ultron"
     },
     {
       "Number": 59,
-      "Name": "The Art of Ant-Man",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Ant-Man"
     },
     {
       "Number": 60,
-      "Name": "The Art of Captain America: Civil War",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Captain America: Civil War"
     },
     {
       "Number": 61,
-      "Name": "The Art of Doctor Strange",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Doctor Strange"
     },
     {
       "Number": 62,
-      "Name": "The Art of Guardians of the Galaxy Vol. 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Guardians of the Galaxy Vol. 2"
     },
     {
       "Number": 63,
-      "Name": "The Art of Spider-Man: Homecoming",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Spider-Man: Homecoming"
     },
     {
       "Number": 64,
-      "Name": "The Art of Thor: Ragnarok",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Thor: Ragnarok"
     },
     {
       "Number": 65,
-      "Name": "The Art of Black Panther",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Black Panther"
     },
     {
       "Number": 66,
-      "Name": "The Art of Avengers: Infinity War",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Avengers: Infinity War"
     },
     {
       "Number": 67,
-      "Name": "The Art of Ant-Man and The Wasp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Ant-Man and The Wasp"
     },
     {
       "Number": 68,
-      "Name": "The Art of Captain Marvel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Captain Marvel"
     },
     {
       "Number": 69,
-      "Name": "The Art of Avengers: Endgame",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Avengers: Endgame"
     },
     {
       "Number": 70,
-      "Name": "The Art of Spider-Man: Far From Home",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Spider-Man: Far From Home"
     },
     {
       "Number": 71,
-      "Name": "The Art of Star Wars: Episode I – The Phantom Menace",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Episode I – The Phantom Menace"
     },
     {
       "Number": 72,
-      "Name": "The Art of Star Wars: Episode II – Attack of the Clones",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Episode II – Attack of the Clones"
     },
     {
       "Number": 73,
-      "Name": "The Art of Star Wars: Episode III – Revenge of the Sith",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Episode III – Revenge of the Sith"
     },
     {
       "Number": 74,
-      "Name": "The Art of Star Wars: Episode IV – A New Hope",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Episode IV – A New Hope"
     },
     {
       "Number": 75,
-      "Name": "The Art of Star Wars: Episode V – The Empire Strikes Back",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Episode V – The Empire Strikes Back"
     },
     {
       "Number": 76,
-      "Name": "The Art of Star Wars: Episode VI – Return of the Jedi",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Episode VI – Return of the Jedi"
     },
     {
       "Number": 77,
-      "Name": "The Art of Star Wars: Episode VII – The Force Awakens",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Episode VII – The Force Awakens"
     },
     {
       "Number": 78,
-      "Name": "The Art of Star Wars: Episode VIII – The Last Jedi",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Episode VIII – The Last Jedi"
     },
     {
       "Number": 79,
-      "Name": "The Art of Star Wars: Episode IX – The Rise of Skywalker",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Episode IX – The Rise of Skywalker"
     },
     {
       "Number": 80,
-      "Name": "The Art of Rogue One: A Star Wars Story",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Rogue One: A Star Wars Story"
     },
     {
       "Number": 81,
-      "Name": "The Art of Solo: A Star Wars Story",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Solo: A Star Wars Story"
     },
     {
       "Number": 82,
-      "Name": "The Art of Star Wars: The Clone Wars",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: The Clone Wars"
     },
     {
       "Number": 83,
-      "Name": "The Art of Star Wars Rebels",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars Rebels"
     },
     {
       "Number": 84,
-      "Name": "The Art of Star Wars: The Mandalorian",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: The Mandalorian"
     },
     {
       "Number": 85,
-      "Name": "The Art of Star Wars: Jedi Fallen Order",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Jedi Fallen Order"
     },
     {
       "Number": 86,
-      "Name": "The Art of Star Wars: Battlefront",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Battlefront"
     },
     {
       "Number": 87,
-      "Name": "The Art of Star Wars: Battlefront II",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Battlefront II"
     },
     {
       "Number": 88,
-      "Name": "The Art of Battlefield 1",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Battlefield 1"
     },
     {
       "Number": 89,
-      "Name": "The Art of The Witcher: Gwent Gallery Collection",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Witcher: Gwent Gallery Collection"
     },
     {
       "Number": 90,
-      "Name": "The Art of Fallout 4",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Fallout 4"
     },
     {
       "Number": 91,
-      "Name": "The Art of Mass Effect: Andromeda",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Mass Effect: Andromeda"
     },
     {
       "Number": 92,
-      "Name": "The Art of BioShock Infinite",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of BioShock Infinite"
     },
     {
       "Number": 93,
-      "Name": "The Art of Assassin's Creed IV: Black Flag",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Assassin's Creed IV: Black Flag"
     },
     {
       "Number": 94,
-      "Name": "The Art of Assassin's Creed Unity",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Assassin's Creed Unity"
     },
     {
       "Number": 95,
-      "Name": "The Art of Assassin's Creed Syndicate",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Assassin's Creed Syndicate"
     },
     {
       "Number": 96,
-      "Name": "The Art of Assassin's Creed Origins",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Assassin's Creed Origins"
     },
     {
       "Number": 97,
-      "Name": "The Art of Assassin's Creed Odyssey",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Assassin's Creed Odyssey"
     },
     {
       "Number": 98,
-      "Name": "The Art of Assassin's Creed Valhalla",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Assassin's Creed Valhalla"
     },
     {
       "Number": 99,
-      "Name": "The Art of Final Fantasy XV",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Final Fantasy XV"
     },
     {
       "Number": 100,
-      "Name": "The Art of Final Fantasy IX",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Final Fantasy IX"
     },
     {
       "Number": 101,
-      "Name": "The Art of Death Stranding",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Death Stranding"
     },
     {
       "Number": 102,
-      "Name": "The Art of God of War II",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of God of War II"
     },
     {
       "Number": 103,
-      "Name": "The Art of Destiny",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Destiny"
     },
     {
       "Number": 104,
-      "Name": "The Art of Destiny 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Destiny 2"
     },
     {
       "Number": 105,
-      "Name": "The Art of Doom (2016)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Doom (2016)"
     },
     {
       "Number": 106,
-      "Name": "The Art of DOOM Eternal",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of DOOM Eternal"
     },
     {
       "Number": 107,
-      "Name": "The Art of Resident Evil 7",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Resident Evil 7"
     },
     {
       "Number": 108,
-      "Name": "The Art of Resident Evil 8: Village",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Resident Evil 8: Village"
     },
     {
       "Number": 109,
-      "Name": "The Art of Dragon Age: Inquisition",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Dragon Age: Inquisition"
     },
     {
       "Number": 110,
-      "Name": "The Art of The Elder Scrolls V: Skyrim",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Elder Scrolls V: Skyrim"
     },
     {
       "Number": 111,
-      "Name": "The Art of The Elder Scrolls Online",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Elder Scrolls Online"
     },
     {
       "Number": 112,
-      "Name": "The Art of World of Warcraft",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of World of Warcraft"
     },
     {
       "Number": 113,
-      "Name": "The Art of League of Legends",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of League of Legends"
     },
     {
       "Number": 114,
-      "Name": "The Art of Diablo III",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Diablo III"
     },
     {
       "Number": 115,
-      "Name": "The Art of Guild Wars 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Guild Wars 2"
     },
     {
       "Number": 116,
-      "Name": "The Art of NieR: Automata",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of NieR: Automata"
     },
     {
       "Number": 117,
-      "Name": "The Art of Sekiro: Shadows Die Twice",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Sekiro: Shadows Die Twice"
     },
     {
       "Number": 118,
-      "Name": "The Art of Ghost of Tsushima",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Ghost of Tsushima"
     },
     {
       "Number": 119,
-      "Name": "The Art of Halo: Infinite",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Halo: Infinite"
     },
     {
       "Number": 120,
-      "Name": "The Art of Cyberpunk 2077",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Cyberpunk 2077"
     },
     {
       "Number": 121,
-      "Name": "The Art of The Legend of Zelda: Breath of the Wild",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Legend of Zelda: Breath of the Wild"
     },
     {
       "Number": 122,
-      "Name": "The Art of The Legend of Zelda: Majora’s Mask",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Legend of Zelda: Majora’s Mask"
     },
     {
       "Number": 123,
-      "Name": "The Art of The Legend of Zelda: Ocarina of Time",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Legend of Zelda: Ocarina of Time"
     },
     {
       "Number": 124,
-      "Name": "The Art of Super Mario Odyssey",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Super Mario Odyssey"
     },
     {
       "Number": 125,
-      "Name": "The Art of Fire Emblem: Awakening",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Fire Emblem: Awakening"
     },
     {
       "Number": 126,
-      "Name": "The Art of Fire Emblem: Fates",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Fire Emblem: Fates"
     },
     {
       "Number": 127,
-      "Name": "The Art of Animal Crossing: New Horizons",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Animal Crossing: New Horizons"
     },
     {
       "Number": 128,
-      "Name": "The Art of Xenoblade Chronicles",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Xenoblade Chronicles"
     },
     {
       "Number": 129,
-      "Name": "The Art of Xenoblade Chronicles 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Xenoblade Chronicles 2"
     },
     {
       "Number": 130,
-      "Name": "The Art of Splatoon 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Splatoon 2"
     },
     {
       "Number": 131,
-      "Name": "The Art of Kirby: Star Allies",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Kirby: Star Allies"
     },
     {
       "Number": 132,
-      "Name": "The Art of Donkey Kong Country: Tropical Freeze",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Donkey Kong Country: Tropical Freeze"
     },
     {
       "Number": 133,
-      "Name": "The Art of Bayonetta 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Bayonetta 2"
     },
     {
       "Number": 134,
-      "Name": "The Art of Astral Chain",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Astral Chain"
     },
     {
       "Number": 135,
-      "Name": "The Art of Luigi's Mansion 3",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Luigi's Mansion 3"
     },
     {
       "Number": 136,
-      "Name": "The Art of Metroid: Samus Returns",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Metroid: Samus Returns"
     },
     {
       "Number": 137,
-      "Name": "The Art of Bloodborne",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Bloodborne"
     },
     {
       "Number": 138,
-      "Name": "The Art of Shadow of the Colossus",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Shadow of the Colossus"
     },
     {
       "Number": 139,
-      "Name": "The Art of Final Fantasy VI",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Final Fantasy VI"
     },
     {
       "Number": 140,
-      "Name": "The Art of Final Fantasy VII Remake",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Final Fantasy VII Remake"
     },
     {
       "Number": 141,
-      "Name": "The Art of Journey",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Journey"
     },
     {
       "Number": 142,
-      "Name": "The Art of Abzu",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Abzu"
     },
     {
       "Number": 143,
-      "Name": "The Art of The Witness",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Witness"
     },
     {
       "Number": 144,
-      "Name": "The Art of Uncharted 4: A Thief's End",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Uncharted 4: A Thief's End"
     },
     {
       "Number": 145,
-      "Name": "The Art of Ratchet & Clank",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Ratchet & Clank"
     },
     {
       "Number": 146,
-      "Name": "The Art of Horizon Forbidden West",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Horizon Forbidden West"
     },
     {
       "Number": 147,
-      "Name": "The Art of Red Dead Redemption II",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Red Dead Redemption II"
     },
     {
       "Number": 148,
-      "Name": "The Art of Heavy Rain",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Heavy Rain"
     },
     {
       "Number": 149,
-      "Name": "The Art of Detroit: Become Human",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Detroit: Become Human"
     },
     {
       "Number": 150,
-      "Name": "The Art of Persona 5",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Persona 5"
     },
     {
       "Number": 151,
-      "Name": "The Art of Persona 4 Golden",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Persona 4 Golden"
     },
     {
       "Number": 152,
-      "Name": "The Art of Silent Hill 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Silent Hill 2"
     },
     {
       "Number": 153,
-      "Name": "The Art of Dark Souls",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Dark Souls"
     },
     {
       "Number": 154,
-      "Name": "The Art of Dark Souls II",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Dark Souls II"
     },
     {
       "Number": 155,
-      "Name": "The Art of Dark Souls III",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Dark Souls III"
     },
     {
       "Number": 156,
-      "Name": "The Art of Studio Ghibli's Mononoke",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Studio Ghibli's Mononoke"
     },
     {
       "Number": 157,
-      "Name": "The Art of Studio Ghibli's Kiki's Delivery Service",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Studio Ghibli's Kiki's Delivery Service"
     },
     {
       "Number": 158,
-      "Name": "The Art of Studio Ghibli's Laputa",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Studio Ghibli's Laputa"
     },
     {
       "Number": 159,
-      "Name": "The Art of Studio Ghibli's Spirited Away Sequel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Studio Ghibli's Spirited Away Sequel"
     },
     {
       "Number": 160,
-      "Name": "The Art of Pacific Rim",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Pacific Rim"
     },
     {
       "Number": 161,
-      "Name": "The Art of Blade Runner 2049",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Blade Runner 2049"
     },
     {
       "Number": 162,
-      "Name": "The Art of Avatar: The Last Airbender",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Avatar: The Last Airbender"
     },
     {
       "Number": 163,
-      "Name": "The Art of The Legend of Korra",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Legend of Korra"
     },
     {
       "Number": 164,
-      "Name": "The Art of Marvel's Spider-Man: Miles Morales",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Marvel's Spider-Man: Miles Morales"
     },
     {
       "Number": 165,
-      "Name": "The Art of Interstellar",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Interstellar"
     },
     {
       "Number": 166,
-      "Name": "The Art of Inception",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Inception"
     },
     {
       "Number": 167,
-      "Name": "The Art of Mad Max: Fury Road",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Mad Max: Fury Road"
     },
     {
       "Number": 168,
-      "Name": "The Art of Coco 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Coco 2"
     },
     {
       "Number": 169,
-      "Name": "The Art of The Lion King (2019)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Lion King (2019)"
     },
     {
       "Number": 170,
-      "Name": "The Art of Pixar's Onward",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Pixar's Onward"
     },
     {
       "Number": 171,
-      "Name": "The Art of Studio Ghibli's Whisper of the Heart",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Studio Ghibli's Whisper of the Heart"
     },
     {
       "Number": 172,
-      "Name": "The Art of The Mandalorian Season 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Mandalorian Season 2"
     },
     {
       "Number": 173,
-      "Name": "The Art of Monster Hunter World",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Monster Hunter World"
     },
     {
       "Number": 174,
-      "Name": "The Art of Fable",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Fable"
     },
     {
       "Number": 175,
-      "Name": "The Art of Ori and the Will of the Wisps",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Ori and the Will of the Wisps"
     },
     {
       "Number": 176,
-      "Name": "The Art of Hollow Knight",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Hollow Knight"
     },
     {
       "Number": 177,
-      "Name": "The Art of Subnautica",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Subnautica"
     },
     {
       "Number": 178,
-      "Name": "The Art of Celeste",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Celeste"
     },
     {
       "Number": 179,
-      "Name": "The Art of Dead Cells",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Dead Cells"
     },
     {
       "Number": 180,
-      "Name": "The Art of Hades",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Hades"
     },
     {
       "Number": 181,
-      "Name": "The Art of Disco Elysium",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Disco Elysium"
     },
     {
       "Number": 182,
-      "Name": "The Art of Return of the Obra Dinn",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Return of the Obra Dinn"
     },
     {
       "Number": 183,
-      "Name": "The Art of Outer Wilds",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Outer Wilds"
     },
     {
       "Number": 184,
-      "Name": "The Art of Control",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Control"
     },
     {
       "Number": 185,
-      "Name": "The Art of The Pathless",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Pathless"
     },
     {
       "Number": 186,
-      "Name": "The Art of The Last Guardian",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Last Guardian"
     },
     {
       "Number": 187,
-      "Name": "The Art of Little Nightmares",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Little Nightmares"
     },
     {
       "Number": 188,
-      "Name": "The Art of INSIDE",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of INSIDE"
     },
     {
       "Number": 189,
-      "Name": "The Art of Limbo",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Limbo"
     },
     {
       "Number": 190,
-      "Name": "The Art of A Plague Tale: Innocence",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of A Plague Tale: Innocence"
     },
     {
       "Number": 191,
-      "Name": "The Art of GreedFall",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of GreedFall"
     },
     {
       "Number": 192,
-      "Name": "The Art of The Medium",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Medium"
     },
     {
       "Number": 193,
-      "Name": "The Art of Remnant: From the Ashes",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Remnant: From the Ashes"
     },
     {
       "Number": 194,
-      "Name": "The Art of Tunic",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Tunic"
     },
     {
       "Number": 195,
-      "Name": "The Art of Resident Evil 3 Remake",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Resident Evil 3 Remake"
     },
     {
       "Number": 196,
-      "Name": "The Art of Days Gone",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Days Gone"
     },
     {
       "Number": 197,
-      "Name": "The Art of Spider-Man: Into the Spider-Verse",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Spider-Man: Into the Spider-Verse"
     },
     {
       "Number": 198,
-      "Name": "The Art of A Way Out",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of A Way Out"
     },
     {
       "Number": 199,
-      "Name": "The Art of Genshin Impact",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Genshin Impact"
     },
     {
       "Number": 200,
-      "Name": "The Art of Valorant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Valorant"
     },
     {
       "Number": 201,
-      "Name": "The Art of Apex Legends",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Apex Legends"
     },
     {
       "Number": 202,
-      "Name": "The Art of Warframe",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Warframe"
     },
     {
       "Number": 203,
-      "Name": "The Art of Mirror's Edge: Catalyst",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Mirror's Edge: Catalyst"
     },
     {
       "Number": 204,
-      "Name": "The Art of Cuphead",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Cuphead"
     },
     {
       "Number": 205,
-      "Name": "The Art of The Division 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Division 2"
     },
     {
       "Number": 206,
-      "Name": "The Art of Overwatch 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Overwatch 2"
     },
     {
       "Number": 207,
-      "Name": "The Art of Sea of Thieves",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Sea of Thieves"
     },
     {
       "Number": 208,
-      "Name": "The Art of Borderlands 3",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Borderlands 3"
     },
     {
       "Number": 209,
-      "Name": "The Art of Fortnite",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Fortnite"
     },
     {
       "Number": 210,
-      "Name": "The Art of Dragon's Dogma",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Dragon's Dogma"
     },
     {
       "Number": 211,
-      "Name": "The Art of The Witcher 3: Wild Hunt – Blood and Wine",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Witcher 3: Wild Hunt – Blood and Wine"
     },
     {
       "Number": 212,
-      "Name": "The Art of Metal Gear Solid V: The Phantom Pain",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Metal Gear Solid V: The Phantom Pain"
     },
     {
       "Number": 213,
-      "Name": "The Art of The Elder Scrolls VI (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Elder Scrolls VI (Fictional Pre-Release)"
     },
     {
       "Number": 214,
-      "Name": "The Art of Starfield (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Starfield (Fictional Pre-Release)"
     },
     {
       "Number": 215,
-      "Name": "The Art of Ghostwire: Tokyo",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Ghostwire: Tokyo"
     },
     {
       "Number": 216,
-      "Name": "The Art of Elden Ring",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Elden Ring"
     },
     {
       "Number": 217,
-      "Name": "The Art of Dying Light 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Dying Light 2"
     },
     {
       "Number": 218,
-      "Name": "The Art of Life is Strange 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Life is Strange 2"
     },
     {
       "Number": 219,
-      "Name": "The Art of Ori and the Blind Forest",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Ori and the Blind Forest"
     },
     {
       "Number": 220,
-      "Name": "The Art of No Man's Sky",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of No Man's Sky"
     },
     {
       "Number": 221,
-      "Name": "The Art of Disco Elysium: Final Cut",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Disco Elysium: Final Cut"
     },
     {
       "Number": 222,
-      "Name": "The Art of Beyond Good & Evil 2 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Beyond Good & Evil 2 (Fictional Pre-Release)"
     },
     {
       "Number": 223,
-      "Name": "The Art of The Stanley Parable: Ultra Deluxe",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Stanley Parable: Ultra Deluxe"
     },
     {
       "Number": 224,
-      "Name": "The Art of The Witness: Explorations",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Witness: Explorations"
     },
     {
       "Number": 225,
-      "Name": "The Art of The Talos Principle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Talos Principle"
     },
     {
       "Number": 226,
-      "Name": "The Art of The Banner Saga Trilogy",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Banner Saga Trilogy"
     },
     {
       "Number": 227,
-      "Name": "The Art of Frostpunk",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Frostpunk"
     },
     {
       "Number": 228,
-      "Name": "The Art of Divinity: Original Sin 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Divinity: Original Sin 2"
     },
     {
       "Number": 229,
-      "Name": "The Art of Pillars of Eternity II: Deadfire",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Pillars of Eternity II: Deadfire"
     },
     {
       "Number": 230,
-      "Name": "The Art of Sable",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Sable"
     },
     {
       "Number": 231,
-      "Name": "The Art of Death's Door",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Death's Door"
     },
     {
       "Number": 232,
-      "Name": "The Art of Fez",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Fez"
     },
     {
       "Number": 233,
-      "Name": "The Art of Braid",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Braid"
     },
     {
       "Number": 234,
-      "Name": "The Art of Psychonauts 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Psychonauts 2"
     },
     {
       "Number": 235,
-      "Name": "The Art of Minecraft Dungeons",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Minecraft Dungeons"
     },
     {
       "Number": 236,
-      "Name": "The Art of Anno 1800",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Anno 1800"
     },
     {
       "Number": 237,
-      "Name": "The Art of Age of Empires IV",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Age of Empires IV"
     },
     {
       "Number": 238,
-      "Name": "The Art of Civilization VI",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Civilization VI"
     },
     {
       "Number": 239,
-      "Name": "The Art of Total War: Warhammer II",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Total War: Warhammer II"
     },
     {
       "Number": 240,
-      "Name": "The Art of Crusader Kings III",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Crusader Kings III"
     },
     {
       "Number": 241,
-      "Name": "The Art of Baldur's Gate 3",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Baldur's Gate 3"
     },
     {
       "Number": 242,
-      "Name": "The Art of Kerbal Space Program 2 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Kerbal Space Program 2 (Fictional Pre-Release)"
     },
     {
       "Number": 243,
-      "Name": "The Art of Beyond Two Souls",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Beyond Two Souls"
     },
     {
       "Number": 244,
-      "Name": "The Art of Indivisible",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Indivisible"
     },
     {
       "Number": 245,
-      "Name": "The Art of Octopath Traveler",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Octopath Traveler"
     },
     {
       "Number": 246,
-      "Name": "The Art of Bravely Default 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Bravely Default 2"
     },
     {
       "Number": 247,
-      "Name": "The Art of Ico: Reimagined",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Ico: Reimagined"
     },
     {
       "Number": 248,
-      "Name": "The Art of Shadow of the Tomb Raider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Shadow of the Tomb Raider"
     },
     {
       "Number": 249,
-      "Name": "The Art of The Sims 4: Expansion Collections",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Sims 4: Expansion Collections"
     },
     {
       "Number": 250,
-      "Name": "The Art of The Sims 4: Seasons",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Sims 4: Seasons"
     },
     {
       "Number": 251,
-      "Name": "The Art of Monster Hunter: Rise",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Monster Hunter: Rise"
     },
     {
       "Number": 252,
-      "Name": "The Art of Final Fantasy XIV: Shadowbringers",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Final Fantasy XIV: Shadowbringers"
     },
     {
       "Number": 253,
-      "Name": "The Art of The Legend of Zelda: Skyward Sword HD",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Legend of Zelda: Skyward Sword HD"
     },
     {
       "Number": 254,
-      "Name": "The Art of Mario Kart 8 Deluxe",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Mario Kart 8 Deluxe"
     },
     {
       "Number": 255,
-      "Name": "The Art of Luigi's Mansion: Dark Moon",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Luigi's Mansion: Dark Moon"
     },
     {
       "Number": 256,
-      "Name": "The Art of ARMS",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of ARMS"
     },
     {
       "Number": 257,
-      "Name": "The Art of Super Smash Bros. Ultimate",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Super Smash Bros. Ultimate"
     },
     {
       "Number": 258,
-      "Name": "The Art of Splatoon",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Splatoon"
     },
     {
       "Number": 259,
-      "Name": "The Art of Mario + Rabbids Kingdom Battle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Mario + Rabbids Kingdom Battle"
     },
     {
       "Number": 260,
-      "Name": "The Art of Pikmin 3 Deluxe",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Pikmin 3 Deluxe"
     },
     {
       "Number": 261,
-      "Name": "The Art of Yoshi's Crafted World",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Yoshi's Crafted World"
     },
     {
       "Number": 262,
-      "Name": "The Art of Kirby and the Forgotten Land",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Kirby and the Forgotten Land"
     },
     {
       "Number": 263,
-      "Name": "The Art of Paper Mario: The Origami King",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Paper Mario: The Origami King"
     },
     {
       "Number": 264,
-      "Name": "The Art of Xenoblade Chronicles: Definitive Edition",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Xenoblade Chronicles: Definitive Edition"
     },
     {
       "Number": 265,
-      "Name": "The Art of Bayonetta 3 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Bayonetta 3 (Fictional Pre-Release)"
     },
     {
       "Number": 266,
-      "Name": "The Art of EarthBound: A Legacy",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of EarthBound: A Legacy"
     },
     {
       "Number": 267,
-      "Name": "The Art of Metroid Prime 4 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Metroid Prime 4 (Fictional Pre-Release)"
     },
     {
       "Number": 268,
-      "Name": "The Art of Shin Megami Tensei V",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Shin Megami Tensei V"
     },
     {
       "Number": 269,
-      "Name": "The Art of Persona 3 Portable",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Persona 3 Portable"
     },
     {
       "Number": 270,
-      "Name": "The Art of Fire Emblem: Three Houses",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Fire Emblem: Three Houses"
     },
     {
       "Number": 271,
-      "Name": "The Art of Animal Crossing: City Folk",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Animal Crossing: City Folk"
     },
     {
       "Number": 272,
-      "Name": "The Art of Pokémon Sword and Shield",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Pokémon Sword and Shield"
     },
     {
       "Number": 273,
-      "Name": "The Art of Pokémon Legends: Arceus",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Pokémon Legends: Arceus"
     },
     {
       "Number": 274,
-      "Name": "The Art of Digimon Survive",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Digimon Survive"
     },
     {
       "Number": 275,
-      "Name": "The Art of Tetris Effect",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Tetris Effect"
     },
     {
       "Number": 276,
-      "Name": "The Art of Ace Combat 7: Skies Unknown",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Ace Combat 7: Skies Unknown"
     },
     {
       "Number": 277,
-      "Name": "The Art of Forza Horizon 5",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Forza Horizon 5"
     },
     {
       "Number": 278,
-      "Name": "The Art of The Crew 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Crew 2"
     },
     {
       "Number": 279,
-      "Name": "The Art of Gran Turismo 7",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Gran Turismo 7"
     },
     {
       "Number": 280,
-      "Name": "The Art of Project CARS 3",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Project CARS 3"
     },
     {
       "Number": 281,
-      "Name": "The Art of Need for Speed Heat",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Need for Speed Heat"
     },
     {
       "Number": 282,
-      "Name": "The Art of F1 2021",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of F1 2021"
     },
     {
       "Number": 283,
-      "Name": "The Art of Dirt 5",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Dirt 5"
     },
     {
       "Number": 284,
-      "Name": "The Art of Rally",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Rally"
     },
     {
       "Number": 285,
-      "Name": "The Art of WRC 10",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of WRC 10"
     },
     {
       "Number": 286,
-      "Name": "The Art of Assetto Corsa Competizione",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Assetto Corsa Competizione"
     },
     {
       "Number": 287,
-      "Name": "The Art of SnowRunner",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of SnowRunner"
     },
     {
       "Number": 288,
-      "Name": "The Art of BeamNG.drive",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of BeamNG.drive"
     },
     {
       "Number": 289,
-      "Name": "The Art of NASCAR Heat 5",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of NASCAR Heat 5"
     },
     {
       "Number": 290,
-      "Name": "The Art of Riders Republic",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Riders Republic"
     },
     {
       "Number": 291,
-      "Name": "The Art of Steep",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Steep"
     },
     {
       "Number": 292,
-      "Name": "The Art of Tony Hawk's Pro Skater 1 + 2",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Tony Hawk's Pro Skater 1 + 2"
     },
     {
       "Number": 293,
-      "Name": "The Art of SSX: Snowboarding Reimagined",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of SSX: Snowboarding Reimagined"
     },
     {
       "Number": 294,
-      "Name": "The Art of Skate 4 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Skate 4 (Fictional Pre-Release)"
     },
     {
       "Number": 295,
-      "Name": "The Art of EA Sports UFC 4",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of EA Sports UFC 4"
     },
     {
       "Number": 296,
-      "Name": "The Art of WWE 2K22",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of WWE 2K22"
     },
     {
       "Number": 297,
-      "Name": "The Art of FIFA 22",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of FIFA 22"
     },
     {
       "Number": 298,
-      "Name": "The Art of Madden NFL 22",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Madden NFL 22"
     },
     {
       "Number": 299,
-      "Name": "The Art of NBA 2K22",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of NBA 2K22"
     },
     {
       "Number": 300,
-      "Name": "The Art of MLB The Show 21",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of MLB The Show 21"
     },
     {
       "Number": 301,
-      "Name": "The Art of The Last of Us Part III (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Last of Us Part III (Fictional Pre-Release)"
     },
     {
       "Number": 302,
-      "Name": "The Art of Assassin's Creed: Valhalla Expansion",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Assassin's Creed: Valhalla Expansion"
     },
     {
       "Number": 303,
-      "Name": "The Art of Mass Effect: Andromeda – The Unseen Planets",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Mass Effect: Andromeda – The Unseen Planets"
     },
     {
       "Number": 304,
-      "Name": "The Art of Titanfall: The Frontier",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Titanfall: The Frontier"
     },
     {
       "Number": 305,
-      "Name": "The Art of The Witcher: A New Saga (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Witcher: A New Saga (Fictional Pre-Release)"
     },
     {
       "Number": 306,
-      "Name": "The Art of Grand Theft Auto VI (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Grand Theft Auto VI (Fictional Pre-Release)"
     },
     {
       "Number": 307,
-      "Name": "The Art of Beyond Skyrim (Mod)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Beyond Skyrim (Mod)"
     },
     {
       "Number": 308,
-      "Name": "The Art of The Outer Worlds: Eridanos",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Outer Worlds: Eridanos"
     },
     {
       "Number": 309,
-      "Name": "The Art of Rainbow Six: Quarantine",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Rainbow Six: Quarantine"
     },
     {
       "Number": 310,
-      "Name": "The Art of Fallout: New Vegas Reimagined",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Fallout: New Vegas Reimagined"
     },
     {
       "Number": 311,
-      "Name": "The Art of Deus Ex: Mankind Divided – Breach",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Deus Ex: Mankind Divided – Breach"
     },
     {
       "Number": 312,
-      "Name": "The Art of Shadowrun: Hong Kong",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Shadowrun: Hong Kong"
     },
     {
       "Number": 313,
-      "Name": "The Art of Cyberpunk: Edgerunners",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Cyberpunk: Edgerunners"
     },
     {
       "Number": 314,
-      "Name": "The Art of The Ascent: Neon Districts",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Ascent: Neon Districts"
     },
     {
       "Number": 315,
-      "Name": "The Art of Overwatch: Omnic Uprising",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Overwatch: Omnic Uprising"
     },
     {
       "Number": 316,
-      "Name": "The Art of Half-Life: Alyx – Return to City 17",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Half-Life: Alyx – Return to City 17"
     },
     {
       "Number": 317,
-      "Name": "The Art of Portal: Companion Collection",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Portal: Companion Collection"
     },
     {
       "Number": 318,
-      "Name": "The Art of Left 4 Dead: The Aftermath",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Left 4 Dead: The Aftermath"
     },
     {
       "Number": 319,
-      "Name": "The Art of Dota 2: The Ancients",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Dota 2: The Ancients"
     },
     {
       "Number": 320,
-      "Name": "The Art of Artifact: The Dota Card Game",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Artifact: The Dota Card Game"
     },
     {
       "Number": 321,
-      "Name": "The Art of StarCraft: Remastered",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of StarCraft: Remastered"
     },
     {
       "Number": 322,
-      "Name": "The Art of Diablo IV (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Diablo IV (Fictional Pre-Release)"
     },
     {
       "Number": 323,
-      "Name": "The Art of Hearthstone: Year of the Gryphon",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Hearthstone: Year of the Gryphon"
     },
     {
       "Number": 324,
-      "Name": "The Art of Heroes of the Storm: Battlegrounds",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Heroes of the Storm: Battlegrounds"
     },
     {
       "Number": 325,
-      "Name": "The Art of The Elder Scrolls: Blades",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Elder Scrolls: Blades"
     },
     {
       "Number": 326,
-      "Name": "The Art of Prey: Mooncrash",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Prey: Mooncrash"
     },
     {
       "Number": 327,
-      "Name": "The Art of Dishonored: Death of the Outsider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Dishonored: Death of the Outsider"
     },
     {
       "Number": 328,
-      "Name": "The Art of Wolfenstein: Youngblood",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Wolfenstein: Youngblood"
     },
     {
       "Number": 329,
-      "Name": "The Art of The Evil Within: The Lost Chapters",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Evil Within: The Lost Chapters"
     },
     {
       "Number": 330,
-      "Name": "The Art of Rage 2: The Wasteland",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Rage 2: The Wasteland"
     },
     {
       "Number": 331,
-      "Name": "The Art of The Talos Principle 2 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Talos Principle 2 (Fictional Pre-Release)"
     },
     {
       "Number": 332,
-      "Name": "The Art of Serious Sam 4: Planet Badass",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Serious Sam 4: Planet Badass"
     },
     {
       "Number": 333,
-      "Name": "The Art of Enter the Gungeon: Gunfights & Dungeons",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Enter the Gungeon: Gunfights & Dungeons"
     },
     {
       "Number": 334,
-      "Name": "The Art of The Binding of Isaac: Rebirth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Binding of Isaac: Rebirth"
     },
     {
       "Number": 335,
-      "Name": "The Art of Spelunky 2: Moon Adventures",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Spelunky 2: Moon Adventures"
     },
     {
       "Number": 336,
-      "Name": "The Art of Hollow Knight: Silksong (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Hollow Knight: Silksong (Fictional Pre-Release)"
     },
     {
       "Number": 337,
-      "Name": "The Art of The End is Nigh: Apocalypse",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The End is Nigh: Apocalypse"
     },
     {
       "Number": 338,
-      "Name": "The Art of Hyper Light Drifter: Echoes",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Hyper Light Drifter: Echoes"
     },
     {
       "Number": 339,
-      "Name": "The Art of The Witness II (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Witness II (Fictional Pre-Release)"
     },
     {
       "Number": 340,
-      "Name": "The Art of Firewatch: Shoshone",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Firewatch: Shoshone"
     },
     {
       "Number": 341,
-      "Name": "The Art of Oxenfree: Signals",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Oxenfree: Signals"
     },
     {
       "Number": 342,
-      "Name": "The Art of Night in the Woods: Return to Possum Springs",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Night in the Woods: Return to Possum Springs"
     },
     {
       "Number": 343,
-      "Name": "The Art of Kentucky Route Zero: The Complete Journey",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Kentucky Route Zero: The Complete Journey"
     },
     {
       "Number": 344,
-      "Name": "The Art of Celeste: Summit Stories",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Celeste: Summit Stories"
     },
     {
       "Number": 345,
-      "Name": "The Art of Ori: The Collection",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Ori: The Collection"
     },
     {
       "Number": 346,
-      "Name": "The Art of Carrion: Amorphous Horror",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Carrion: Amorphous Horror"
     },
     {
       "Number": 347,
-      "Name": "The Art of Gris: Shades of Light",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Gris: Shades of Light"
     },
     {
       "Number": 348,
-      "Name": "The Art of Limbo: The Darker Place",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Limbo: The Darker Place"
     },
     {
       "Number": 349,
-      "Name": "The Art of INSIDE: Depths",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of INSIDE: Depths"
     },
     {
       "Number": 350,
-      "Name": "The Art of Axiom Verge 2: Trace's Path",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Axiom Verge 2: Trace's Path"
     },
     {
       "Number": 351,
-      "Name": "The Art of Tetris Effect: Connected Realms",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Tetris Effect: Connected Realms"
     },
     {
       "Number": 352,
-      "Name": "The Art of Streets of Rage 4: Beat 'Em Up",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Streets of Rage 4: Beat 'Em Up"
     },
     {
       "Number": 353,
-      "Name": "The Art of Yakuza: Like a Dragon – Yokohama",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Yakuza: Like a Dragon – Yokohama"
     },
     {
       "Number": 354,
-      "Name": "The Art of Ghost of Tsushima: Legends",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Ghost of Tsushima: Legends"
     },
     {
       "Number": 355,
-      "Name": "The Art of Final Fantasy XVI (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Final Fantasy XVI (Fictional Pre-Release)"
     },
     {
       "Number": 356,
-      "Name": "The Art of Kingdom Hearts IV (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Kingdom Hearts IV (Fictional Pre-Release)"
     },
     {
       "Number": 357,
-      "Name": "The Art of Dragon Quest XII (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Dragon Quest XII (Fictional Pre-Release)"
     },
     {
       "Number": 358,
-      "Name": "The Art of Chrono Resurrection (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Chrono Resurrection (Fictional Pre-Release)"
     },
     {
       "Number": 359,
-      "Name": "The Art of Xenogears: Reimagined",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Xenogears: Reimagined"
     },
     {
       "Number": 360,
-      "Name": "The Art of Metal Gear Solid: Twin Snakes",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Metal Gear Solid: Twin Snakes"
     },
     {
       "Number": 361,
-      "Name": "The Art of Silent Hill: Restless Dreams",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Silent Hill: Restless Dreams"
     },
     {
       "Number": 362,
-      "Name": "The Art of Castlevania: Symphony of the Night Redux",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Castlevania: Symphony of the Night Redux"
     },
     {
       "Number": 363,
-      "Name": "The Art of Resident Evil: Code Veronica X HD",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Resident Evil: Code Veronica X HD"
     },
     {
       "Number": 364,
-      "Name": "The Art of Devil May Cry 6 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Devil May Cry 6 (Fictional Pre-Release)"
     },
     {
       "Number": 365,
-      "Name": "The Art of Street Fighter VI (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Street Fighter VI (Fictional Pre-Release)"
     },
     {
       "Number": 366,
-      "Name": "The Art of Mortal Kombat XII (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Mortal Kombat XII (Fictional Pre-Release)"
     },
     {
       "Number": 367,
-      "Name": "The Art of Tekken 8 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Tekken 8 (Fictional Pre-Release)"
     },
     {
       "Number": 368,
-      "Name": "The Art of Soul Calibur VII (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Soul Calibur VII (Fictional Pre-Release)"
     },
     {
       "Number": 369,
-      "Name": "The Art of BlazBlue: Central Fiction",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of BlazBlue: Central Fiction"
     },
     {
       "Number": 370,
-      "Name": "The Art of Guilty Gear -Strive-",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Guilty Gear -Strive-"
     },
     {
       "Number": 371,
-      "Name": "The Art of Samurai Shodown: The Legend Continues",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Samurai Shodown: The Legend Continues"
     },
     {
       "Number": 372,
-      "Name": "The Art of King of Fighters XV",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of King of Fighters XV"
     },
     {
       "Number": 373,
-      "Name": "The Art of Skullgirls: 2nd Encore",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Skullgirls: 2nd Encore"
     },
     {
       "Number": 374,
-      "Name": "The Art of Divekick: Addition Edition",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Divekick: Addition Edition"
     },
     {
       "Number": 375,
-      "Name": "The Art of Killer Instinct: Ultra Combo",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Killer Instinct: Ultra Combo"
     },
     {
       "Number": 376,
-      "Name": "The Art of Apex Legends: Champions",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Apex Legends: Champions"
     },
     {
       "Number": 377,
-      "Name": "The Art of Warframe: Empyrean",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Warframe: Empyrean"
     },
     {
       "Number": 378,
-      "Name": "The Art of Valorant: Protocol",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Valorant: Protocol"
     },
     {
       "Number": 379,
-      "Name": "The Art of League of Legends: Wild Rift",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of League of Legends: Wild Rift"
     },
     {
       "Number": 380,
-      "Name": "The Art of Heroes of Newerth: The Last Stand",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Heroes of Newerth: The Last Stand"
     },
     {
       "Number": 381,
-      "Name": "The Art of Smite: Battleground of the Gods",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Smite: Battleground of the Gods"
     },
     {
       "Number": 382,
-      "Name": "The Art of Paladins: Realm Royale",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Paladins: Realm Royale"
     },
     {
       "Number": 383,
-      "Name": "The Art of Genshin Impact: Teyvat Chronicles",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Genshin Impact: Teyvat Chronicles"
     },
     {
       "Number": 384,
-      "Name": "The Art of Honkai Impact 3rd: Post-Honkai Odyssey",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Honkai Impact 3rd: Post-Honkai Odyssey"
     },
     {
       "Number": 385,
-      "Name": "The Art of Arknights: Terra Formations",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Arknights: Terra Formations"
     },
     {
       "Number": 386,
-      "Name": "The Art of Azur Lane: Across the Ocean",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Azur Lane: Across the Ocean"
     },
     {
       "Number": 387,
-      "Name": "The Art of Girls' Frontline: Tactical Dolls",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Girls' Frontline: Tactical Dolls"
     },
     {
       "Number": 388,
-      "Name": "The Art of Destiny 2: Beyond Light",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Destiny 2: Beyond Light"
     },
     {
       "Number": 389,
-      "Name": "The Art of Halo Infinite: Zeta Halo",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Halo Infinite: Zeta Halo"
     },
     {
       "Number": 390,
-      "Name": "The Art of Call of Duty: Warzone",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Call of Duty: Warzone"
     },
     {
       "Number": 391,
-      "Name": "The Art of Battlefield 2042: Total Warfare",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Battlefield 2042: Total Warfare"
     },
     {
       "Number": 392,
-      "Name": "The Art of Star Wars Battlefront II: The Galactic Experience",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars Battlefront II: The Galactic Experience"
     },
     {
       "Number": 393,
-      "Name": "The Art of Tom Clancy's Ghost Recon: Breakpoint",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Tom Clancy's Ghost Recon: Breakpoint"
     },
     {
       "Number": 394,
-      "Name": "The Art of The Division 2: Warlords of New York",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Division 2: Warlords of New York"
     },
     {
       "Number": 395,
-      "Name": "The Art of Escape from Tarkov: Survival's Edge",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Escape from Tarkov: Survival's Edge"
     },
     {
       "Number": 396,
-      "Name": "The Art of Far Cry 6: Yara's Revolution",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Far Cry 6: Yara's Revolution"
     },
     {
       "Number": 397,
-      "Name": "The Art of Just Cause 5 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Just Cause 5 (Fictional Pre-Release)"
     },
     {
       "Number": 398,
-      "Name": "The Art of Watch Dogs: Legion – Near-Future London",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Watch Dogs: Legion – Near-Future London"
     },
     {
       "Number": 399,
-      "Name": "The Art of Crysis 4 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Crysis 4 (Fictional Pre-Release)"
     },
     {
       "Number": 400,
-      "Name": "The Art of MechWarrior 5: Mercenaries",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of MechWarrior 5: Mercenaries"
     },
     {
       "Number": 401,
-      "Name": "The Art of Star Citizen: Squadron 42",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Citizen: Squadron 42"
     },
     {
       "Number": 402,
-      "Name": "The Art of Elite Dangerous: Odyssey",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Elite Dangerous: Odyssey"
     },
     {
       "Number": 403,
-      "Name": "The Art of EVE Online: The Capsuleer Chronicles",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of EVE Online: The Capsuleer Chronicles"
     },
     {
       "Number": 404,
-      "Name": "The Art of Homeworld 3 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Homeworld 3 (Fictional Pre-Release)"
     },
     {
       "Number": 405,
-      "Name": "The Art of S.T.A.L.K.E.R. 2: Heart of Chernobyl",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of S.T.A.L.K.E.R. 2: Heart of Chernobyl"
     },
     {
       "Number": 406,
-      "Name": "The Art of The Long Dark: Survival Stories",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Long Dark: Survival Stories"
     },
     {
       "Number": 407,
-      "Name": "The Art of Subnautica: Below Zero",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Subnautica: Below Zero"
     },
     {
       "Number": 408,
-      "Name": "The Art of No Man's Sky: Expeditions",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of No Man's Sky: Expeditions"
     },
     {
       "Number": 409,
-      "Name": "The Art of Astroneer: Frontier Pioneers",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Astroneer: Frontier Pioneers"
     },
     {
       "Number": 410,
-      "Name": "The Art of Kerbal Space Program: Orbital Mechanics",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Kerbal Space Program: Orbital Mechanics"
     },
     {
       "Number": 411,
-      "Name": "The Art of Planet Zoo: Conservation Collection",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Planet Zoo: Conservation Collection"
     },
     {
       "Number": 412,
-      "Name": "The Art of The Sims 5 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Sims 5 (Fictional Pre-Release)"
     },
     {
       "Number": 413,
-      "Name": "The Art of Cities: Skylines – Urban Environments",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Cities: Skylines – Urban Environments"
     },
     {
       "Number": 414,
-      "Name": "The Art of Farming Simulator 22: Harvest Seasons",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Farming Simulator 22: Harvest Seasons"
     },
     {
       "Number": 415,
-      "Name": "The Art of Microsoft Flight Simulator: World Tour",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Microsoft Flight Simulator: World Tour"
     },
     {
       "Number": 416,
-      "Name": "The Art of Euro Truck Simulator 2: Scenic Routes",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Euro Truck Simulator 2: Scenic Routes"
     },
     {
       "Number": 417,
-      "Name": "The Art of American Truck Simulator: Coast to Coast",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of American Truck Simulator: Coast to Coast"
     },
     {
       "Number": 418,
-      "Name": "The Art of Tropico 6: El Presidente's Legacy",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Tropico 6: El Presidente's Legacy"
     },
     {
       "Number": 419,
-      "Name": "The Art of Surviving Mars: Red Frontier",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Surviving Mars: Red Frontier"
     },
     {
       "Number": 420,
-      "Name": "The Art of Anno 1800: Industrial Revolution",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Anno 1800: Industrial Revolution"
     },
     {
       "Number": 421,
-      "Name": "The Art of Age of Empires IV: The Age of Kings",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Age of Empires IV: The Age of Kings"
     },
     {
       "Number": 422,
-      "Name": "The Art of Civilization VI: New Horizons",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Civilization VI: New Horizons"
     },
     {
       "Number": 423,
-      "Name": "The Art of Total War: Three Kingdoms – The Art of War",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Total War: Three Kingdoms – The Art of War"
     },
     {
       "Number": 424,
-      "Name": "The Art of Crusader Kings III: Thrones and Dynasties",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Crusader Kings III: Thrones and Dynasties"
     },
     {
       "Number": 425,
-      "Name": "The Art of Baldur's Gate 3: The Forgotten Realms",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Baldur's Gate 3: The Forgotten Realms"
     },
     {
       "Number": 426,
-      "Name": "The Art of The Witcher 3: Wild Hunt – Complete Edition",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Witcher 3: Wild Hunt – Complete Edition"
     },
     {
       "Number": 427,
-      "Name": "The Art of Cyberpunk 2077: Night City",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Cyberpunk 2077: Night City"
     },
     {
       "Number": 428,
-      "Name": "The Art of Dragon Age: Dreadwolf (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Dragon Age: Dreadwolf (Fictional Pre-Release)"
     },
     {
       "Number": 429,
-      "Name": "The Art of Mass Effect: Legendary Edition",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Mass Effect: Legendary Edition"
     },
     {
       "Number": 430,
-      "Name": "The Art of Star Wars: Knights of the Old Republic Remake (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Star Wars: Knights of the Old Republic Remake (Fictional Pre-Release)"
     },
     {
       "Number": 431,
-      "Name": "The Art of The Legend of Zelda: Breath of the Wild 2 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of The Legend of Zelda: Breath of the Wild 2 (Fictional Pre-Release)"
     },
     {
       "Number": 432,
-      "Name": "The Art of Metroid Dread: E.M.M.I. Encounters",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Metroid Dread: E.M.M.I. Encounters"
     },
     {
       "Number": 433,
-      "Name": "The Art of Super Mario Odyssey: Bowser's Kingdom",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Super Mario Odyssey: Bowser's Kingdom"
     },
     {
       "Number": 434,
-      "Name": "The Art of Splatoon 3 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Splatoon 3 (Fictional Pre-Release)"
     },
     {
       "Number": 435,
-      "Name": "The Art of Kirby and the Forgotten Land: Dreamscapes",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Kirby and the Forgotten Land: Dreamscapes"
     },
     {
       "Number": 436,
-      "Name": "The Art of Bayonetta 3: Infernal Dance (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Bayonetta 3: Infernal Dance (Fictional Pre-Release)"
     },
     {
       "Number": 437,
-      "Name": "The Art of Shin Megami Tensei V: Netherworld",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Shin Megami Tensei V: Netherworld"
     },
     {
       "Number": 438,
-      "Name": "The Art of Persona 5 Royal: The Phantom Experience",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Persona 5 Royal: The Phantom Experience"
     },
     {
       "Number": 439,
-      "Name": "The Art of Fire Emblem: Three Hopes",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Fire Emblem: Three Hopes"
     },
     {
       "Number": 440,
-      "Name": "The Art of Animal Crossing: New Horizons – Island Life",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Animal Crossing: New Horizons – Island Life"
     },
     {
       "Number": 441,
-      "Name": "The Art of Pokémon Unite: Battle Arena",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Pokémon Unite: Battle Arena"
     },
     {
       "Number": 442,
-      "Name": "The Art of Pokémon Scarlet and Violet (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Pokémon Scarlet and Violet (Fictional Pre-Release)"
     },
     {
       "Number": 443,
-      "Name": "The Art of Xenoblade Chronicles 3 (Fictional Pre-Release)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of Xenoblade Chronicles 3 (Fictional Pre-Release)"
     },
     {
       "Number": 444,
-      "Name": "The Art of EarthBound: The Mother Collection",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "The Art of EarthBound: The Mother Collection"
     }
   ]
 }

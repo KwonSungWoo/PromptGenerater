@@ -31,6 +31,13 @@ public class DataTransformer : EditorWindow
         ParseExcelDataToJson<TableDataLoader, TableData>("ShellfishData"		);
         ParseExcelDataToJson<TableDataLoader, TableData>("InsectData"			);
         ParseExcelDataToJson<TableDataLoader, TableData>("ArmorData"			);
+        ParseExcelDataToJson<TableDataLoader, TableData>("FemaleData"			);
+        ParseExcelDataToJson<TableDataLoader, TableData>("AnimationData"		);
+        ParseExcelDataToJson<TableDataLoader, TableData>("ClothingBrandData"	);
+        ParseExcelDataToJson<TableDataLoader, TableData>("JobData"				);
+        ParseExcelDataToJson<TableDataLoader, TableData>("FantasyJobData"		);
+        ParseExcelDataToJson<TableDataLoader, TableData>("TraditionalClothData"	);
+        ParseExcelDataToJson<TableDataLoader, TableData>("CharacterData"		);
         //ParseExcelDataToJson<EnvDataLoader, EnvData>("Env");
 
         Debug.Log("DataTransformer Completed");

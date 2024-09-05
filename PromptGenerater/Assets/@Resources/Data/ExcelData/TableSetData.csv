@@ -9,3 +9,10 @@ Number,Name,Count,Scentence_Head,Scentence_Tail
 8,Insect,198,,insect Character
 9,Shellfish,196,,Character
 10,Armor,266,Wearing,
+11,Female,399,Look like,Character
+12,Animation,400,Style of,
+13,ClothingBrand,101,Wearing,
+14,Job,300,Look like,
+15,FantasyJob,200,Look like,
+16,TraditionalCloth,91,Wearing,
+17,Character,185,Look like,

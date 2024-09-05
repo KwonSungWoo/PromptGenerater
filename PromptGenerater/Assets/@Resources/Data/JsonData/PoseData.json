@@ -2,803 +2,403 @@
   "tables": [
     {
       "Number": 1,
-      "Name": "Standing Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Standing Pose"
     },
     {
       "Number": 2,
-      "Name": "Sitting Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sitting Pose"
     },
     {
       "Number": 3,
-      "Name": "Leaning Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Leaning Pose"
     },
     {
       "Number": 4,
-      "Name": "Lying Down Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lying Down Pose"
     },
     {
       "Number": 5,
-      "Name": "Action Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Action Pose"
     },
     {
       "Number": 6,
-      "Name": "Dynamic Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Dynamic Pose"
     },
     {
       "Number": 7,
-      "Name": "Relaxed Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Relaxed Pose"
     },
     {
       "Number": 8,
-      "Name": "T-Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "T-Pose"
     },
     {
       "Number": 9,
-      "Name": "Contrapposto",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Contrapposto"
     },
     {
       "Number": 10,
-      "Name": "Fashion Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Fashion Pose"
     },
     {
       "Number": 11,
-      "Name": "Hands on Hips",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hands on Hips"
     },
     {
       "Number": 12,
-      "Name": "Crossed Arms",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Crossed Arms"
     },
     {
       "Number": 13,
-      "Name": "Hand on Chin",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hand on Chin"
     },
     {
       "Number": 14,
-      "Name": "Hand in Hair",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hand in Hair"
     },
     {
       "Number": 15,
-      "Name": "Over-the-Shoulder Look",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Over-the-Shoulder Look"
     },
     {
       "Number": 16,
-      "Name": "Profile Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Profile Pose"
     },
     {
       "Number": 17,
-      "Name": "Three-Quarter Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Three-Quarter Pose"
     },
     {
       "Number": 18,
-      "Name": "Head Tilt",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Head Tilt"
     },
     {
       "Number": 19,
-      "Name": "Pensive Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pensive Pose"
     },
     {
       "Number": 20,
-      "Name": "Arms Crossed",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Arms Crossed"
     },
     {
       "Number": 21,
-      "Name": "Jumping Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Jumping Pose"
     },
     {
       "Number": 22,
-      "Name": "Running Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Running Pose"
     },
     {
       "Number": 23,
-      "Name": "Walking Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Walking Pose"
     },
     {
       "Number": 24,
-      "Name": "Ballet Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ballet Pose"
     },
     {
       "Number": 25,
-      "Name": "Yoga Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Yoga Pose"
     },
     {
       "Number": 26,
-      "Name": "Fitness Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Fitness Pose"
     },
     {
       "Number": 27,
-      "Name": "Martial Arts Stance",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Martial Arts Stance"
     },
     {
       "Number": 28,
-      "Name": "Hero Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hero Pose"
     },
     {
       "Number": 29,
-      "Name": "Looking Up",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Looking Up"
     },
     {
       "Number": 30,
-      "Name": "Looking Down",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Looking Down"
     },
     {
       "Number": 31,
-      "Name": "Gaze Away",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Gaze Away"
     },
     {
       "Number": 32,
-      "Name": "Arms Raised",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Arms Raised"
     },
     {
       "Number": 33,
-      "Name": "Hands Together",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hands Together"
     },
     {
       "Number": 34,
-      "Name": "Hands Apart",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hands Apart"
     },
     {
       "Number": 35,
-      "Name": "One Leg Up",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "One Leg Up"
     },
     {
       "Number": 36,
-      "Name": "Cross-legged",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cross-legged"
     },
     {
       "Number": 37,
-      "Name": "Knee Up",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Knee Up"
     },
     {
       "Number": 38,
-      "Name": "Reclining Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Reclining Pose"
     },
     {
       "Number": 39,
-      "Name": "Hands on Face",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hands on Face"
     },
     {
       "Number": 40,
-      "Name": "Side Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Side Pose"
     },
     {
       "Number": 41,
-      "Name": "Hunched Over",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hunched Over"
     },
     {
       "Number": 42,
-      "Name": "Power Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Power Pose"
     },
     {
       "Number": 43,
-      "Name": "Victory Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Victory Pose"
     },
     {
       "Number": 44,
-      "Name": "Hands in Pockets",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hands in Pockets"
     },
     {
       "Number": 45,
-      "Name": "Arms Behind Head",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Arms Behind Head"
     },
     {
       "Number": 46,
-      "Name": "Arms Outstretched",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Arms Outstretched"
     },
     {
       "Number": 47,
-      "Name": "Waving Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Waving Pose"
     },
     {
       "Number": 48,
-      "Name": "Pointing Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pointing Pose"
     },
     {
       "Number": 49,
-      "Name": "Hand on Heart",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hand on Heart"
     },
     {
       "Number": 50,
-      "Name": "Fingers Crossed",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Fingers Crossed"
     },
     {
       "Number": 51,
-      "Name": "Thumbs Up",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Thumbs Up"
     },
     {
       "Number": 52,
-      "Name": "Peace Sign",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Peace Sign"
     },
     {
       "Number": 53,
-      "Name": "Rock Sign",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Rock Sign"
     },
     {
       "Number": 54,
-      "Name": "Hand on Waist",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hand on Waist"
     },
     {
       "Number": 55,
-      "Name": "Saluting Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Saluting Pose"
     },
     {
       "Number": 56,
-      "Name": "Prayer Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Prayer Pose"
     },
     {
       "Number": 57,
-      "Name": "Bowing Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bowing Pose"
     },
     {
       "Number": 58,
-      "Name": "Clapping Hands",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Clapping Hands"
     },
     {
       "Number": 59,
-      "Name": "Shoulder Shrug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Shoulder Shrug"
     },
     {
       "Number": 60,
-      "Name": "Finger on Lips (Silence)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Finger on Lips (Silence)"
     },
     {
       "Number": 61,
-      "Name": "Covering Eyes",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Covering Eyes"
     },
     {
       "Number": 62,
-      "Name": "Covering Ears",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Covering Ears"
     },
     {
       "Number": 63,
-      "Name": "Covering Mouth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Covering Mouth"
     },
     {
       "Number": 64,
-      "Name": "Hands Clasped",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hands Clasped"
     },
     {
       "Number": 65,
-      "Name": "Fist Pump",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Fist Pump"
     },
     {
       "Number": 66,
-      "Name": "High Five",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "High Five"
     },
     {
       "Number": 67,
-      "Name": "Thumbs Down",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Thumbs Down"
     },
     {
       "Number": 68,
-      "Name": "OK Sign",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "OK Sign"
     },
     {
       "Number": 69,
-      "Name": "Facepalm",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Facepalm"
     },
     {
       "Number": 70,
-      "Name": "Shaka Sign",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Shaka Sign"
     },
     {
       "Number": 71,
-      "Name": "Folded Hands",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Folded Hands"
     },
     {
       "Number": 72,
-      "Name": "Double Thumbs Up",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Double Thumbs Up"
     },
     {
       "Number": 73,
-      "Name": "Arm Cross",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Arm Cross"
     },
     {
       "Number": 74,
-      "Name": "Legs Crossed",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Legs Crossed"
     },
     {
       "Number": 75,
-      "Name": "Ankle Cross",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ankle Cross"
     },
     {
       "Number": 76,
-      "Name": "Kneeling Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Kneeling Pose"
     },
     {
       "Number": 77,
-      "Name": "Squatting Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Squatting Pose"
     },
     {
       "Number": 78,
-      "Name": "Lunging Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lunging Pose"
     },
     {
       "Number": 79,
-      "Name": "Bending Forward",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bending Forward"
     },
     {
       "Number": 80,
-      "Name": "Stretching Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Stretching Pose"
     },
     {
       "Number": 81,
-      "Name": "Twisting Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Twisting Pose"
     },
     {
       "Number": 82,
-      "Name": "Arching Back",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Arching Back"
     },
     {
       "Number": 83,
-      "Name": "Hands on Cheeks",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hands on Cheeks"
     },
     {
       "Number": 84,
-      "Name": "Wrist Holding",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Wrist Holding"
     },
     {
       "Number": 85,
-      "Name": "Ear Tuck",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ear Tuck"
     },
     {
       "Number": 86,
-      "Name": "Neck Rub",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Neck Rub"
     },
     {
       "Number": 87,
-      "Name": "Shoulder Touch",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Shoulder Touch"
     },
     {
       "Number": 88,
-      "Name": "Elbow Rest",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Elbow Rest"
     },
     {
       "Number": 89,
-      "Name": "Palm Up",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Palm Up"
     },
     {
       "Number": 90,
-      "Name": "Palm Down",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Palm Down"
     },
     {
       "Number": 91,
-      "Name": "Handshake Pose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Handshake Pose"
     },
     {
       "Number": 92,
-      "Name": "Fist Bump",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Fist Bump"
     },
     {
       "Number": 93,
-      "Name": "Jazz Hands",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Jazz Hands"
     },
     {
       "Number": 94,
-      "Name": "Puppet Hands",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Puppet Hands"
     },
     {
       "Number": 95,
-      "Name": "Cupped Hands",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cupped Hands"
     },
     {
       "Number": 96,
-      "Name": "Hands on Back",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hands on Back"
     },
     {
       "Number": 97,
-      "Name": "Hands on Shoulders",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hands on Shoulders"
     },
     {
       "Number": 98,
-      "Name": "Hands on Another's Shoulder",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hands on Another's Shoulder"
     },
     {
       "Number": 99,
-      "Name": "Arms Akimbo",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Arms Akimbo"
     },
     {
       "Number": 100,
-      "Name": "One Hand on Hip",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "One Hand on Hip"
     }
   ]
 }

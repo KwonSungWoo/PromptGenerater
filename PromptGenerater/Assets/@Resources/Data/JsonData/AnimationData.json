@@ -1,0 +1,1604 @@
+{
+  "tables": [
+    {
+      "Number": 1,
+      "Name": "Dragon Ball Z"
+    },
+    {
+      "Number": 2,
+      "Name": "Naruto"
+    },
+    {
+      "Number": 3,
+      "Name": "One Piece"
+    },
+    {
+      "Number": 4,
+      "Name": "Attack on Titan"
+    },
+    {
+      "Number": 5,
+      "Name": "My Hero Academia"
+    },
+    {
+      "Number": 6,
+      "Name": "Bleach"
+    },
+    {
+      "Number": 7,
+      "Name": "Samurai Champloo"
+    },
+    {
+      "Number": 8,
+      "Name": "Cowboy Bebop"
+    },
+    {
+      "Number": 9,
+      "Name": "Fullmetal Alchemist: Brotherhood"
+    },
+    {
+      "Number": 10,
+      "Name": "Hunter × Hunter"
+    },
+    {
+      "Number": 11,
+      "Name": "Demon Slayer: Kimetsu no Yaiba"
+    },
+    {
+      "Number": 12,
+      "Name": "JoJo's Bizarre Adventure"
+    },
+    {
+      "Number": 13,
+      "Name": "Tokyo Ghoul"
+    },
+    {
+      "Number": 14,
+      "Name": "Sword Art Online"
+    },
+    {
+      "Number": 15,
+      "Name": "Fairy Tail"
+    },
+    {
+      "Number": 16,
+      "Name": "Death Note"
+    },
+    {
+      "Number": 17,
+      "Name": "One Punch Man"
+    },
+    {
+      "Number": 18,
+      "Name": "Berserk"
+    },
+    {
+      "Number": 19,
+      "Name": "Black Clover"
+    },
+    {
+      "Number": 20,
+      "Name": "Vinland Saga"
+    },
+    {
+      "Number": 21,
+      "Name": "Akame ga Kill!"
+    },
+    {
+      "Number": 22,
+      "Name": "Kill la Kill"
+    },
+    {
+      "Number": 23,
+      "Name": "Gurren Lagann"
+    },
+    {
+      "Number": 24,
+      "Name": "Psycho-Pass"
+    },
+    {
+      "Number": 25,
+      "Name": "Parasyte -the maxim-"
+    },
+    {
+      "Number": 26,
+      "Name": "Code Geass: Lelouch of the Rebellion"
+    },
+    {
+      "Number": 27,
+      "Name": "Gundam series (Various)"
+    },
+    {
+      "Number": 28,
+      "Name": "Neon Genesis Evangelion"
+    },
+    {
+      "Number": 29,
+      "Name": "Steins;Gate"
+    },
+    {
+      "Number": 30,
+      "Name": "Fate series (Various)"
+    },
+    {
+      "Number": 31,
+      "Name": "Jujutsu Kaisen"
+    },
+    {
+      "Number": 32,
+      "Name": "Mob Psycho 100"
+    },
+    {
+      "Number": 33,
+      "Name": "Dororo"
+    },
+    {
+      "Number": 34,
+      "Name": "Dr. Stone"
+    },
+    {
+      "Number": 35,
+      "Name": "Fire Force"
+    },
+    {
+      "Number": 36,
+      "Name": "Baki the Grappler"
+    },
+    {
+      "Number": 37,
+      "Name": "Claymore"
+    },
+    {
+      "Number": 38,
+      "Name": "Darker than Black"
+    },
+    {
+      "Number": 39,
+      "Name": "Noragami"
+    },
+    {
+      "Number": 40,
+      "Name": "The Seven Deadly Sins"
+    },
+    {
+      "Number": 41,
+      "Name": "Hellsing Ultimate"
+    },
+    {
+      "Number": 42,
+      "Name": "Soul Eater"
+    },
+    {
+      "Number": 43,
+      "Name": "Trigun"
+    },
+    {
+      "Number": 44,
+      "Name": "Rurouni Kenshin"
+    },
+    {
+      "Number": 45,
+      "Name": "Black Lagoon"
+    },
+    {
+      "Number": 46,
+      "Name": "Elfen Lied"
+    },
+    {
+      "Number": 47,
+      "Name": "Mirai Nikki (Future Diary)"
+    },
+    {
+      "Number": 48,
+      "Name": "Deadman Wonderland"
+    },
+    {
+      "Number": 49,
+      "Name": "Attack on Titan: Junior High"
+    },
+    {
+      "Number": 50,
+      "Name": "Sword Art Online: Alicization"
+    },
+    {
+      "Number": 51,
+      "Name": "Overlord"
+    },
+    {
+      "Number": 52,
+      "Name": "Re:Zero − Starting Life in Another World"
+    },
+    {
+      "Number": 53,
+      "Name": "Log Horizon"
+    },
+    {
+      "Number": 54,
+      "Name": "No Game No Life"
+    },
+    {
+      "Number": 55,
+      "Name": "The Rising of the Shield Hero"
+    },
+    {
+      "Number": 56,
+      "Name": "Tokyo Revengers"
+    },
+    {
+      "Number": 57,
+      "Name": "Blue Exorcist"
+    },
+    {
+      "Number": 58,
+      "Name": "My Teen Romantic Comedy SNAFU"
+    },
+    {
+      "Number": 59,
+      "Name": "Food Wars!: Shokugeki no Soma"
+    },
+    {
+      "Number": 60,
+      "Name": "The Quintessential Quintuplets"
+    },
+    {
+      "Number": 61,
+      "Name": "Rent-A-Girlfriend"
+    },
+    {
+      "Number": 62,
+      "Name": "Kaguya-sama: Love Is War"
+    },
+    {
+      "Number": 63,
+      "Name": "Seraph of the End"
+    },
+    {
+      "Number": 64,
+      "Name": "Kabaneri of the Iron Fortress"
+    },
+    {
+      "Number": 65,
+      "Name": "The Promised Neverland"
+    },
+    {
+      "Number": 66,
+      "Name": "Made in Abyss"
+    },
+    {
+      "Number": 67,
+      "Name": "Ajin: Demi-Human"
+    },
+    {
+      "Number": 68,
+      "Name": "Terra Formars"
+    },
+    {
+      "Number": 69,
+      "Name": "Tokyo ESP"
+    },
+    {
+      "Number": 70,
+      "Name": "Blast of Tempest"
+    },
+    {
+      "Number": 71,
+      "Name": "Guilty Crown"
+    },
+    {
+      "Number": 72,
+      "Name": "Aldnoah.Zero"
+    },
+    {
+      "Number": 73,
+      "Name": "Ushio and Tora"
+    },
+    {
+      "Number": 74,
+      "Name": "Devilman Crybaby"
+    },
+    {
+      "Number": 75,
+      "Name": "Dorohedoro"
+    },
+    {
+      "Number": 76,
+      "Name": "B: The Beginning"
+    },
+    {
+      "Number": 77,
+      "Name": "Beastars"
+    },
+    {
+      "Number": 78,
+      "Name": "Great Pretender"
+    },
+    {
+      "Number": 79,
+      "Name": "Vinland Saga"
+    },
+    {
+      "Number": 80,
+      "Name": "Golden Kamuy"
+    },
+    {
+      "Number": 81,
+      "Name": "Kingdom"
+    },
+    {
+      "Number": 82,
+      "Name": "Magi: The Labyrinth of Magic"
+    },
+    {
+      "Number": 83,
+      "Name": "The Irregular at Magic High School"
+    },
+    {
+      "Number": 84,
+      "Name": "D.Gray-man"
+    },
+    {
+      "Number": 85,
+      "Name": "Yu Yu Hakusho"
+    },
+    {
+      "Number": 86,
+      "Name": "Shaman King"
+    },
+    {
+      "Number": 87,
+      "Name": "Saint Seiya"
+    },
+    {
+      "Number": 88,
+      "Name": "InuYasha"
+    },
+    {
+      "Number": 89,
+      "Name": "Yu-Gi-Oh!"
+    },
+    {
+      "Number": 90,
+      "Name": "Digimon Adventure"
+    },
+    {
+      "Number": 91,
+      "Name": "Pokémon"
+    },
+    {
+      "Number": 92,
+      "Name": "Zatch Bell!"
+    },
+    {
+      "Number": 93,
+      "Name": "Medabots"
+    },
+    {
+      "Number": 94,
+      "Name": "Beyblade"
+    },
+    {
+      "Number": 95,
+      "Name": "Astro Boy"
+    },
+    {
+      "Number": 96,
+      "Name": "Speed Racer"
+    },
+    {
+      "Number": 97,
+      "Name": "Lupin the Third"
+    },
+    {
+      "Number": 98,
+      "Name": "Detective Conan"
+    },
+    {
+      "Number": 99,
+      "Name": "Fist of the North Star"
+    },
+    {
+      "Number": 100,
+      "Name": "Gintama"
+    },
+    {
+      "Number": 101,
+      "Name": "Basilisk"
+    },
+    {
+      "Number": 102,
+      "Name": "Afro Samurai"
+    },
+    {
+      "Number": 103,
+      "Name": "Blood+"
+    },
+    {
+      "Number": 104,
+      "Name": "Blood-C"
+    },
+    {
+      "Number": 105,
+      "Name": "Blue Gender"
+    },
+    {
+      "Number": 106,
+      "Name": "Burst Angel"
+    },
+    {
+      "Number": 107,
+      "Name": "C: The Money of Soul and Possibility Control"
+    },
+    {
+      "Number": 108,
+      "Name": "Canaan"
+    },
+    {
+      "Number": 109,
+      "Name": "Casshern Sins"
+    },
+    {
+      "Number": 110,
+      "Name": "Chrome Shelled Regios"
+    },
+    {
+      "Number": 111,
+      "Name": "Claymore"
+    },
+    {
+      "Number": 112,
+      "Name": "Danganronpa"
+    },
+    {
+      "Number": 113,
+      "Name": "Deadman Wonderland"
+    },
+    {
+      "Number": 114,
+      "Name": "Devil May Cry"
+    },
+    {
+      "Number": 115,
+      "Name": "Devilman: The Birth"
+    },
+    {
+      "Number": 116,
+      "Name": "Ergo Proxy"
+    },
+    {
+      "Number": 117,
+      "Name": "Eureka Seven"
+    },
+    {
+      "Number": 118,
+      "Name": "Fate/stay night"
+    },
+    {
+      "Number": 119,
+      "Name": "FLCL"
+    },
+    {
+      "Number": 120,
+      "Name": "Freezing"
+    },
+    {
+      "Number": 121,
+      "Name": "Gangsta"
+    },
+    {
+      "Number": 122,
+      "Name": "Gantz"
+    },
+    {
+      "Number": 123,
+      "Name": "Gasaraki"
+    },
+    {
+      "Number": 124,
+      "Name": "Gate"
+    },
+    {
+      "Number": 125,
+      "Name": "Ghost in the Shell: Stand Alone Complex"
+    },
+    {
+      "Number": 126,
+      "Name": "God Eater"
+    },
+    {
+      "Number": 127,
+      "Name": "Gungrave"
+    },
+    {
+      "Number": 128,
+      "Name": "Gunslinger Girl"
+    },
+    {
+      "Number": 129,
+      "Name": "High School of the Dead"
+    },
+    {
+      "Number": 130,
+      "Name": "Jormungand"
+    },
+    {
+      "Number": 131,
+      "Name": "K"
+    },
+    {
+      "Number": 132,
+      "Name": "Karas"
+    },
+    {
+      "Number": 133,
+      "Name": "Kekkaishi"
+    },
+    {
+      "Number": 134,
+      "Name": "Kino's Journey"
+    },
+    {
+      "Number": 135,
+      "Name": "Last Exile"
+    },
+    {
+      "Number": 136,
+      "Name": "Le Chevalier D'Eon"
+    },
+    {
+      "Number": 137,
+      "Name": "Legend of the Legendary Heroes"
+    },
+    {
+      "Number": 138,
+      "Name": "MÄR"
+    },
+    {
+      "Number": 139,
+      "Name": "Michiko & Hatchin"
+    },
+    {
+      "Number": 140,
+      "Name": "Moribito: Guardian of the Spirit"
+    },
+    {
+      "Number": 141,
+      "Name": "Nabari no Ou"
+    },
+    {
+      "Number": 142,
+      "Name": "No. 6"
+    },
+    {
+      "Number": 143,
+      "Name": "Noir"
+    },
+    {
+      "Number": 144,
+      "Name": "Pandora Hearts"
+    },
+    {
+      "Number": 145,
+      "Name": "Phantom: Requiem for the Phantom"
+    },
+    {
+      "Number": 146,
+      "Name": "Rage of Bahamut"
+    },
+    {
+      "Number": 147,
+      "Name": "RahXephon"
+    },
+    {
+      "Number": 148,
+      "Name": "Read or Die"
+    },
+    {
+      "Number": 149,
+      "Name": "Red Garden"
+    },
+    {
+      "Number": 150,
+      "Name": "Samurai 7"
+    },
+    {
+      "Number": 151,
+      "Name": "Samurai Deeper Kyo"
+    },
+    {
+      "Number": 152,
+      "Name": "Samurai Flamenco"
+    },
+    {
+      "Number": 153,
+      "Name": "S-CRY-ed"
+    },
+    {
+      "Number": 154,
+      "Name": "Seraph of the End"
+    },
+    {
+      "Number": 155,
+      "Name": "Shakugan no Shana"
+    },
+    {
+      "Number": 156,
+      "Name": "Shiki"
+    },
+    {
+      "Number": 157,
+      "Name": "Speed Grapher"
+    },
+    {
+      "Number": 158,
+      "Name": "Star Driver"
+    },
+    {
+      "Number": 159,
+      "Name": "Strait Jacket"
+    },
+    {
+      "Number": 160,
+      "Name": "Strike the Blood"
+    },
+    {
+      "Number": 161,
+      "Name": "Taboo Tattoo"
+    },
+    {
+      "Number": 162,
+      "Name": "Terraformars"
+    },
+    {
+      "Number": 163,
+      "Name": "The Sacred Blacksmith"
+    },
+    {
+      "Number": 164,
+      "Name": "The Tower of Druaga"
+    },
+    {
+      "Number": 165,
+      "Name": "Tokyo Majin"
+    },
+    {
+      "Number": 166,
+      "Name": "Towa no Quon"
+    },
+    {
+      "Number": 167,
+      "Name": "Trinity Blood"
+    },
+    {
+      "Number": 168,
+      "Name": "Tsubasa Chronicle"
+    },
+    {
+      "Number": 169,
+      "Name": "Witchblade"
+    },
+    {
+      "Number": 170,
+      "Name": "Wolfs Rain"
+    },
+    {
+      "Number": 171,
+      "Name": "X"
+    },
+    {
+      "Number": 172,
+      "Name": "Zetman"
+    },
+    {
+      "Number": 173,
+      "Name": ".hack//Sign"
+    },
+    {
+      "Number": 174,
+      "Name": "07-Ghost"
+    },
+    {
+      "Number": 175,
+      "Name": "91 Days"
+    },
+    {
+      "Number": 176,
+      "Name": "Alderamin on the Sky"
+    },
+    {
+      "Number": 177,
+      "Name": "Amatsuki"
+    },
+    {
+      "Number": 178,
+      "Name": "Angel Beats!"
+    },
+    {
+      "Number": 179,
+      "Name": "Angolmois: Record of Mongol Invasion"
+    },
+    {
+      "Number": 180,
+      "Name": "Another"
+    },
+    {
+      "Number": 181,
+      "Name": "Antique Bakery"
+    },
+    {
+      "Number": 182,
+      "Name": "Aoharu x Machinegun"
+    },
+    {
+      "Number": 183,
+      "Name": "Aoki Densetsu Shoot!"
+    },
+    {
+      "Number": 184,
+      "Name": "Arslan Senki"
+    },
+    {
+      "Number": 185,
+      "Name": "Asura Cryin'"
+    },
+    {
+      "Number": 186,
+      "Name": "Attack No.1"
+    },
+    {
+      "Number": 187,
+      "Name": "Baccano!"
+    },
+    {
+      "Number": 188,
+      "Name": "Bakumatsu"
+    },
+    {
+      "Number": 189,
+      "Name": "Bakumatsu Kikansetsu Irohanihoheto"
+    },
+    {
+      "Number": 190,
+      "Name": "Banana Fish"
+    },
+    {
+      "Number": 191,
+      "Name": "Basilisk: The Ouka Ninja Scrolls"
+    },
+    {
+      "Number": 192,
+      "Name": "Battle Girls: Time Paradox"
+    },
+    {
+      "Number": 193,
+      "Name": "Beck: Mongolian Chop Squad"
+    },
+    {
+      "Number": 194,
+      "Name": "Beelzebub"
+    },
+    {
+      "Number": 195,
+      "Name": "Ben-To"
+    },
+    {
+      "Number": 196,
+      "Name": "Berserk (2016)"
+    },
+    {
+      "Number": 197,
+      "Name": "Black Bullet"
+    },
+    {
+      "Number": 198,
+      "Name": "Black Cat"
+    },
+    {
+      "Number": 199,
+      "Name": "Black Rock Shooter"
+    },
+    {
+      "Number": 200,
+      "Name": "Blade & Soul"
+    },
+    {
+      "Number": 201,
+      "Name": "Blast of Tempest"
+    },
+    {
+      "Number": 202,
+      "Name": "Bleach: Thousand-Year Blood War"
+    },
+    {
+      "Number": 203,
+      "Name": "Blood Blockade Battlefront"
+    },
+    {
+      "Number": 204,
+      "Name": "Blue Dragon"
+    },
+    {
+      "Number": 205,
+      "Name": "Brave 10"
+    },
+    {
+      "Number": 206,
+      "Name": "Break Blade"
+    },
+    {
+      "Number": 207,
+      "Name": "Broken Blade"
+    },
+    {
+      "Number": 208,
+      "Name": "Brynhildr in the Darkness"
+    },
+    {
+      "Number": 209,
+      "Name": "Btooom!"
+    },
+    {
+      "Number": 210,
+      "Name": "Buddy Complex"
+    },
+    {
+      "Number": 211,
+      "Name": "Busou Renkin"
+    },
+    {
+      "Number": 212,
+      "Name": "Captain Earth"
+    },
+    {
+      "Number": 213,
+      "Name": "Captain Tsubasa"
+    },
+    {
+      "Number": 214,
+      "Name": "Carole & Tuesday"
+    },
+    {
+      "Number": 215,
+      "Name": "Casshern Sins"
+    },
+    {
+      "Number": 216,
+      "Name": "Chaos Dragon"
+    },
+    {
+      "Number": 217,
+      "Name": "Chaos;Head"
+    },
+    {
+      "Number": 218,
+      "Name": "Charlotte"
+    },
+    {
+      "Number": 219,
+      "Name": "Chrono Crusade"
+    },
+    {
+      "Number": 220,
+      "Name": "City Hunter"
+    },
+    {
+      "Number": 221,
+      "Name": "Classroom of the Elite"
+    },
+    {
+      "Number": 222,
+      "Name": "Claymore"
+    },
+    {
+      "Number": 223,
+      "Name": "Code:Breaker"
+    },
+    {
+      "Number": 224,
+      "Name": "Concrete Revolutio"
+    },
+    {
+      "Number": 225,
+      "Name": "Coppelion"
+    },
+    {
+      "Number": 226,
+      "Name": "Cowboy Bebop"
+    },
+    {
+      "Number": 227,
+      "Name": "Cross Ange"
+    },
+    {
+      "Number": 228,
+      "Name": "D.Gray-man Hallow"
+    },
+    {
+      "Number": 229,
+      "Name": "Dagashi Kashi"
+    },
+    {
+      "Number": 230,
+      "Name": "Daimidaler: Prince vs. Penguin Empire"
+    },
+    {
+      "Number": 231,
+      "Name": "Dance in the Vampire Bund"
+    },
+    {
+      "Number": 232,
+      "Name": "Danganronpa: The Animation"
+    },
+    {
+      "Number": 233,
+      "Name": "Darker than Black: Gemini of the Meteor"
+    },
+    {
+      "Number": 234,
+      "Name": "Date A Live"
+    },
+    {
+      "Number": 235,
+      "Name": "Deadman Wonderland"
+    },
+    {
+      "Number": 236,
+      "Name": "Death March to the Parallel World Rhapsody"
+    },
+    {
+      "Number": 237,
+      "Name": "Death Parade"
+    },
+    {
+      "Number": 238,
+      "Name": "Deca-Dence"
+    },
+    {
+      "Number": 239,
+      "Name": "Demon Lord  Retry!"
+    },
+    {
+      "Number": 240,
+      "Name": "Devil Survivor 2 The Animation"
+    },
+    {
+      "Number": 241,
+      "Name": "Devilman Lady"
+    },
+    {
+      "Number": 242,
+      "Name": "Diabolik Lovers"
+    },
+    {
+      "Number": 243,
+      "Name": "Diamond no Ace"
+    },
+    {
+      "Number": 244,
+      "Name": "Digimon Universe: App Monsters"
+    },
+    {
+      "Number": 245,
+      "Name": "Dimension W"
+    },
+    {
+      "Number": 246,
+      "Name": "Divine Gate"
+    },
+    {
+      "Number": 247,
+      "Name": "Dorohedoro"
+    },
+    {
+      "Number": 248,
+      "Name": "Drifters"
+    },
+    {
+      "Number": 249,
+      "Name": "Durarara!!"
+    },
+    {
+      "Number": 250,
+      "Name": "Eden of the East"
+    },
+    {
+      "Number": 251,
+      "Name": "El Cazador de la Bruja"
+    },
+    {
+      "Number": 252,
+      "Name": "Elfen Lied"
+    },
+    {
+      "Number": 253,
+      "Name": "Ergo Proxy"
+    },
+    {
+      "Number": 254,
+      "Name": "Eromanga Sensei"
+    },
+    {
+      "Number": 255,
+      "Name": "Eureka Seven AO"
+    },
+    {
+      "Number": 256,
+      "Name": "Fate/Apocrypha"
+    },
+    {
+      "Number": 257,
+      "Name": "Fate/Extra Last Encore"
+    },
+    {
+      "Number": 258,
+      "Name": "Fate/Grand Order: First Order"
+    },
+    {
+      "Number": 259,
+      "Name": "Fate/kaleid liner Prisma☆Illya"
+    },
+    {
+      "Number": 260,
+      "Name": "Fate/Zero"
+    },
+    {
+      "Number": 261,
+      "Name": "FLCL Progressive"
+    },
+    {
+      "Number": 262,
+      "Name": "FLCL Alternative"
+    },
+    {
+      "Number": 263,
+      "Name": "Flip Flappers"
+    },
+    {
+      "Number": 264,
+      "Name": "Food Wars! The Third Plate"
+    },
+    {
+      "Number": 265,
+      "Name": "Free! Eternal Summer"
+    },
+    {
+      "Number": 266,
+      "Name": "Freezing Vibration"
+    },
+    {
+      "Number": 267,
+      "Name": "From the New World"
+    },
+    {
+      "Number": 268,
+      "Name": "Full Metal Panic! Invisible Victory"
+    },
+    {
+      "Number": 269,
+      "Name": "Fullmetal Alchemist"
+    },
+    {
+      "Number": 270,
+      "Name": "Gangsta."
+    },
+    {
+      "Number": 271,
+      "Name": "Gantz:O"
+    },
+    {
+      "Number": 272,
+      "Name": "Garo: The Animation"
+    },
+    {
+      "Number": 273,
+      "Name": "Gatchaman Crowds"
+    },
+    {
+      "Number": 274,
+      "Name": "Gate: Jieitai Kanochi nite  Kaku Tatakaeri"
+    },
+    {
+      "Number": 275,
+      "Name": "Ghost Hound"
+    },
+    {
+      "Number": 276,
+      "Name": "Ghost in the Shell: Arise"
+    },
+    {
+      "Number": 277,
+      "Name": "Ghost in the Shell: SAC_2045"
+    },
+    {
+      "Number": 278,
+      "Name": "Gintama°"
+    },
+    {
+      "Number": 279,
+      "Name": "Girls und Panzer"
+    },
+    {
+      "Number": 280,
+      "Name": "Gleipnir"
+    },
+    {
+      "Number": 281,
+      "Name": "God Eater"
+    },
+    {
+      "Number": 282,
+      "Name": "Golden Kamuy 2nd Season"
+    },
+    {
+      "Number": 283,
+      "Name": "Demon Lord Retry!"
+    },
+    {
+      "Number": 284,
+      "Name": "Guilty Crown"
+    },
+    {
+      "Number": 285,
+      "Name": "Gunbuster"
+    },
+    {
+      "Number": 286,
+      "Name": "Gundam Build Fighters"
+    },
+    {
+      "Number": 287,
+      "Name": "Gundam Build Divers"
+    },
+    {
+      "Number": 288,
+      "Name": "Gundam: Iron-Blooded Orphans"
+    },
+    {
+      "Number": 289,
+      "Name": "Gunslinger Stratos: The Animation"
+    },
+    {
+      "Number": 290,
+      "Name": "Haganai: I Don't Have Many Friends"
+    },
+    {
+      "Number": 291,
+      "Name": "Haikyu!!"
+    },
+    {
+      "Number": 292,
+      "Name": "Haiyore! Nyaruko-san"
+    },
+    {
+      "Number": 293,
+      "Name": "Hajime no Ippo"
+    },
+    {
+      "Number": 294,
+      "Name": "Hakkenden: Eight Dogs of the East"
+    },
+    {
+      "Number": 295,
+      "Name": "Hakuoki"
+    },
+    {
+      "Number": 296,
+      "Name": "Hamatora"
+    },
+    {
+      "Number": 297,
+      "Name": "Hanasaku Iroha"
+    },
+    {
+      "Number": 298,
+      "Name": "Heavy Object"
+    },
+    {
+      "Number": 299,
+      "Name": "Hellsing"
+    },
+    {
+      "Number": 300,
+      "Name": "Hero Mask"
+    },
+    {
+      "Number": 301,
+      "Name": "High School DxD"
+    },
+    {
+      "Number": 302,
+      "Name": "High School of the Dead"
+    },
+    {
+      "Number": 303,
+      "Name": "Higurashi When They Cry"
+    },
+    {
+      "Number": 304,
+      "Name": "Horizon in the Middle of Nowhere"
+    },
+    {
+      "Number": 305,
+      "Name": "How Not to Summon a Demon Lord"
+    },
+    {
+      "Number": 306,
+      "Name": "Hundred"
+    },
+    {
+      "Number": 307,
+      "Name": "Hunter x Hunter (2011)"
+    },
+    {
+      "Number": 308,
+      "Name": "Hyperdimension Neptunia"
+    },
+    {
+      "Number": 309,
+      "Name": "ID: Invaded"
+    },
+    {
+      "Number": 310,
+      "Name": "Ikki Tousen"
+    },
+    {
+      "Number": 311,
+      "Name": "Inazuma Eleven"
+    },
+    {
+      "Number": 312,
+      "Name": "Infinite Stratos"
+    },
+    {
+      "Number": 313,
+      "Name": "Inuyashiki"
+    },
+    {
+      "Number": 314,
+      "Name": "Iria: Zeiram the Animation"
+    },
+    {
+      "Number": 315,
+      "Name": "Iron Man (Anime)"
+    },
+    {
+      "Number": 316,
+      "Name": "Is It Wrong to Try to Pick Up Girls in a Dungeon?"
+    },
+    {
+      "Number": 317,
+      "Name": "Isekai Quartet"
+    },
+    {
+      "Number": 318,
+      "Name": "JoJo's Bizarre Adventure: Diamond Is Unbreakable"
+    },
+    {
+      "Number": 319,
+      "Name": "Jujutsu Kaisen 0"
+    },
+    {
+      "Number": 320,
+      "Name": "Jujutsu Kaisen (TV)"
+    },
+    {
+      "Number": 321,
+      "Name": "Juni Taisen: Zodiac War"
+    },
+    {
+      "Number": 322,
+      "Name": "K-On!"
+    },
+    {
+      "Number": 323,
+      "Name": "Kabukichou Sherlock"
+    },
+    {
+      "Number": 324,
+      "Name": "Kaguya-sama: Love is War"
+    },
+    {
+      "Number": 325,
+      "Name": "Kakegurui"
+    },
+    {
+      "Number": 326,
+      "Name": "Katanagatari"
+    },
+    {
+      "Number": 327,
+      "Name": "Katekyo Hitman Reborn!"
+    },
+    {
+      "Number": 328,
+      "Name": "Kekkai Sensen & Beyond"
+    },
+    {
+      "Number": 329,
+      "Name": "Kill la Kill"
+    },
+    {
+      "Number": 330,
+      "Name": "Kimetsu no Yaiba Movie: Mugen Train"
+    },
+    {
+      "Number": 331,
+      "Name": "King's Game The Animation"
+    },
+    {
+      "Number": 332,
+      "Name": "Kingdom 3rd Season"
+    },
+    {
+      "Number": 333,
+      "Name": "Kino's Journey -the Beautiful World- the Animated Series"
+    },
+    {
+      "Number": 334,
+      "Name": "Kiznaiver"
+    },
+    {
+      "Number": 335,
+      "Name": "Knights & Magic"
+    },
+    {
+      "Number": 336,
+      "Name": "Knights of Sidonia"
+    },
+    {
+      "Number": 337,
+      "Name": "Kuroko's Basketball"
+    },
+    {
+      "Number": 338,
+      "Name": "Kyoukai no Kanata"
+    },
+    {
+      "Number": 339,
+      "Name": "Laid-Back Camp"
+    },
+    {
+      "Number": 340,
+      "Name": "Land of the Lustrous"
+    },
+    {
+      "Number": 341,
+      "Name": "Last Period: The Journey to the End of the Despair"
+    },
+    {
+      "Number": 342,
+      "Name": "Legend of the Galactic Heroes: Die Neue These"
+    },
+    {
+      "Number": 343,
+      "Name": "Little Witch Academia"
+    },
+    {
+      "Number": 344,
+      "Name": "Log Horizon: Destruction of the Round Table"
+    },
+    {
+      "Number": 345,
+      "Name": "Lord El-Melloi II's Case Files {Rail Zeppelin} Grace note"
+    },
+    {
+      "Number": 346,
+      "Name": "Lost Song"
+    },
+    {
+      "Number": 347,
+      "Name": "Love Live! School Idol Project"
+    },
+    {
+      "Number": 348,
+      "Name": "Love Live! Sunshine!!"
+    },
+    {
+      "Number": 349,
+      "Name": "Luck & Logic"
+    },
+    {
+      "Number": 350,
+      "Name": "Lupin the Third: The Woman Called Fujiko Mine"
+    },
+    {
+      "Number": 351,
+      "Name": "Macross Delta"
+    },
+    {
+      "Number": 352,
+      "Name": "Made in Abyss: Journey's Dawn"
+    },
+    {
+      "Number": 353,
+      "Name": "Magi: Adventure of Sinbad"
+    },
+    {
+      "Number": 354,
+      "Name": "Magic Kaito 1412"
+    },
+    {
+      "Number": 355,
+      "Name": "Mahou Shoujo Madoka Magica"
+    },
+    {
+      "Number": 356,
+      "Name": "Maid Sama!"
+    },
+    {
+      "Number": 357,
+      "Name": "Mairimashita! Iruma-kun"
+    },
+    {
+      "Number": 358,
+      "Name": "Majestic Prince"
+    },
+    {
+      "Number": 359,
+      "Name": "Major 2nd"
+    },
+    {
+      "Number": 360,
+      "Name": "March Comes in Like a Lion"
+    },
+    {
+      "Number": 361,
+      "Name": "Maria the Virgin Witch"
+    },
+    {
+      "Number": 362,
+      "Name": "Masamune-kun's Revenge"
+    },
+    {
+      "Number": 363,
+      "Name": "Megalo Box"
+    },
+    {
+      "Number": 364,
+      "Name": "Meiji Tokyo Renka"
+    },
+    {
+      "Number": 365,
+      "Name": "Mekakucity Actors"
+    },
+    {
+      "Number": 366,
+      "Name": "Miss Kobayashi's Dragon Maid"
+    },
+    {
+      "Number": 367,
+      "Name": "Mob Psycho 100 II"
+    },
+    {
+      "Number": 368,
+      "Name": "Mobile Suit Gundam: The Origin"
+    },
+    {
+      "Number": 369,
+      "Name": "Monogatari Series: Second Season"
+    },
+    {
+      "Number": 370,
+      "Name": "Monster"
+    },
+    {
+      "Number": 371,
+      "Name": "Monster Musume: Everyday Life with Monster Girls"
+    },
+    {
+      "Number": 372,
+      "Name": "Moriarty the Patriot"
+    },
+    {
+      "Number": 373,
+      "Name": "Mushi-Shi"
+    },
+    {
+      "Number": 374,
+      "Name": "My Hero Academia 2"
+    },
+    {
+      "Number": 375,
+      "Name": "My Hero Academia 3"
+    },
+    {
+      "Number": 376,
+      "Name": "My Hero Academia 4"
+    },
+    {
+      "Number": 377,
+      "Name": "My Hero Academia 5"
+    },
+    {
+      "Number": 378,
+      "Name": "My Roommate is a Cat"
+    },
+    {
+      "Number": 379,
+      "Name": "Nagi no Asukara"
+    },
+    {
+      "Number": 380,
+      "Name": "Nana"
+    },
+    {
+      "Number": 381,
+      "Name": "Nanatsu no Taizai: Imashime no Fukkatsu"
+    },
+    {
+      "Number": 382,
+      "Name": "Naruto Shippuden"
+    },
+    {
+      "Number": 383,
+      "Name": "Natsume's Book of Friends"
+    },
+    {
+      "Number": 384,
+      "Name": "Nekopara"
+    },
+    {
+      "Number": 385,
+      "Name": "Neon Genesis Evangelion: The End of Evangelion"
+    },
+    {
+      "Number": 386,
+      "Name": "No Guns Life"
+    },
+    {
+      "Number": 387,
+      "Name": "Noblesse"
+    },
+    {
+      "Number": 388,
+      "Name": "Non Non Biyori"
+    },
+    {
+      "Number": 389,
+      "Name": "Noragami Aragoto"
+    },
+    {
+      "Number": 390,
+      "Name": "One Piece Film: Gold"
+    },
+    {
+      "Number": 391,
+      "Name": "One Punch Man 2nd Season"
+    },
+    {
+      "Number": 392,
+      "Name": "Orange"
+    },
+    {
+      "Number": 393,
+      "Name": "Ore Monogatari!!"
+    },
+    {
+      "Number": 394,
+      "Name": "Ouran High School Host Club"
+    },
+    {
+      "Number": 395,
+      "Name": "Overlord II"
+    },
+    {
+      "Number": 396,
+      "Name": "Overlord III"
+    },
+    {
+      "Number": 397,
+      "Name": "Panty & Stocking with Garterbelt"
+    },
+    {
+      "Number": 398,
+      "Name": "Paranoia Agent"
+    },
+    {
+      "Number": 399,
+      "Name": "Persona 4 The Animation"
+    },
+    {
+      "Number": 400,
+      "Name": "Persona 5 The Animation"
+    }
+  ]
+}

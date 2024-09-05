@@ -101,6 +101,48 @@ MonoBehaviour:
     m_SerializedLabels:
     - PreLoad
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41dc8a595f709984a90501032bac6820
+    m_Address: FemaleData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff6a362976459734681b9554df317b95
+    m_Address: AnimationData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3add36f4c90c7e84ab380b9d812d130d
+    m_Address: CharacterData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb6daf4405a1afd4b837d1dcdc025b9e
+    m_Address: ClothingBrandData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7fd808704ac7c98458a9602ac29e4c87
+    m_Address: FantasyJobData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 930299fe3fc737e45947c50635cc1b5d
+    m_Address: JobData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f50bb012d7f6344d8101e5d9d8ee3c9
+    m_Address: TraditionalClothData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - PreLoad
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: f24fb20c6430a204494d654a4cd215ea, type: 2}
   m_SchemaSet:

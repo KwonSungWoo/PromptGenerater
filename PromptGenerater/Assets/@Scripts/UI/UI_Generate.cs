@@ -51,12 +51,9 @@ public class UI_Generate : UI_Base
         Button_Copy.onClick.AddListener(delegate { CopytoClipboard(); });
     }
 
-    [DllImport("__Internal")]
-    private static extern void CopyTextToClipboard(string text);
-
     private void CopytoClipboard()
     {
-        CopyTextToClipboard(Managers.UIData.GetFinalSentence());
+        GUIUtility.systemCopyBuffer = Managers.UIData.GetFinalSentence();
     }
 
     public void SetSentence()

@@ -71,7 +71,7 @@ public class UI_Options : UI_Base
     public void SetOptionSentences()
     {
         Option_01.SetTableNameSentence();
-        Option_02.SetTableNameSentence();
+        Option_02.SetTableNameSentence(); 
         Option_03.SetTableNameSentence();
         Option_04.SetTableNameSentence();
         Option_05.SetTableNameSentence();

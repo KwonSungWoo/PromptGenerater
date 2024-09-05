@@ -2,1571 +2,787 @@
   "tables": [
     {
       "Number": 1,
-      "Name": "Abalone",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Abalone"
     },
     {
       "Number": 2,
-      "Name": "Akagai (Ark Shell)",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Akagai (Ark Shell)"
     },
     {
       "Number": 3,
-      "Name": "American Lobster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "American Lobster"
     },
     {
       "Number": 4,
-      "Name": "Atlantic Bay Scallop",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Atlantic Bay Scallop"
     },
     {
       "Number": 5,
-      "Name": "Blue Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Blue Crab"
     },
     {
       "Number": 6,
-      "Name": "Blue Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Blue Mussel"
     },
     {
       "Number": 7,
-      "Name": "Brown Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Brown Shrimp"
     },
     {
       "Number": 8,
-      "Name": "Cherrystone Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cherrystone Clam"
     },
     {
       "Number": 9,
-      "Name": "Cockle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cockle"
     },
     {
       "Number": 10,
-      "Name": "Dungeness Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Dungeness Crab"
     },
     {
       "Number": 11,
-      "Name": "Eastern Oyster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Eastern Oyster"
     },
     {
       "Number": 12,
-      "Name": "Geoduck",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Geoduck"
     },
     {
       "Number": 13,
-      "Name": "Green Lipped Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Green Lipped Mussel"
     },
     {
       "Number": 14,
-      "Name": "Hard Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hard Clam"
     },
     {
       "Number": 15,
-      "Name": "Horse Conch",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Horse Conch"
     },
     {
       "Number": 16,
-      "Name": "King Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "King Crab"
     },
     {
       "Number": 17,
-      "Name": "Littleneck Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Littleneck Clam"
     },
     {
       "Number": 18,
-      "Name": "Mantis Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mantis Shrimp"
     },
     {
       "Number": 19,
-      "Name": "Mud Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mud Crab"
     },
     {
       "Number": 20,
-      "Name": "Northern Quahog",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Northern Quahog"
     },
     {
       "Number": 21,
-      "Name": "Octopus",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Octopus"
     },
     {
       "Number": 22,
-      "Name": "Pacific Oyster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pacific Oyster"
     },
     {
       "Number": 23,
-      "Name": "Paua",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Paua"
     },
     {
       "Number": 24,
-      "Name": "Prawn",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Prawn"
     },
     {
       "Number": 25,
-      "Name": "Queen Conch",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Queen Conch"
     },
     {
       "Number": 26,
-      "Name": "Razor Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Razor Clam"
     },
     {
       "Number": 27,
-      "Name": "Rock Lobster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Rock Lobster"
     },
     {
       "Number": 28,
-      "Name": "Sand Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sand Crab"
     },
     {
       "Number": 29,
-      "Name": "Sea Cucumber",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sea Cucumber"
     },
     {
       "Number": 30,
-      "Name": "Sea Urchin",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sea Urchin"
     },
     {
       "Number": 31,
-      "Name": "Soft-shell Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Soft-shell Crab"
     },
     {
       "Number": 32,
-      "Name": "Snow Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Snow Crab"
     },
     {
       "Number": 33,
-      "Name": "Spanner Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spanner Crab"
     },
     {
       "Number": 34,
-      "Name": "Spiny Lobster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spiny Lobster"
     },
     {
       "Number": 35,
-      "Name": "Squid",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Squid"
     },
     {
       "Number": 36,
-      "Name": "Stone Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Stone Crab"
     },
     {
       "Number": 37,
-      "Name": "Tiger Prawn",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tiger Prawn"
     },
     {
       "Number": 38,
-      "Name": "Turban Shell",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Turban Shell"
     },
     {
       "Number": 39,
-      "Name": "Warty Sea Cucumber",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Warty Sea Cucumber"
     },
     {
       "Number": 40,
-      "Name": "Whelk",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Whelk"
     },
     {
       "Number": 41,
-      "Name": "White Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "White Shrimp"
     },
     {
       "Number": 42,
-      "Name": "Windowpane Oyster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Windowpane Oyster"
     },
     {
       "Number": 43,
-      "Name": "Yesso Scallop",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Yesso Scallop"
     },
     {
       "Number": 44,
-      "Name": "Pink Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pink Shrimp"
     },
     {
       "Number": 45,
-      "Name": "Blood Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Blood Clam"
     },
     {
       "Number": 46,
-      "Name": "Manila Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Manila Clam"
     },
     {
       "Number": 47,
-      "Name": "Moon Snail",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Moon Snail"
     },
     {
       "Number": 48,
-      "Name": "Periwinkle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Periwinkle"
     },
     {
       "Number": 49,
-      "Name": "Ghost Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ghost Shrimp"
     },
     {
       "Number": 50,
-      "Name": "Giant Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Giant Clam"
     },
     {
       "Number": 51,
-      "Name": "Gulf Oyster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Gulf Oyster"
     },
     {
       "Number": 52,
-      "Name": "Hairy Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hairy Crab"
     },
     {
       "Number": 53,
-      "Name": "Jonah Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Jonah Crab"
     },
     {
       "Number": 54,
-      "Name": "Kepah",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Kepah"
     },
     {
       "Number": 55,
-      "Name": "King Prawn",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "King Prawn"
     },
     {
       "Number": 56,
-      "Name": "Knobbed Whelk",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Knobbed Whelk"
     },
     {
       "Number": 57,
-      "Name": "Kumamoto Oyster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Kumamoto Oyster"
     },
     {
       "Number": 58,
-      "Name": "Langoustine",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Langoustine"
     },
     {
       "Number": 59,
-      "Name": "Limpet",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Limpet"
     },
     {
       "Number": 60,
-      "Name": "Lion's Paw Scallop",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lion's Paw Scallop"
     },
     {
       "Number": 61,
-      "Name": "Mangrove Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mangrove Crab"
     },
     {
       "Number": 62,
-      "Name": "Marble Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Marble Clam"
     },
     {
       "Number": 63,
-      "Name": "Mediterranean Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mediterranean Mussel"
     },
     {
       "Number": 64,
-      "Name": "Moi Moi",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Moi Moi"
     },
     {
       "Number": 65,
-      "Name": "Moreton Bay Bug",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Moreton Bay Bug"
     },
     {
       "Number": 66,
-      "Name": "Mudflat Snail",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mudflat Snail"
     },
     {
       "Number": 67,
-      "Name": "Murex",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Murex"
     },
     {
       "Number": 68,
-      "Name": "Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mussel"
     },
     {
       "Number": 69,
-      "Name": "New Zealand Green Lipped Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "New Zealand Green Lipped Mussel"
     },
     {
       "Number": 70,
-      "Name": "Norway Lobster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Norway Lobster"
     },
     {
       "Number": 71,
-      "Name": "Opilio Snow Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Opilio Snow Crab"
     },
     {
       "Number": 72,
-      "Name": "Pacific Geoduck",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pacific Geoduck"
     },
     {
       "Number": 73,
-      "Name": "Pacific Razor Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pacific Razor Clam"
     },
     {
       "Number": 74,
-      "Name": "Peppery Furrow Shell",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Peppery Furrow Shell"
     },
     {
       "Number": 75,
-      "Name": "Pink Scallop",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pink Scallop"
     },
     {
       "Number": 76,
-      "Name": "Pipi",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pipi"
     },
     {
       "Number": 77,
-      "Name": "Pond Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pond Mussel"
     },
     {
       "Number": 78,
-      "Name": "Purple Sea Urchin",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Purple Sea Urchin"
     },
     {
       "Number": 79,
-      "Name": "Red Abalone",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Red Abalone"
     },
     {
       "Number": 80,
-      "Name": "Red King Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Red King Crab"
     },
     {
       "Number": 81,
-      "Name": "Ribbed Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ribbed Mussel"
     },
     {
       "Number": 82,
-      "Name": "Rock Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Rock Crab"
     },
     {
       "Number": 83,
-      "Name": "Sand Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sand Shrimp"
     },
     {
       "Number": 84,
-      "Name": "Sawagani",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sawagani"
     },
     {
       "Number": 85,
-      "Name": "Scottish Lobster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Scottish Lobster"
     },
     {
       "Number": 86,
-      "Name": "Sea Pen",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sea Pen"
     },
     {
       "Number": 87,
-      "Name": "Shaggy Sea Cucumber",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Shaggy Sea Cucumber"
     },
     {
       "Number": 88,
-      "Name": "Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Shrimp"
     },
     {
       "Number": 89,
-      "Name": "Slipper Lobster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Slipper Lobster"
     },
     {
       "Number": 90,
-      "Name": "Spider Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spider Crab"
     },
     {
       "Number": 91,
-      "Name": "Spot Prawn",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spot Prawn"
     },
     {
       "Number": 92,
-      "Name": "Spotted Babylon",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spotted Babylon"
     },
     {
       "Number": 93,
-      "Name": "Steamer Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Steamer Clam"
     },
     {
       "Number": 94,
-      "Name": "Stimpson Surf Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Stimpson Surf Clam"
     },
     {
       "Number": 95,
-      "Name": "Swimming Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Swimming Crab"
     },
     {
       "Number": 96,
-      "Name": "Sydney Rock Oyster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sydney Rock Oyster"
     },
     {
       "Number": 97,
-      "Name": "Tellin",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tellin"
     },
     {
       "Number": 98,
-      "Name": "Thick-lipped Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Thick-lipped Mussel"
     },
     {
       "Number": 99,
-      "Name": "Tiger Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tiger Crab"
     },
     {
       "Number": 100,
-      "Name": "Top Shell",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Top Shell"
     },
     {
       "Number": 101,
-      "Name": "Trough Shell",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Trough Shell"
     },
     {
       "Number": 102,
-      "Name": "Tunicate",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tunicate"
     },
     {
       "Number": 103,
-      "Name": "Variegated Scallop",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Variegated Scallop"
     },
     {
       "Number": 104,
-      "Name": "Venus Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Venus Clam"
     },
     {
       "Number": 105,
-      "Name": "Virgin Oyster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Virgin Oyster"
     },
     {
       "Number": 106,
-      "Name": "Wentletrap",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Wentletrap"
     },
     {
       "Number": 107,
-      "Name": "Western Rock Lobster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Western Rock Lobster"
     },
     {
       "Number": 108,
-      "Name": "Whiteleg Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Whiteleg Shrimp"
     },
     {
       "Number": 109,
-      "Name": "Winkle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Winkle"
     },
     {
       "Number": 110,
-      "Name": "Yabby",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Yabby"
     },
     {
       "Number": 111,
-      "Name": "Yellow Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Yellow Clam"
     },
     {
       "Number": 112,
-      "Name": "Zebra Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Zebra Mussel"
     },
     {
       "Number": 113,
-      "Name": "Razor Shell",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Razor Shell"
     },
     {
       "Number": 114,
-      "Name": "Green Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Green Crab"
     },
     {
       "Number": 115,
-      "Name": "Banded Coral Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Banded Coral Shrimp"
     },
     {
       "Number": 116,
-      "Name": "Helmet Conch",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Helmet Conch"
     },
     {
       "Number": 117,
-      "Name": "Bamboo Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bamboo Clam"
     },
     {
       "Number": 118,
-      "Name": "Blood Ark",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Blood Ark"
     },
     {
       "Number": 119,
-      "Name": "Donax Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Donax Clam"
     },
     {
       "Number": 120,
-      "Name": "Moon Scallop",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Moon Scallop"
     },
     {
       "Number": 121,
-      "Name": "Golden Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Golden Clam"
     },
     {
       "Number": 122,
-      "Name": "Chocolate Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Chocolate Clam"
     },
     {
       "Number": 123,
-      "Name": "Saddle Oyster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Saddle Oyster"
     },
     {
       "Number": 124,
-      "Name": "Horse Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Horse Mussel"
     },
     {
       "Number": 125,
-      "Name": "Heart Cockle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Heart Cockle"
     },
     {
       "Number": 126,
-      "Name": "Atlantic Deep-sea Red Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Atlantic Deep-sea Red Crab"
     },
     {
       "Number": 127,
-      "Name": "Mud Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mud Shrimp"
     },
     {
       "Number": 128,
-      "Name": "European Flat Oyster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "European Flat Oyster"
     },
     {
       "Number": 129,
-      "Name": "Thorny Oyster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Thorny Oyster"
     },
     {
       "Number": 130,
-      "Name": "Firefly Squid",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Firefly Squid"
     },
     {
       "Number": 131,
-      "Name": "Japanese Flying Squid",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Japanese Flying Squid"
     },
     {
       "Number": 132,
-      "Name": "Galician Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Galician Crab"
     },
     {
       "Number": 133,
-      "Name": "Sardine Pilchard",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sardine Pilchard"
     },
     {
       "Number": 134,
-      "Name": "Turkish Lagoon Cockle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Turkish Lagoon Cockle"
     },
     {
       "Number": 135,
-      "Name": "Giant Acorn Barnacle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Giant Acorn Barnacle"
     },
     {
       "Number": 136,
-      "Name": "Mud Lobster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mud Lobster"
     },
     {
       "Number": 137,
-      "Name": "Sea Hare",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sea Hare"
     },
     {
       "Number": 138,
-      "Name": "Atlantic Surf Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Atlantic Surf Clam"
     },
     {
       "Number": 139,
-      "Name": "Cuttlefish",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cuttlefish"
     },
     {
       "Number": 140,
-      "Name": "Velvet Swimming Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Velvet Swimming Crab"
     },
     {
       "Number": 141,
-      "Name": "Japanese Tiger Prawn",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Japanese Tiger Prawn"
     },
     {
       "Number": 142,
-      "Name": "Bigfin Reef Squid",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bigfin Reef Squid"
     },
     {
       "Number": 143,
-      "Name": "Blue-legged Hermit Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Blue-legged Hermit Crab"
     },
     {
       "Number": 144,
-      "Name": "Chambered Nautilus",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Chambered Nautilus"
     },
     {
       "Number": 145,
-      "Name": "Chiton",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Chiton"
     },
     {
       "Number": 146,
-      "Name": "Deep Sea Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Deep Sea Mussel"
     },
     {
       "Number": 147,
-      "Name": "Deep Sea Vent Polychaete Worm",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Deep Sea Vent Polychaete Worm"
     },
     {
       "Number": 148,
-      "Name": "Eastern Mud Snail",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Eastern Mud Snail"
     },
     {
       "Number": 149,
-      "Name": "Fan Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Fan Mussel"
     },
     {
       "Number": 150,
-      "Name": "Fiddler Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Fiddler Crab"
     },
     {
       "Number": 151,
-      "Name": "Harlequin Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Harlequin Shrimp"
     },
     {
       "Number": 152,
-      "Name": "Jackknife Clam",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Jackknife Clam"
     },
     {
       "Number": 153,
-      "Name": "Japanese Spider Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Japanese Spider Crab"
     },
     {
       "Number": 154,
-      "Name": "Lagoon Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lagoon Mussel"
     },
     {
       "Number": 155,
-      "Name": "Leaf Barnacle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Leaf Barnacle"
     },
     {
       "Number": 156,
-      "Name": "Long-legged Spider Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Long-legged Spider Crab"
     },
     {
       "Number": 157,
-      "Name": "Marine Snail",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Marine Snail"
     },
     {
       "Number": 158,
-      "Name": "Mitten Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mitten Crab"
     },
     {
       "Number": 159,
-      "Name": "Mudflat Chiton",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mudflat Chiton"
     },
     {
       "Number": 160,
-      "Name": "Pacific White Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pacific White Shrimp"
     },
     {
       "Number": 161,
-      "Name": "Painted Sweetlips",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Painted Sweetlips"
     },
     {
       "Number": 162,
-      "Name": "Peanut Worm",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Peanut Worm"
     },
     {
       "Number": 163,
-      "Name": "Pelagic Red Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pelagic Red Crab"
     },
     {
       "Number": 164,
-      "Name": "Pistol Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Pistol Shrimp"
     },
     {
       "Number": 165,
-      "Name": "Polynesian Tree Snail",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Polynesian Tree Snail"
     },
     {
       "Number": 166,
-      "Name": "Prawn Killer Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Prawn Killer Shrimp"
     },
     {
       "Number": 167,
-      "Name": "Razor-backed Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Razor-backed Shrimp"
     },
     {
       "Number": 168,
-      "Name": "Red Mullet",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Red Mullet"
     },
     {
       "Number": 169,
-      "Name": "Rock Oyster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Rock Oyster"
     },
     {
       "Number": 170,
-      "Name": "Rugged Razor Shell",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Rugged Razor Shell"
     },
     {
       "Number": 171,
-      "Name": "Sand Gaper",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sand Gaper"
     },
     {
       "Number": 172,
-      "Name": "Sargassum Fish",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sargassum Fish"
     },
     {
       "Number": 173,
-      "Name": "Scaly-foot Gastropod",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Scaly-foot Gastropod"
     },
     {
       "Number": 174,
-      "Name": "Sea Pineapple",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sea Pineapple"
     },
     {
       "Number": 175,
-      "Name": "Sea Walnut",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sea Walnut"
     },
     {
       "Number": 176,
-      "Name": "Shrimp Eel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Shrimp Eel"
     },
     {
       "Number": 177,
-      "Name": "Spaghetti Worm",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spaghetti Worm"
     },
     {
       "Number": 178,
-      "Name": "Sponge Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sponge Crab"
     },
     {
       "Number": 179,
-      "Name": "Starfish",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Starfish"
     },
     {
       "Number": 180,
-      "Name": "Streaked Gurnard",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Streaked Gurnard"
     },
     {
       "Number": 181,
-      "Name": "Swimming Anemone",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Swimming Anemone"
     },
     {
       "Number": 182,
-      "Name": "Tongue Shell",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tongue Shell"
     },
     {
       "Number": 183,
-      "Name": "Tube Worm",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tube Worm"
     },
     {
       "Number": 184,
-      "Name": "Tunicate",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tunicate"
     },
     {
       "Number": 185,
-      "Name": "Venus Comb Murex",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Venus Comb Murex"
     },
     {
       "Number": 186,
-      "Name": "Violet Sea Snail",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Violet Sea Snail"
     },
     {
       "Number": 187,
-      "Name": "Whip Coral Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Whip Coral Shrimp"
     },
     {
       "Number": 188,
-      "Name": "White-spotted Jellyfish",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "White-spotted Jellyfish"
     },
     {
       "Number": 189,
-      "Name": "Yellowfoot Paua",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Yellowfoot Paua"
     },
     {
       "Number": 190,
-      "Name": "Zigzag Scallop",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Zigzag Scallop"
     },
     {
       "Number": 191,
-      "Name": "Zorse Mussel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Zorse Mussel"
     },
     {
       "Number": 192,
-      "Name": "Box Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Box Crab"
     },
     {
       "Number": 193,
-      "Name": "European Green Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "European Green Crab"
     },
     {
       "Number": 194,
-      "Name": "Golden King Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Golden King Crab"
     },
     {
       "Number": 195,
-      "Name": "Bat Star",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bat Star"
     },
     {
       "Number": 196,
-      "Name": "Carpet Sea Squirt",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Carpet Sea Squirt"
     }
   ]
 }

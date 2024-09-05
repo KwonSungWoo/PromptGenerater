@@ -69,6 +69,55 @@
       "Count": 266,
       "Scentence_Head": "Wearing",
       "Scentence_Tail": null
+    },
+    {
+      "Number": 11,
+      "Name": "Female",
+      "Count": 399,
+      "Scentence_Head": "Look like",
+      "Scentence_Tail": "Character"
+    },
+    {
+      "Number": 12,
+      "Name": "Animation",
+      "Count": 400,
+      "Scentence_Head": "Style of",
+      "Scentence_Tail": null
+    },
+    {
+      "Number": 13,
+      "Name": "ClothingBrand",
+      "Count": 101,
+      "Scentence_Head": "Wearing",
+      "Scentence_Tail": null
+    },
+    {
+      "Number": 14,
+      "Name": "Job",
+      "Count": 300,
+      "Scentence_Head": "Look like",
+      "Scentence_Tail": null
+    },
+    {
+      "Number": 15,
+      "Name": "FantasyJob",
+      "Count": 200,
+      "Scentence_Head": "Look like",
+      "Scentence_Tail": null
+    },
+    {
+      "Number": 16,
+      "Name": "TraditionalCloth",
+      "Count": 91,
+      "Scentence_Head": "Wearing",
+      "Scentence_Tail": null
+    },
+    {
+      "Number": 17,
+      "Name": "Character",
+      "Count": 185,
+      "Scentence_Head": "Look like",
+      "Scentence_Tail": null
     }
   ]
 }

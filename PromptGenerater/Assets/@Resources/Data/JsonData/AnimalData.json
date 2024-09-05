@@ -2,803 +2,403 @@
   "tables": [
     {
       "Number": 1,
-      "Name": "Dog",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Dog"
     },
     {
       "Number": 2,
-      "Name": "Cat",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cat"
     },
     {
       "Number": 3,
-      "Name": "Elephant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Elephant"
     },
     {
       "Number": 4,
-      "Name": "Lion",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lion"
     },
     {
       "Number": 5,
-      "Name": "Tiger",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tiger"
     },
     {
       "Number": 6,
-      "Name": "Bear",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bear"
     },
     {
       "Number": 7,
-      "Name": "Giraffe",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Giraffe"
     },
     {
       "Number": 8,
-      "Name": "Zebra",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Zebra"
     },
     {
       "Number": 9,
-      "Name": "Hippo",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hippo"
     },
     {
       "Number": 10,
-      "Name": "Rhino",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Rhino"
     },
     {
       "Number": 11,
-      "Name": "Kangaroo",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Kangaroo"
     },
     {
       "Number": 12,
-      "Name": "Koala",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Koala"
     },
     {
       "Number": 13,
-      "Name": "Panda",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Panda"
     },
     {
       "Number": 14,
-      "Name": "Sloth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sloth"
     },
     {
       "Number": 15,
-      "Name": "Chameleon",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Chameleon"
     },
     {
       "Number": 16,
-      "Name": "Tarantula",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Tarantula"
     },
     {
       "Number": 17,
-      "Name": "Octopus",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Octopus"
     },
     {
       "Number": 18,
-      "Name": "Shark",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Shark"
     },
     {
       "Number": 19,
-      "Name": "Dolphin",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Dolphin"
     },
     {
       "Number": 20,
-      "Name": "Whale",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Whale"
     },
     {
       "Number": 21,
-      "Name": "Penguin",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Penguin"
     },
     {
       "Number": 22,
-      "Name": "Flamingo",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Flamingo"
     },
     {
       "Number": 23,
-      "Name": "Eagle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Eagle"
     },
     {
       "Number": 24,
-      "Name": "Parrot",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Parrot"
     },
     {
       "Number": 25,
-      "Name": "Hummingbird",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hummingbird"
     },
     {
       "Number": 26,
-      "Name": "Ostrich",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ostrich"
     },
     {
       "Number": 27,
-      "Name": "Peacock",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Peacock"
     },
     {
       "Number": 28,
-      "Name": "Swan",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Swan"
     },
     {
       "Number": 29,
-      "Name": "Owl",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Owl"
     },
     {
       "Number": 30,
-      "Name": "Falcon",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Falcon"
     },
     {
       "Number": 31,
-      "Name": "Wolf",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Wolf"
     },
     {
       "Number": 32,
-      "Name": "Fox",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Fox"
     },
     {
       "Number": 33,
-      "Name": "Raccoon",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Raccoon"
     },
     {
       "Number": 34,
-      "Name": "Skunk",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Skunk"
     },
     {
       "Number": 35,
-      "Name": "Bat",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bat"
     },
     {
       "Number": 36,
-      "Name": "Deer",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Deer"
     },
     {
       "Number": 37,
-      "Name": "Moose",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Moose"
     },
     {
       "Number": 38,
-      "Name": "Elk",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Elk"
     },
     {
       "Number": 39,
-      "Name": "Antelope",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Antelope"
     },
     {
       "Number": 40,
-      "Name": "Cheetah",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cheetah"
     },
     {
       "Number": 41,
-      "Name": "Jaguar",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Jaguar"
     },
     {
       "Number": 42,
-      "Name": "Leopard",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Leopard"
     },
     {
       "Number": 43,
-      "Name": "Snow Leopard",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Snow Leopard"
     },
     {
       "Number": 44,
-      "Name": "Monkey",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Monkey"
     },
     {
       "Number": 45,
-      "Name": "Gorilla",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Gorilla"
     },
     {
       "Number": 46,
-      "Name": "Orangutan",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Orangutan"
     },
     {
       "Number": 47,
-      "Name": "Chimpanzee",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Chimpanzee"
     },
     {
       "Number": 48,
-      "Name": "Baboon",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Baboon"
     },
     {
       "Number": 49,
-      "Name": "Lemur",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lemur"
     },
     {
       "Number": 50,
-      "Name": "Squirrel",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Squirrel"
     },
     {
       "Number": 51,
-      "Name": "Beaver",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Beaver"
     },
     {
       "Number": 52,
-      "Name": "Otter",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Otter"
     },
     {
       "Number": 53,
-      "Name": "Hedgehog",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hedgehog"
     },
     {
       "Number": 54,
-      "Name": "Rabbit",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Rabbit"
     },
     {
       "Number": 55,
-      "Name": "Mouse",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Mouse"
     },
     {
       "Number": 56,
-      "Name": "Rat",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Rat"
     },
     {
       "Number": 57,
-      "Name": "Guinea Pig",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Guinea Pig"
     },
     {
       "Number": 58,
-      "Name": "Hamster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Hamster"
     },
     {
       "Number": 59,
-      "Name": "Ferret",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ferret"
     },
     {
       "Number": 60,
-      "Name": "Chinchilla",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Chinchilla"
     },
     {
       "Number": 61,
-      "Name": "Goldfish",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Goldfish"
     },
     {
       "Number": 62,
-      "Name": "Koi",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Koi"
     },
     {
       "Number": 63,
-      "Name": "Betta Fish",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Betta Fish"
     },
     {
       "Number": 64,
-      "Name": "Turtle",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Turtle"
     },
     {
       "Number": 65,
-      "Name": "Snake",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Snake"
     },
     {
       "Number": 66,
-      "Name": "Iguana",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Iguana"
     },
     {
       "Number": 67,
-      "Name": "Crocodile",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Crocodile"
     },
     {
       "Number": 68,
-      "Name": "Alligator",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Alligator"
     },
     {
       "Number": 69,
-      "Name": "Frog",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Frog"
     },
     {
       "Number": 70,
-      "Name": "Toad",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Toad"
     },
     {
       "Number": 71,
-      "Name": "Salamander",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Salamander"
     },
     {
       "Number": 72,
-      "Name": "Newt",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Newt"
     },
     {
       "Number": 73,
-      "Name": "Butterfly",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Butterfly"
     },
     {
       "Number": 74,
-      "Name": "Moth",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Moth"
     },
     {
       "Number": 75,
-      "Name": "Bee",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Bee"
     },
     {
       "Number": 76,
-      "Name": "Ant",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Ant"
     },
     {
       "Number": 77,
-      "Name": "Grasshopper",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Grasshopper"
     },
     {
       "Number": 78,
-      "Name": "Cricket",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cricket"
     },
     {
       "Number": 79,
-      "Name": "Cockroach",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cockroach"
     },
     {
       "Number": 80,
-      "Name": "Spider",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Spider"
     },
     {
       "Number": 81,
-      "Name": "Scorpion",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Scorpion"
     },
     {
       "Number": 82,
-      "Name": "Starfish",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Starfish"
     },
     {
       "Number": 83,
-      "Name": "Sea Urchin",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sea Urchin"
     },
     {
       "Number": 84,
-      "Name": "Jellyfish",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Jellyfish"
     },
     {
       "Number": 85,
-      "Name": "Sea Horse",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sea Horse"
     },
     {
       "Number": 86,
-      "Name": "Clownfish",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Clownfish"
     },
     {
       "Number": 87,
-      "Name": "Stingray",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Stingray"
     },
     {
       "Number": 88,
-      "Name": "Lobster",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Lobster"
     },
     {
       "Number": 89,
-      "Name": "Crab",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Crab"
     },
     {
       "Number": 90,
-      "Name": "Shrimp",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Shrimp"
     },
     {
       "Number": 91,
-      "Name": "Squid",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Squid"
     },
     {
       "Number": 92,
-      "Name": "Cuttlefish",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Cuttlefish"
     },
     {
       "Number": 93,
-      "Name": "Sea Cucumber",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sea Cucumber"
     },
     {
       "Number": 94,
-      "Name": "Manatee",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Manatee"
     },
     {
       "Number": 95,
-      "Name": "Sea Lion",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Sea Lion"
     },
     {
       "Number": 96,
-      "Name": "Walrus",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Walrus"
     },
     {
       "Number": 97,
-      "Name": "Seal",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Seal"
     },
     {
       "Number": 98,
-      "Name": "Polar Bear",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Polar Bear"
     },
     {
       "Number": 99,
-      "Name": "Narwhal",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Narwhal"
     },
     {
       "Number": 100,
-      "Name": "Beluga Whale",
-      "Favorites": 0,
-      "Dislike": 0,
-      "Appearances": 0,
-      "Used": 0
+      "Name": "Beluga Whale"
     }
   ]
 }

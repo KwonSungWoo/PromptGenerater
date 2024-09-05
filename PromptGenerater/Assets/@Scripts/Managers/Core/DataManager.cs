@@ -29,6 +29,13 @@ public class DataManager
     public Dictionary<int, Data.TableData> ShellfishDic         { get; private set; } = new Dictionary<int, Data.TableData>();
     public Dictionary<int, Data.TableData> InsectDic            { get; private set; } = new Dictionary<int, Data.TableData>();
     public Dictionary<int, Data.TableData> ArmorDic             { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> FemaleDic            { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> AnimationDic         { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> ClothingBrandDic     { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> JobDic               { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> FantasyJobDic        { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> TraditionalClothDic  { get; private set; } = new Dictionary<int, Data.TableData>();
+    public Dictionary<int, Data.TableData> CharacterDic         { get; private set; } = new Dictionary<int, Data.TableData>();
     //public Dictionary<int, Data.EnvData> EnvDic               { get; private set; } = new Dictionary<int, Data.EnvData>();
 
     public void Init()
@@ -48,6 +55,13 @@ public class DataManager
         ShellfishDic        = LoadJson<Data.TableDataLoader, int, Data.TableData>("ShellfishData"       ).MakeDict();
         InsectDic           = LoadJson<Data.TableDataLoader, int, Data.TableData>("InsectData"          ).MakeDict();
         ArmorDic            = LoadJson<Data.TableDataLoader, int, Data.TableData>("ArmorData"           ).MakeDict();
+        FemaleDic           = LoadJson<Data.TableDataLoader, int, Data.TableData>("FemaleData"          ).MakeDict();
+        AnimationDic        = LoadJson<Data.TableDataLoader, int, Data.TableData>("AnimationData"		).MakeDict();
+        ClothingBrandDic    = LoadJson<Data.TableDataLoader, int, Data.TableData>("ClothingBrandData"	).MakeDict();
+        JobDic              = LoadJson<Data.TableDataLoader, int, Data.TableData>("JobData"				).MakeDict();
+        FantasyJobDic       = LoadJson<Data.TableDataLoader, int, Data.TableData>("FantasyJobData"		).MakeDict();
+        TraditionalClothDic = LoadJson<Data.TableDataLoader, int, Data.TableData>("TraditionalClothData").MakeDict();
+        CharacterDic        = LoadJson<Data.TableDataLoader, int, Data.TableData>("CharacterData"	    ).MakeDict();
         //EnvDic            = LoadJson<Data.EnvDataLoader, int, Data.EnvData>("EnvData").MakeDict();
 
 
@@ -62,9 +76,16 @@ public class DataManager
         AllDict.Add("Stylize"           , StylizeDic            );
         AllDict.Add("Version"           , VersionDic            );
         AllDict.Add("Blank"             , BlankDic              );
-        AllDict.Add("Shellfish"     , ShellfishDic          );
-        AllDict.Add("Insect"        , InsectDic             );
-        AllDict.Add("Armor"         , ArmorDic              );
+        AllDict.Add("Shellfish"         , ShellfishDic          );
+        AllDict.Add("Insect"            , InsectDic             );
+        AllDict.Add("Armor"             , ArmorDic              );
+        AllDict.Add("Female"            , FemaleDic             );
+        AllDict.Add("Animation"         , AnimationDic          );
+        AllDict.Add("ClothingBrand"     , ClothingBrandDic      );
+        AllDict.Add("Job"               , JobDic                );
+        AllDict.Add("FantasyJob"        , FantasyJobDic         );
+        AllDict.Add("TraditionalCloth"  , TraditionalClothDic   );
+        AllDict.Add("Character"         , CharacterDic          );
     }
 
     private Loader LoadJson<Loader, Key, Value>(string path) where Loader : ILoader<Key, Value>

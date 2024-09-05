@@ -1,0 +1,368 @@
+{
+  "tables": [
+    {
+      "Number": 1,
+      "Name": "Kimono"
+    },
+    {
+      "Number": 2,
+      "Name": "Hanbok"
+    },
+    {
+      "Number": 3,
+      "Name": "Sari"
+    },
+    {
+      "Number": 4,
+      "Name": "Qipao"
+    },
+    {
+      "Number": 5,
+      "Name": "Dhoti"
+    },
+    {
+      "Number": 6,
+      "Name": "Dashiki"
+    },
+    {
+      "Number": 7,
+      "Name": "Kaftan"
+    },
+    {
+      "Number": 8,
+      "Name": "Djellaba"
+    },
+    {
+      "Number": 9,
+      "Name": "Dirndl"
+    },
+    {
+      "Number": 10,
+      "Name": "Lederhosen"
+    },
+    {
+      "Number": 11,
+      "Name": "Baju Kurung"
+    },
+    {
+      "Number": 12,
+      "Name": "Barong Tagalog"
+    },
+    {
+      "Number": 13,
+      "Name": "Ao Dai"
+    },
+    {
+      "Number": 14,
+      "Name": "Kilt"
+    },
+    {
+      "Number": 15,
+      "Name": "Tracht"
+    },
+    {
+      "Number": 16,
+      "Name": "Bunad"
+    },
+    {
+      "Number": 17,
+      "Name": "Ghillie Shirt"
+    },
+    {
+      "Number": 18,
+      "Name": "Poncho"
+    },
+    {
+      "Number": 19,
+      "Name": "Huipil"
+    },
+    {
+      "Number": 20,
+      "Name": "Sombrero Vueltiao"
+    },
+    {
+      "Number": 21,
+      "Name": "Pollera"
+    },
+    {
+      "Number": 22,
+      "Name": "Chupalla"
+    },
+    {
+      "Number": 23,
+      "Name": "Cangaço"
+    },
+    {
+      "Number": 24,
+      "Name": "Sherwani"
+    },
+    {
+      "Number": 25,
+      "Name": "Shalwar Kameez"
+    },
+    {
+      "Number": 26,
+      "Name": "Keffiyeh"
+    },
+    {
+      "Number": 27,
+      "Name": "Thobe"
+    },
+    {
+      "Number": 28,
+      "Name": "Abaya"
+    },
+    {
+      "Number": 29,
+      "Name": "Gho and Kira"
+    },
+    {
+      "Number": 30,
+      "Name": "Boubou"
+    },
+    {
+      "Number": 31,
+      "Name": "Yukata"
+    },
+    {
+      "Number": 32,
+      "Name": "Sarong Kebaya"
+    },
+    {
+      "Number": 33,
+      "Name": "Tunic"
+    },
+    {
+      "Number": 34,
+      "Name": "Toga"
+    },
+    {
+      "Number": 35,
+      "Name": "Peplos"
+    },
+    {
+      "Number": 36,
+      "Name": "Chiton"
+    },
+    {
+      "Number": 37,
+      "Name": "Tzute"
+    },
+    {
+      "Number": 38,
+      "Name": "Tangzhuang"
+    },
+    {
+      "Number": 39,
+      "Name": "Cheongsam"
+    },
+    {
+      "Number": 40,
+      "Name": "Áo tứ thân"
+    },
+    {
+      "Number": 41,
+      "Name": "Agbada"
+    },
+    {
+      "Number": 42,
+      "Name": "Terno"
+    },
+    {
+      "Number": 43,
+      "Name": "Sompot"
+    },
+    {
+      "Number": 44,
+      "Name": "Lava-lava"
+    },
+    {
+      "Number": 45,
+      "Name": "Tiputa"
+    },
+    {
+      "Number": 46,
+      "Name": "Fustanella"
+    },
+    {
+      "Number": 47,
+      "Name": "Del"
+    },
+    {
+      "Number": 48,
+      "Name": "Deel"
+    },
+    {
+      "Number": 49,
+      "Name": "Pangi"
+    },
+    {
+      "Number": 50,
+      "Name": "Rida"
+    },
+    {
+      "Number": 51,
+      "Name": "Gaucho"
+    },
+    {
+      "Number": 52,
+      "Name": "Matyo"
+    },
+    {
+      "Number": 53,
+      "Name": "Gomesi"
+    },
+    {
+      "Number": 54,
+      "Name": "Kanga"
+    },
+    {
+      "Number": 55,
+      "Name": "Jellabiya"
+    },
+    {
+      "Number": 56,
+      "Name": "Karagouna"
+    },
+    {
+      "Number": 57,
+      "Name": "Nemes"
+    },
+    {
+      "Number": 58,
+      "Name": "Shenti"
+    },
+    {
+      "Number": 59,
+      "Name": "Kalasiris"
+    },
+    {
+      "Number": 60,
+      "Name": "Habesha Kemis"
+    },
+    {
+      "Number": 61,
+      "Name": "Daura-Suruwal"
+    },
+    {
+      "Number": 62,
+      "Name": "Kalpak"
+    },
+    {
+      "Number": 63,
+      "Name": "Chokha"
+    },
+    {
+      "Number": 64,
+      "Name": "Lapp Dress"
+    },
+    {
+      "Number": 65,
+      "Name": "Breechcloth"
+    },
+    {
+      "Number": 66,
+      "Name": "Ribbon Shirt"
+    },
+    {
+      "Number": 67,
+      "Name": "War Shirt"
+    },
+    {
+      "Number": 68,
+      "Name": "Longyi"
+    },
+    {
+      "Number": 69,
+      "Name": "Chuba"
+    },
+    {
+      "Number": 70,
+      "Name": "Tob Tabard"
+    },
+    {
+      "Number": 71,
+      "Name": "Smock Frock"
+    },
+    {
+      "Number": 72,
+      "Name": "Sob"
+    },
+    {
+      "Number": 73,
+      "Name": "Thawb"
+    },
+    {
+      "Number": 74,
+      "Name": "Balinese Kebaya"
+    },
+    {
+      "Number": 75,
+      "Name": "Kabney and Rachu"
+    },
+    {
+      "Number": 76,
+      "Name": "Tsamik"
+    },
+    {
+      "Number": 77,
+      "Name": "Serdak"
+    },
+    {
+      "Number": 78,
+      "Name": "Filikotouna"
+    },
+    {
+      "Number": 79,
+      "Name": "Mantilla"
+    },
+    {
+      "Number": 80,
+      "Name": "Farthingale"
+    },
+    {
+      "Number": 81,
+      "Name": "Tudor Gown"
+    },
+    {
+      "Number": 82,
+      "Name": "Cheogori and Chima"
+    },
+    {
+      "Number": 83,
+      "Name": "Tuiga"
+    },
+    {
+      "Number": 84,
+      "Name": "Amalia Dress"
+    },
+    {
+      "Number": 85,
+      "Name": "Kokoshnik"
+    },
+    {
+      "Number": 86,
+      "Name": "Rubakha"
+    },
+    {
+      "Number": 87,
+      "Name": "Tsarouhi"
+    },
+    {
+      "Number": 88,
+      "Name": "Spodik"
+    },
+    {
+      "Number": 89,
+      "Name": "Tricorne"
+    },
+    {
+      "Number": 90,
+      "Name": "Epanokamelavkion"
+    },
+    {
+      "Number": 91,
+      "Name": "Tyrolean Hat"
+    }
+  ]
+}
